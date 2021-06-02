@@ -1,0 +1,3310 @@
+{
+    "score ∈ [1.0, 2.0)": [
+        {
+            "context": [
+                "My appointment was on Monday .",
+                "What time had you chosen ?"
+            ],
+            "hyp_response": "It's Friday .",
+            "ref_response": "It was for 10",
+            "human_score": 1.89,
+            "GRADE_score": 4.6,
+            "QuantiDCE_score": 2.73
+        },
+        {
+            "context": [
+                "she said that the columnist for the literary criticism column would be going on pregnancy leave soon and that I could be in charge of the column until she came back .",
+                "wow ! That's really great news . How often does the magazine come out ?"
+            ],
+            "hyp_response": "She said that the columnist for the literary criticism column would be going on pregnancy leave soon and that I could be in charge of the column until she came back .",
+            "ref_response": "it's a monthly magazine , but my column will be shared with another columnist so my articles will be due fortnightly .",
+            "human_score": 1.89,
+            "GRADE_score": 4.02,
+            "QuantiDCE_score": 2.81
+        },
+        {
+            "context": [
+                "That one truly is a beautiful piece of work , isn't it ?",
+                "One last question"
+            ],
+            "hyp_response": "Yes , I do .",
+            "ref_response": "Oh , no . Everything we sell here is \" as is . \"",
+            "human_score": 1.9,
+            "GRADE_score": 4.58,
+            "QuantiDCE_score": 2.62
+        }
+    ],
+    "score ∈ [2.0, 3.0)": [
+        {
+            "context": [
+                "If only our company prescribe flex time .",
+                "The board has been considering introducing flex time ."
+            ],
+            "hyp_response": "I'm wondering if you often trade with others on the internet .",
+            "ref_response": "Good news . Ah , what if be even better if alternative work place is provided .",
+            "human_score": 2.9,
+            "GRADE_score": 2.05,
+            "QuantiDCE_score": 2.39
+        },
+        {
+            "context": [
+                "Thank you so much . Does he read his e-mails daily ?",
+                "Yes . He usually replies immediately ."
+            ],
+            "hyp_response": "He is afraid of his father-in-law .",
+            "ref_response": "Great . Thanks again . You've been very helpful .",
+            "human_score": 2.5,
+            "GRADE_score": 3.69,
+            "QuantiDCE_score": 2.64
+        },
+        {
+            "context": [
+                "I'll take a little milk , but no sugar , please . Make sure you let the tea steep a few minutes before you take the tea bag out of the cup .",
+                "Ok . What do you think about our living room ?"
+            ],
+            "hyp_response": "It doesn't seem like that . Sorry , sir , we've tried everything , but we're not able to get it off the shirt . It was from the sugar I think .",
+            "ref_response": "Well , I do like the mantelpiece and the coffee table , but I don't really care for curtains . Did you get them at a yard sale ? They look ancient .",
+            "human_score": 2.8,
+            "GRADE_score": 2.54,
+            "QuantiDCE_score": 2.4
+        },
+        {
+            "context": [
+                "Take it easy . We are going to have our own baby . You should be happy .",
+                "Yeah , I know ."
+            ],
+            "hyp_response": "I know , mom .",
+            "ref_response": "The doctors and the nurses will help you . And I will be waiting for you right here , praying for you and our baby .",
+            "human_score": 2.3,
+            "GRADE_score": 4.6,
+            "QuantiDCE_score": 2.9
+        },
+        {
+            "context": [
+                "Wow ! Your calligraphy is very beautiful . It was worth the wait !",
+                "Thank you . Today I'm writing a kind of poem called a Chinese couplet ."
+            ],
+            "hyp_response": "oh , she keeps saying that . She never allows me to have them .",
+            "ref_response": "What does it say ?",
+            "human_score": 2.2,
+            "GRADE_score": 2.32,
+            "QuantiDCE_score": 1.85
+        },
+        {
+            "context": [
+                "Anything wrong with it ?",
+                "Yes . When I spread it out back home , I found this hole ."
+            ],
+            "hyp_response": "You're right . Let's ask her to give us one more week .",
+            "ref_response": "Oh , how awful ! May I have a look at the invoice ?",
+            "human_score": 2.7,
+            "GRADE_score": 1.97,
+            "QuantiDCE_score": 2.26
+        },
+        {
+            "context": [
+                "The service did not help the situation .",
+                "Is this a restaurant that you want to come back to ?"
+            ],
+            "hyp_response": "I went up there early this morning .",
+            "ref_response": "I am not interested in trying this restaurant again .",
+            "human_score": 2.2,
+            "GRADE_score": 3.66,
+            "QuantiDCE_score": 2.38
+        },
+        {
+            "context": [
+                "Well , there will be charity performance on Saturday night . And also , there will be a solo concert by an opera star on Sunday night .",
+                "It's a good thing that I have choices here . Can you tell me about the one on Saturday ?"
+            ],
+            "hyp_response": "Sure , it's spelled Office and then D - E - P - O - T . It ' s in the Yellow Pages .",
+            "ref_response": "Sure . It's to raise money for the homeless .",
+            "human_score": 2.8,
+            "GRADE_score": 2.39,
+            "QuantiDCE_score": 2.3
+        },
+        {
+            "context": [
+                "I shouted it back of course .",
+                "Hold it , Mike . You won't accomplish anything by hollering at him , right ? You worked it all up till now . Why not wait until you cool down a bit ?"
+            ],
+            "hyp_response": "well , I wish someone could talk to me about Western table manners",
+            "ref_response": "What would you do if you were in my shoes ?",
+            "human_score": 2.7,
+            "GRADE_score": 2.37,
+            "QuantiDCE_score": 2.27
+        },
+        {
+            "context": [
+                "What did they say ?",
+                "They said I need a new hard drive ."
+            ],
+            "hyp_response": "They're still fighting hard . Let ' s wait and see .",
+            "ref_response": "That's too bad . How much is a new one ?",
+            "human_score": 2.3,
+            "GRADE_score": 3.06,
+            "QuantiDCE_score": 2.0
+        },
+        {
+            "context": [
+                "That is right up my alley . You say party and I'm there .",
+                "Perfect . It will be open to the public and we anticipate roughly about five to seven hundred people ."
+            ],
+            "hyp_response": "Not until the 31st . So can you change the church reservations ?",
+            "ref_response": "Will it be an all day event ?",
+            "human_score": 2.8,
+            "GRADE_score": 2.74,
+            "QuantiDCE_score": 2.25
+        },
+        {
+            "context": [
+                "Oh , your precious game . You watch the same game every year , and each year your beloved hometown team loses by at least three goals !",
+                "Oh no you didn't . You didn't just insult the Sals-bury Seals , did you ? Why don't you just . just go and return all of those stupid clothes and not come back until the sales are over ?"
+            ],
+            "hyp_response": "Oh , your precious game . You watch the same game every year , and each year your beloved hometown team loses by at least three goals !",
+            "ref_response": "I might just ! Enjoy your stupid game !",
+            "human_score": 2.6,
+            "GRADE_score": 4.34,
+            "QuantiDCE_score": 2.92
+        },
+        {
+            "context": [
+                "I wasn't all that impressed by the food .",
+                "The service certainly could have been better ."
+            ],
+            "hyp_response": "It wasn't as good as you think .",
+            "ref_response": "The service did not help the situation .",
+            "human_score": 2.8,
+            "GRADE_score": 4.24,
+            "QuantiDCE_score": 3.2
+        },
+        {
+            "context": [
+                "Yes , I have been working in the Public Relations Section of a company in the past two years . I plan the advertising campaign and cooperate the work of artists and typographers . Sometimes I have to do the work of a specialist when there's something urgent .",
+                "Do you have any practical experience as a secretary ?"
+            ],
+            "hyp_response": "First , I worked as a servant .",
+            "ref_response": "Yes , sir . I acted as a secretary in an insurance company .",
+            "human_score": 2.6,
+            "GRADE_score": 4.39,
+            "QuantiDCE_score": 3.11
+        },
+        {
+            "context": [
+                "Good morning .",
+                "What does the paper say ?"
+            ],
+            "hyp_response": "It's 5:30 by my watch .",
+            "ref_response": "Nothing much — the same old stuff . A lot of bad news as usual .",
+            "human_score": 2.6,
+            "GRADE_score": 3.58,
+            "QuantiDCE_score": 2.59
+        },
+        {
+            "context": [
+                "All right , can I have your passbook ?",
+                "Yes , here you go ."
+            ],
+            "hyp_response": "All right . Now can I have your passbook ?",
+            "ref_response": "What amounts do you want the checks in ?",
+            "human_score": 2.9,
+            "GRADE_score": 4.58,
+            "QuantiDCE_score": 3.34
+        },
+        {
+            "context": [
+                "And they will yell back at you .",
+                "Yelling doesn't do any good ."
+            ],
+            "hyp_response": "I'm happy to help .",
+            "ref_response": "No . The best thing to do is just stay home .",
+            "human_score": 2.9,
+            "GRADE_score": 3.21,
+            "QuantiDCE_score": 3.19
+        },
+        {
+            "context": [
+                "Let me check . Yes , we have .",
+                "May I try it on ?"
+            ],
+            "hyp_response": "You'd like it .",
+            "ref_response": "Sure . Let me help you .",
+            "human_score": 2.4,
+            "GRADE_score": 4.6,
+            "QuantiDCE_score": 3.07
+        },
+        {
+            "context": [
+                "And they're very dear , too .",
+                "They're on special offer today ."
+            ],
+            "hyp_response": "I wonder if they left it sitting around too long before they served it .",
+            "ref_response": "Oh , that's ideal .",
+            "human_score": 2.8,
+            "GRADE_score": 3.14,
+            "QuantiDCE_score": 2.81
+        },
+        {
+            "context": [
+                "You can't come any earlier than that ?",
+                "I'm sorry . That's the only available time ."
+            ],
+            "hyp_response": "I can't catch the bus with you anymore .",
+            "ref_response": "Are you available this Saturday ?",
+            "human_score": 2.6,
+            "GRADE_score": 3.45,
+            "QuantiDCE_score": 2.84
+        },
+        {
+            "context": [
+                "Excuse me . I have an appointment with Mr . Li at nine . May I come in ?",
+                "Yes , come in please . I am Mr . Li . You must be My Liu , right ?"
+            ],
+            "hyp_response": "I'm sorry , but he's not in the office now . Do you have an appointment ?",
+            "ref_response": "Yes , I am My Liu . Thanks .",
+            "human_score": 2.7,
+            "GRADE_score": 4.18,
+            "QuantiDCE_score": 3.11
+        },
+        {
+            "context": [
+                "What is it ? What happened ?",
+                "I think someone is stalking me ."
+            ],
+            "hyp_response": "No . Really , what happened ?",
+            "ref_response": "No , it can't be . Really ? Who ?",
+            "human_score": 2.9,
+            "GRADE_score": 4.46,
+            "QuantiDCE_score": 3.74
+        },
+        {
+            "context": [
+                "What is it used for ? I mean , why bother to get this special account ?",
+                "Group companies can use this to make their arrangement of funds flexible , when dealing with their subsidiaries ."
+            ],
+            "hyp_response": "What kind of action is required ?",
+            "ref_response": "I see , so this can really cut down on time and centralise management . Interesting  .  .  .",
+            "human_score": 2.6,
+            "GRADE_score": 3.63,
+            "QuantiDCE_score": 2.67
+        },
+        {
+            "context": [
+                "The boss wanted to pay Bob with stock options . But Bob didn't want to play that game again .",
+                "Again ?"
+            ],
+            "hyp_response": "It's only seven minutes into the game , too early to cheer up .",
+            "ref_response": "At his last start-up , Bob worked for stock and no salary . They folded and he made zip .",
+            "human_score": 2.9,
+            "GRADE_score": 2.38,
+            "QuantiDCE_score": 2.72
+        },
+        {
+            "context": [
+                "Ah , some products are successful at home , but not be popular overseas .",
+                "That's because the fashion , taste and social customs and so on vary considerably ."
+            ],
+            "hyp_response": "Well I guess you have fewer characters but I think Chinese grammar is easier .",
+            "ref_response": "Yes , sometimes the differences are great .",
+            "human_score": 2.1,
+            "GRADE_score": 2.41,
+            "QuantiDCE_score": 1.81
+        },
+        {
+            "context": [
+                "You know , I fell in love with this house the first moment I laid eyes on it .",
+                "The style of the exterior is just what I'Ve been looking for !"
+            ],
+            "hyp_response": "Well could you do me the favor of making this quick ? It ' s the third quarter and you ' Ve been blabbering on since the first !",
+            "ref_response": "The exterior is only half of the story . The interior is incredible .",
+            "human_score": 2.8,
+            "GRADE_score": 2.52,
+            "QuantiDCE_score": 2.34
+        },
+        {
+            "context": [
+                "With everything , with everybody , with all this !",
+                "A good suggestion for you . You need a holiday ."
+            ],
+            "hyp_response": "A good suggestion for you . You need a holiday .",
+            "ref_response": "It wasn't always like this , you know .",
+            "human_score": 2.8,
+            "GRADE_score": 4.38,
+            "QuantiDCE_score": 3.31
+        },
+        {
+            "context": [
+                "Are these the clothes you want to have washed ?",
+                "Yes . When can I get them back ?"
+            ],
+            "hyp_response": "Or maybe make the beds .",
+            "ref_response": "Well , if they are collected right now , you can get them back tonight .",
+            "human_score": 2.6,
+            "GRADE_score": 3.91,
+            "QuantiDCE_score": 2.9
+        },
+        {
+            "context": [
+                "Then tell me something about your background .",
+                "My major was computer science when I was at college , and I am quite familiar with Visual C + + and Java language ."
+            ],
+            "hyp_response": "What are you basing this information on ?",
+            "ref_response": "Well , what do you think about the development in computers ?",
+            "human_score": 2.5,
+            "GRADE_score": 3.58,
+            "QuantiDCE_score": 2.57
+        },
+        {
+            "context": [
+                "Hi . What's your name ?",
+                "My name is Jung Min . What's your name ?"
+            ],
+            "hyp_response": "I'm an engineer at IBM .",
+            "ref_response": "My name is Jessica . It's nice to meet you .",
+            "human_score": 2.6,
+            "GRADE_score": 4.14,
+            "QuantiDCE_score": 3.87
+        },
+        {
+            "context": [
+                "Why don't you watch where you're going ?",
+                "Me ? You're the one who pulled out in front of me !"
+            ],
+            "hyp_response": "Me ? You're the one who pulled out in front of me !",
+            "ref_response": "There was plenty of room for me to pull out . You didn't have to stay in the lane you were in .",
+            "human_score": 2.3,
+            "GRADE_score": 4.43,
+            "QuantiDCE_score": 2.83
+        },
+        {
+            "context": [
+                "I need to book a plane ticket to London .",
+                "Round-trip or one-way ?"
+            ],
+            "hyp_response": "Round trip or one way trip ?",
+            "ref_response": "One-way .",
+            "human_score": 2.1,
+            "GRADE_score": 4.52,
+            "QuantiDCE_score": 2.85
+        },
+        {
+            "context": [
+                "That sounds good . You order the beer while I go to the bathroom . Where is the can in this place ?",
+                "It's all the way to the back . See that yellow door ?"
+            ],
+            "hyp_response": "It's all the way to the back . See that yellow door ?",
+            "ref_response": "Yeah . I think I can find it .",
+            "human_score": 2.4,
+            "GRADE_score": 4.32,
+            "QuantiDCE_score": 2.83
+        },
+        {
+            "context": [
+                "I think that's just steam . Your engine's overheated .",
+                "Do you know a lot about cars ?"
+            ],
+            "hyp_response": "I usually only have 2 beers .",
+            "ref_response": "A little bit . I'll take a look if you want me to .",
+            "human_score": 2.6,
+            "GRADE_score": 2.21,
+            "QuantiDCE_score": 2.28
+        },
+        {
+            "context": [
+                "Sorry . I was too worried .",
+                "I firmly believe that you love your brother very much ."
+            ],
+            "hyp_response": "But I want you to be fit .",
+            "ref_response": "Absolutely . By the way , do you sell any traditional Chinese medicine ?",
+            "human_score": 2.1,
+            "GRADE_score": 2.99,
+            "QuantiDCE_score": 1.93
+        },
+        {
+            "context": [
+                "Not really . I don't think pop music has much depth .",
+                "I see what you mean . I think that's way I like it so much ."
+            ],
+            "hyp_response": "not really . I don't think pop music has much depth .",
+            "ref_response": "How long have you been in to pop music , then ?",
+            "human_score": 2.9,
+            "GRADE_score": 4.31,
+            "QuantiDCE_score": 3.29
+        },
+        {
+            "context": [
+                "It is an exhibition of Chinese jades . It is held each year . A nice collection jades of are on display and sold .",
+                "Sounds great ! Can you stop somewhere here for a minute ? I will get some souvenirs for my friends ."
+            ],
+            "hyp_response": "We share the same desire . Have you seen the display of our products in the exhibition hall downstairs ?",
+            "ref_response": "No problem .",
+            "human_score": 2.9,
+            "GRADE_score": 2.88,
+            "QuantiDCE_score": 2.91
+        },
+        {
+            "context": [
+                "The bartender just gave the last call . Let's order another round , okay ?",
+                "Sure , but let's get a pitcher this time We should be able to down it before they close ."
+            ],
+            "hyp_response": "The bartender just gave the last call . Let's order another round , okay ?",
+            "ref_response": "That sounds good . You order the beer while I go to the bathroom . Where is the can in this place ?",
+            "human_score": 2.6,
+            "GRADE_score": 4.07,
+            "QuantiDCE_score": 2.84
+        },
+        {
+            "context": [
+                "Does the class start again , Mam ?",
+                "Yes , but to the heath , this break has long enough ."
+            ],
+            "hyp_response": "Yes , I mean it .",
+            "ref_response": "Oh , breaktime flies .",
+            "human_score": 2.5,
+            "GRADE_score": 4.46,
+            "QuantiDCE_score": 3.03
+        },
+        {
+            "context": [
+                "Sure ! Are you okay ? You seem a bit worried . What's on your mind ?",
+                "We need to talk ."
+            ],
+            "hyp_response": "We need to talk .",
+            "ref_response": "Okay  .  .  .",
+            "human_score": 2.8,
+            "GRADE_score": 3.52,
+            "QuantiDCE_score": 3.18
+        },
+        {
+            "context": [
+                "Have I got a high fever ?",
+                "Yes , thirty-eight point seven . Do you have a headache , chest or throat pain ?"
+            ],
+            "hyp_response": "No , but I have a low fever .",
+            "ref_response": "Yes , I have .",
+            "human_score": 2.9,
+            "GRADE_score": 4.51,
+            "QuantiDCE_score": 3.4
+        },
+        {
+            "context": [
+                "That one truly is a beautiful piece of work , isn't it ?",
+                "One last question"
+            ],
+            "hyp_response": "It's fashionable .",
+            "ref_response": "Oh , no . Everything we sell here is \" as is . \"",
+            "human_score": 2.9,
+            "GRADE_score": 4.53,
+            "QuantiDCE_score": 3.23
+        },
+        {
+            "context": [
+                "You'll need to make an appointment .",
+                "Could I do that right now , please ?"
+            ],
+            "hyp_response": "You need an appointment .",
+            "ref_response": "What day would you like us to do the installation ?",
+            "human_score": 2.8,
+            "GRADE_score": 4.47,
+            "QuantiDCE_score": 3.14
+        },
+        {
+            "context": [
+                "You get your bus pass ?",
+                "I'm not going to buy one ."
+            ],
+            "hyp_response": "Is it fun driving the bus ?",
+            "ref_response": "You're not ?",
+            "human_score": 2.1,
+            "GRADE_score": 3.73,
+            "QuantiDCE_score": 2.69
+        },
+        {
+            "context": [
+                "You're made a good choice . This china tea set is unusual .",
+                "Where was it from ?"
+            ],
+            "hyp_response": "Tea and silk .",
+            "ref_response": "It was made in Jingdezhen .",
+            "human_score": 2.1,
+            "GRADE_score": 4.56,
+            "QuantiDCE_score": 2.8
+        },
+        {
+            "context": [
+                "Well , you should come this weekend . I think you could do the climb .",
+                "Yeah , I will . See you then !"
+            ],
+            "hyp_response": "Well , you should come this weekend . I think you could do the climb .",
+            "ref_response": "O . K . See you .",
+            "human_score": 2.9,
+            "GRADE_score": 4.42,
+            "QuantiDCE_score": 3.26
+        },
+        {
+            "context": [
+                "Let me guess , from Sarah . It looks like something she would drive .",
+                "You guessed right . Besides , the color violet is a little girly for me ."
+            ],
+            "hyp_response": "You guessed right . Besides , the color violet is a little girly for me ...",
+            "ref_response": "I love it . It's so festive ! And where did you get that cup ? It's got the same logo .",
+            "human_score": 2.7,
+            "GRADE_score": 4.52,
+            "QuantiDCE_score": 3.25
+        },
+        {
+            "context": [
+                "Have you ever listened to AM radio ? It's quite a different experience than the traditional news stations on TV and FM radio .",
+                "I don't remember the last time I listened to AM radio ."
+            ],
+            "hyp_response": "Are you kidding ? Don't you know I can't swim ?",
+            "ref_response": "Another place you can get real insight is European papers . You can get them on-line .",
+            "human_score": 2.3,
+            "GRADE_score": 1.6,
+            "QuantiDCE_score": 2.11
+        },
+        {
+            "context": [
+                "Here's my name card .",
+                "And here's mine ."
+            ],
+            "hyp_response": "It's all yours .",
+            "ref_response": "It's nice to finally meet you .",
+            "human_score": 2.8,
+            "GRADE_score": 4.51,
+            "QuantiDCE_score": 3.19
+        },
+        {
+            "context": [
+                "Why doesn't he ask her ?",
+                "He is too scared to ask her ."
+            ],
+            "hyp_response": "He is too scared to ask her .",
+            "ref_response": "He's a chicken guy .",
+            "human_score": 2.7,
+            "GRADE_score": 4.34,
+            "QuantiDCE_score": 3.01
+        },
+        {
+            "context": [
+                "Well , known , Jim , I'm  .  .  .  I'm pretty much in favour of your computers , I think computers teach kids to think , because they require logical thoughts .",
+                "But I  .  .  .  I don't agree with thatbecause computers weaken kids'ability to thinkbecause kids don't learn basic skills ."
+            ],
+            "hyp_response": "But I ... I don't agree with that , because computers weaken kids ' ability to think , because kids don't learn basic skills .",
+            "ref_response": "What do you mean ?",
+            "human_score": 2.8,
+            "GRADE_score": 4.47,
+            "QuantiDCE_score": 3.24
+        },
+        {
+            "context": [
+                "Anyway , the show is breathtaking . By the way , where did they get so much snow here ?",
+                "Well , they have the most advanced snowmaking machine ."
+            ],
+            "hyp_response": "No way , if it still has 21 .",
+            "ref_response": "Do you think the snowmaking may cause pollution ?",
+            "human_score": 2.5,
+            "GRADE_score": 3.11,
+            "QuantiDCE_score": 2.14
+        },
+        {
+            "context": [
+                "Nothing , Mummy . I was hungry so I came here for some milk .",
+                "Milk ? I thought you didn't like milk ."
+            ],
+            "hyp_response": "Why don't you get a new one ?",
+            "ref_response": "I don't , but I couldn't find anything to eat in the refrigerator .",
+            "human_score": 2.6,
+            "GRADE_score": 3.5,
+            "QuantiDCE_score": 2.24
+        },
+        {
+            "context": [
+                "Yes . There have been a few there recently . They say that this one was not a big quake . The Iranians are dealing with it on their own . They have purchased some special equipment to find people buried u",
+                "Does the newspaper say anything about casualties ?"
+            ],
+            "hyp_response": "Moving to to Latin American , Ecuador has suffered a six month drought that has not only affected farming , but has also forced the closure of the hydroelectric power plant that provides electricity for the entire country . In Chile , a major earthquake that registered seven point five on the Richter scale struck the southern region . Losses are reported to be in the billions . Authorities have not yet released an official statement .",
+            "ref_response": "So far , less than 20 people have died , but over 100 are in hospital .",
+            "human_score": 2.6,
+            "GRADE_score": 3.33,
+            "QuantiDCE_score": 2.78
+        },
+        {
+            "context": [
+                "It was alright . I ran into Bill and we got to talking for a while . He's in a bit of a jam .",
+                "Why ? What happened ?"
+            ],
+            "hyp_response": "It was alright . I ran into Bill and we got to talking for a while . He ' s in a bit of a jam .",
+            "ref_response": "Well , his son had an accident and Bill doesn't have health insurance . This really got me thinking , and I wondered if we shouldn't look into a couple of different HMO's .",
+            "human_score": 2.1,
+            "GRADE_score": 4.55,
+            "QuantiDCE_score": 2.86
+        },
+        {
+            "context": [
+                "Providing warm meals and shelter , especially in the winter months . I found it really fulfilling to be part of that group .",
+                "I'm sure . Okay , now let's move on to your work experience , shall we ?"
+            ],
+            "hyp_response": "Providing warm meals and shelter , especially in the winter months . I found it really fulfilling to be part of that group .",
+            "ref_response": "Yes , okay .",
+            "human_score": 2.4,
+            "GRADE_score": 4.26,
+            "QuantiDCE_score": 2.88
+        },
+        {
+            "context": [
+                "Look ! Mom , that's amazing ! I can't believe the girls have so neat movements .",
+                "Yeah , they all received very strict training . A minute on the stage takes ten-year practice ."
+            ],
+            "hyp_response": "Tell me ! Tell me ! What's your secret ? !",
+            "ref_response": "And all their movements are so elegant . It seems like dancing in the water .",
+            "human_score": 2.9,
+            "GRADE_score": 3.18,
+            "QuantiDCE_score": 2.95
+        },
+        {
+            "context": [
+                "Thank you .",
+                "What was your major in school ?"
+            ],
+            "hyp_response": "I ' m going back to college .",
+            "ref_response": "I majored in Public Relations .",
+            "human_score": 2.4,
+            "GRADE_score": 2.74,
+            "QuantiDCE_score": 2.35
+        },
+        {
+            "context": [
+                "I didn't just find out about one job . There were several ones that looked good .",
+                "Maybe I should try looking on the web for work ."
+            ],
+            "hyp_response": "It seems that you can e-mail the seller and ask questions .",
+            "ref_response": "Sure you have to be patient . But I think it's much less trouble to sit in front of a computer than to go door to door or to make a lot of phone calls .",
+            "human_score": 2.3,
+            "GRADE_score": 3.21,
+            "QuantiDCE_score": 2.43
+        },
+        {
+            "context": [
+                "Good afternoon ! Trans Pacific Airline . How can I help you ?",
+                "I'm calling to cancel my reservation for Trans Pacific Flight 8 on July 19 from Taipei to Minneapolis . Could you please make it for the same flight on August 2 instead of July 19 ?"
+            ],
+            "hyp_response": "Yes there are . How do you want to go , First class or coach ?",
+            "ref_response": "What's your name , please ?",
+            "human_score": 2.9,
+            "GRADE_score": 3.12,
+            "QuantiDCE_score": 3.3
+        },
+        {
+            "context": [
+                "I see . We will go the day after tomorrow .",
+                "By the way , what kind of stores do we need to go ?"
+            ],
+            "hyp_response": "Half an hours later .",
+            "ref_response": "I want to buy some clothes in clothing store . When we are going back , go to the butcher's shop and buy some chicken .",
+            "human_score": 2.7,
+            "GRADE_score": 3.28,
+            "QuantiDCE_score": 2.88
+        },
+        {
+            "context": [
+                "Heard what ?",
+                "Deborah already had her baby ."
+            ],
+            "hyp_response": "You never guess she is going to have a baby .",
+            "ref_response": "I didn't know that .",
+            "human_score": 2.8,
+            "GRADE_score": 4.27,
+            "QuantiDCE_score": 3.35
+        },
+        {
+            "context": [
+                "You can touch them only between the shoulder and the knees .",
+                "The touchdown lines are there and there . OK , let's play !"
+            ],
+            "hyp_response": "is that why my knees have felt sore after every time I've ridden my bike ?",
+            "ref_response": "Before we start , let's have a moment of silence for our fallen men .",
+            "human_score": 2.9,
+            "GRADE_score": 2.03,
+            "QuantiDCE_score": 2.75
+        },
+        {
+            "context": [
+                "Yes .",
+                "What's the weather like in your country ?"
+            ],
+            "hyp_response": "I love winter , I love snow .",
+            "ref_response": "Mm  .  .  .  It's quite warm now .",
+            "human_score": 2.8,
+            "GRADE_score": 4.05,
+            "QuantiDCE_score": 3.25
+        },
+        {
+            "context": [
+                "Don't feel like it . I'm broke .",
+                "Well , we can still do some window shopping , can we ?"
+            ],
+            "hyp_response": "Well , we can still do some window shopping , can't we ?",
+            "ref_response": "Just look around ? Nah , that's boring .",
+            "human_score": 2.89,
+            "GRADE_score": 4.56,
+            "QuantiDCE_score": 3.28
+        },
+        {
+            "context": [
+                "I'm forming a music band .",
+                "Do you already know how to play an instrument ?"
+            ],
+            "hyp_response": "Do you already know how to play an instrument ?",
+            "ref_response": "Uh  .  .  .  Yeah ! I'Ve told you a thousand times that I'm learning to play the drums . Now that I know how to play well , I would like to form a rock band .",
+            "human_score": 2.9,
+            "GRADE_score": 3.73,
+            "QuantiDCE_score": 3.1
+        },
+        {
+            "context": [
+                "That's how much this t . v costs .",
+                "That's too expensive for me ."
+            ],
+            "hyp_response": "That's how much this t . v costs .",
+            "ref_response": "This television is of very high quality .",
+            "human_score": 2.4,
+            "GRADE_score": 4.57,
+            "QuantiDCE_score": 2.9
+        },
+        {
+            "context": [
+                "Have you seen this news article ? Apparently an organization has made a list to name the new seven wonders of the world and people could vote for them online .",
+                "Wow , that's really interesting . So who won ?"
+            ],
+            "hyp_response": "Yeah , I had been in the charity organization for 2 months and I learned a lot from that experience , including love , sympathy , equality , and so on .",
+            "ref_response": "Well , the Great Wall of China , the Taj Mahal in India .",
+            "human_score": 2.2,
+            "GRADE_score": 2.13,
+            "QuantiDCE_score": 2.25
+        },
+        {
+            "context": [
+                "Yes , smoking or non-smoking ?",
+                "We'd like a non-smoking table , please ."
+            ],
+            "hyp_response": "Smoking or non-smoking ?",
+            "ref_response": "Come with me , please .",
+            "human_score": 2.9,
+            "GRADE_score": 4.55,
+            "QuantiDCE_score": 3.27
+        },
+        {
+            "context": [
+                "Wow ! Your calligraphy is very beautiful . It was worth the wait !",
+                "Thank you . Today I'm writing a kind of poem called a Chinese couplet ."
+            ],
+            "hyp_response": "It ' s so bad .",
+            "ref_response": "What does it say ?",
+            "human_score": 2.33,
+            "GRADE_score": 4.53,
+            "QuantiDCE_score": 2.91
+        },
+        {
+            "context": [
+                "Anything wrong with it ?",
+                "Yes . When I spread it out back home , I found this hole ."
+            ],
+            "hyp_response": "How do you think it is ?",
+            "ref_response": "Oh , how awful ! May I have a look at the invoice ?",
+            "human_score": 2.33,
+            "GRADE_score": 3.39,
+            "QuantiDCE_score": 3.55
+        },
+        {
+            "context": [
+                "The service did not help the situation .",
+                "Is this a restaurant that you want to come back to ?"
+            ],
+            "hyp_response": "I am afraid I can ' t make it .",
+            "ref_response": "I am not interested in trying this restaurant again .",
+            "human_score": 2.56,
+            "GRADE_score": 3.46,
+            "QuantiDCE_score": 2.56
+        },
+        {
+            "context": [
+                "What do you think about the equipment in our company ?",
+                "We have to equip our company with a network of work stations at every office and show room as soon as possible ."
+            ],
+            "hyp_response": "We have a lot of work , but we have to work overtime . We need to work with a company .",
+            "ref_response": "I also realized this issue . And office automation is essential .",
+            "human_score": 2.9,
+            "GRADE_score": 2.64,
+            "QuantiDCE_score": 2.89
+        },
+        {
+            "context": [
+                "I shouted it back of course .",
+                "Hold it , Mike . You won't accomplish anything by hollering at him , right ? You worked it all up till now . Why not wait until you cool down a bit ?"
+            ],
+            "hyp_response": "I ' ve been a little sick for a while . I was a little boy and I haven ' t lost my temper .",
+            "ref_response": "What would you do if you were in my shoes ?",
+            "human_score": 2.5,
+            "GRADE_score": 3.63,
+            "QuantiDCE_score": 2.94
+        },
+        {
+            "context": [
+                "Oh , your precious game . You watch the same game every year , and each year your beloved hometown team loses by at least three goals !",
+                "Oh no you didn't . You didn't just insult the Sals-bury Seals , did you ? Why don't you just . just go and return all of those stupid clothes and not come back until the sales are over ?"
+            ],
+            "hyp_response": "I ' m not so serious ! I ' m just gonna go to the game .",
+            "ref_response": "I might just ! Enjoy your stupid game !",
+            "human_score": 2.8,
+            "GRADE_score": 4.17,
+            "QuantiDCE_score": 3.19
+        },
+        {
+            "context": [
+                "Did you lend him a lot of money ?",
+                "Not much . I had to pay an unexpected bill , so I needed the money back ."
+            ],
+            "hyp_response": "I didn ' t pay attention to it .",
+            "ref_response": "Well , talk to him about it next time you see him . He probably feels as bad about it as you do . Close friends sometimes have disagreements . It's nothing unusual . Neither of you said anything really nasty , did you ?",
+            "human_score": 2.5,
+            "GRADE_score": 3.42,
+            "QuantiDCE_score": 2.75
+        },
+        {
+            "context": [
+                "Here you are .",
+                "Thanks . What kind of stone is this ?"
+            ],
+            "hyp_response": "I ' m going to have a big fan of meat .",
+            "ref_response": "It's a ruby . It is from South Africa . Would you like to try it on ?",
+            "human_score": 2.4,
+            "GRADE_score": 1.98,
+            "QuantiDCE_score": 2.18
+        },
+        {
+            "context": [
+                "Yeah , about .",
+                "Do you know Chinese better now ?"
+            ],
+            "hyp_response": "I know . But I know you ' re a student now .",
+            "ref_response": "Oh , definitely . I remember , when I first arrived in Guangzhou , my girlfriend was haggling with a sales clerk over the price of a mobile phone .",
+            "human_score": 2.8,
+            "GRADE_score": 3.34,
+            "QuantiDCE_score": 3.02
+        },
+        {
+            "context": [
+                "Hum , Edward Norton , or something like that . Did you like him ?",
+                "Yes . He was excellent . They worked well together , don't you think ?"
+            ],
+            "hyp_response": "Yes , I was a little boy .",
+            "ref_response": "I don't know . I think the woman was better . She provided a good love interest . Lucky James Bond !",
+            "human_score": 2.8,
+            "GRADE_score": 2.71,
+            "QuantiDCE_score": 2.38
+        },
+        {
+            "context": [
+                "What sort of job would you like to take ?",
+                "I prefer a sedentary job and I used to work as an operator ."
+            ],
+            "hyp_response": "What kind of job do you want ?",
+            "ref_response": "We need an operator now .",
+            "human_score": 2.4,
+            "GRADE_score": 4.26,
+            "QuantiDCE_score": 2.86
+        },
+        {
+            "context": [
+                "Yes , I'd like a book about law .",
+                "Would you tell me the name of the book and the author ?"
+            ],
+            "hyp_response": "It ' s author author .",
+            "ref_response": "Uh , the Origin of Law . And it's written by Professor Felix of Harvard .",
+            "human_score": 2.8,
+            "GRADE_score": 4.59,
+            "QuantiDCE_score": 3.24
+        },
+        {
+            "context": [
+                "Good morning .",
+                "What does the paper say ?"
+            ],
+            "hyp_response": "It means that you can only afford it .",
+            "ref_response": "Nothing much — the same old stuff . A lot of bad news as usual .",
+            "human_score": 2.8,
+            "GRADE_score": 2.99,
+            "QuantiDCE_score": 2.61
+        },
+        {
+            "context": [
+                "All right , can I have your passbook ?",
+                "Yes , here you go ."
+            ],
+            "hyp_response": "I want to go to the bank .",
+            "ref_response": "What amounts do you want the checks in ?",
+            "human_score": 2.9,
+            "GRADE_score": 2.53,
+            "QuantiDCE_score": 2.85
+        },
+        {
+            "context": [
+                "And they will yell back at you .",
+                "Yelling doesn't do any good ."
+            ],
+            "hyp_response": "I ' ll go .",
+            "ref_response": "No . The best thing to do is just stay home .",
+            "human_score": 2.4,
+            "GRADE_score": 4.43,
+            "QuantiDCE_score": 3.01
+        },
+        {
+            "context": [
+                "And they're very dear , too .",
+                "They're on special offer today ."
+            ],
+            "hyp_response": "They ' re quite different , but they ' re not going to be able to get a raise .",
+            "ref_response": "Oh , that's ideal .",
+            "human_score": 2.8,
+            "GRADE_score": 2.14,
+            "QuantiDCE_score": 2.68
+        },
+        {
+            "context": [
+                "You need a babysitter .",
+                "Yes , I'd ask Jill , the girl I've had before , but I need someone overnight . Maybe even for two nights ."
+            ],
+            "hyp_response": "I know , but I ' m a girl of my own friends .",
+            "ref_response": "I could have Suzy stay at my place .",
+            "human_score": 2.9,
+            "GRADE_score": 3.06,
+            "QuantiDCE_score": 2.68
+        },
+        {
+            "context": [
+                "What is it ? What happened ?",
+                "I think someone is stalking me ."
+            ],
+            "hyp_response": "Yeah , I just got it . I just got it . I just got it .",
+            "ref_response": "No , it can't be . Really ? Who ?",
+            "human_score": 2.9,
+            "GRADE_score": 2.85,
+            "QuantiDCE_score": 2.43
+        },
+        {
+            "context": [
+                "What is it used for ? I mean , why bother to get this special account ?",
+                "Group companies can use this to make their arrangement of funds flexible , when dealing with their subsidiaries ."
+            ],
+            "hyp_response": "What does the company have ?",
+            "ref_response": "I see , so this can really cut down on time and centralise management . Interesting  .  .  .",
+            "human_score": 2.8,
+            "GRADE_score": 4.42,
+            "QuantiDCE_score": 3.28
+        },
+        {
+            "context": [
+                "The boss wanted to pay Bob with stock options . But Bob didn't want to play that game again .",
+                "Again ?"
+            ],
+            "hyp_response": "I don ' t know . I don ' t know .",
+            "ref_response": "At his last start-up , Bob worked for stock and no salary . They folded and he made zip .",
+            "human_score": 2.82,
+            "GRADE_score": 3.4,
+            "QuantiDCE_score": 3.13
+        },
+        {
+            "context": [
+                "Shall we drop in somewhere for a couple of drinks ?",
+                "That sounds like a good idea ."
+            ],
+            "hyp_response": "What do you mean ?",
+            "ref_response": "I know a very interesting place .",
+            "human_score": 2.64,
+            "GRADE_score": 4.51,
+            "QuantiDCE_score": 3.24
+        },
+        {
+            "context": [
+                "Ah , some products are successful at home , but not be popular overseas .",
+                "That's because the fashion , taste and social customs and so on vary considerably ."
+            ],
+            "hyp_response": "I see . I ' ll look for you to find a job .",
+            "ref_response": "Yes , sometimes the differences are great .",
+            "human_score": 2.45,
+            "GRADE_score": 3.15,
+            "QuantiDCE_score": 2.18
+        },
+        {
+            "context": [
+                "You know , I fell in love with this house the first moment I laid eyes on it .",
+                "The style of the exterior is just what I'Ve been looking for !"
+            ],
+            "hyp_response": "Have you ever been to the windows ?",
+            "ref_response": "The exterior is only half of the story . The interior is incredible .",
+            "human_score": 2.45,
+            "GRADE_score": 3.98,
+            "QuantiDCE_score": 2.96
+        },
+        {
+            "context": [
+                "Are these the clothes you want to have washed ?",
+                "Yes . When can I get them back ?"
+            ],
+            "hyp_response": "You can wash the clothes without clothes , and then you will be washed by the window .",
+            "ref_response": "Well , if they are collected right now , you can get them back tonight .",
+            "human_score": 2.0,
+            "GRADE_score": 3.39,
+            "QuantiDCE_score": 2.84
+        },
+        {
+            "context": [
+                "Hi . What's your name ?",
+                "My name is Jung Min . What's your name ?"
+            ],
+            "hyp_response": "It ' s Snow .",
+            "ref_response": "My name is Jessica . It's nice to meet you .",
+            "human_score": 2.9,
+            "GRADE_score": 4.59,
+            "QuantiDCE_score": 3.35
+        },
+        {
+            "context": [
+                "Great ! B , most of the items listed are available this year . I hope we can come to an agreement and sign the contracts , so as to enable our timely delivery .",
+                "That sounds good . But I have a proposal now ."
+            ],
+            "hyp_response": "We have a problem with your business . We will be ready by Thursday .",
+            "ref_response": "What's the proposal ?",
+            "human_score": 2.6,
+            "GRADE_score": 3.2,
+            "QuantiDCE_score": 2.76
+        },
+        {
+            "context": [
+                "I need to book a plane ticket to London .",
+                "Round-trip or one-way ?"
+            ],
+            "hyp_response": "When will you be arriving ?",
+            "ref_response": "One-way .",
+            "human_score": 2.33,
+            "GRADE_score": 4.02,
+            "QuantiDCE_score": 2.72
+        },
+        {
+            "context": [
+                "That sounds good . You order the beer while I go to the bathroom . Where is the can in this place ?",
+                "It's all the way to the back . See that yellow door ?"
+            ],
+            "hyp_response": "Yes , it ' s my first time .",
+            "ref_response": "Yeah . I think I can find it .",
+            "human_score": 2.22,
+            "GRADE_score": 2.47,
+            "QuantiDCE_score": 2.05
+        },
+        {
+            "context": [
+                "Sorry . I was too worried .",
+                "I firmly believe that you love your brother very much ."
+            ],
+            "hyp_response": "Oh , I ' m sorry . I ' ve never heard about it .",
+            "ref_response": "Absolutely . By the way , do you sell any traditional Chinese medicine ?",
+            "human_score": 2.5,
+            "GRADE_score": 3.76,
+            "QuantiDCE_score": 2.49
+        },
+        {
+            "context": [
+                "Lucky you ! I can't buy anything else . I'm flat broke .",
+                "I got a replace my party outfit , I trashed it last week ."
+            ],
+            "hyp_response": "You did a good one . It was a little hard on me .",
+            "ref_response": "Why did you drag me into this ? I've spent a week salary .",
+            "human_score": 2.5,
+            "GRADE_score": 4.0,
+            "QuantiDCE_score": 2.62
+        },
+        {
+            "context": [
+                "It is an exhibition of Chinese jades . It is held each year . A nice collection jades of are on display and sold .",
+                "Sounds great ! Can you stop somewhere here for a minute ? I will get some souvenirs for my friends ."
+            ],
+            "hyp_response": "Oh , I am really sorry . I have been looking forward to seeing you .",
+            "ref_response": "No problem .",
+            "human_score": 2.8,
+            "GRADE_score": 2.75,
+            "QuantiDCE_score": 2.29
+        },
+        {
+            "context": [
+                "What do you feel about gay marriage ?",
+                "I think everyone has the right to love who they want ."
+            ],
+            "hyp_response": "They ' re really popular .",
+            "ref_response": "Would you legalize gay marriage ?",
+            "human_score": 2.4,
+            "GRADE_score": 4.32,
+            "QuantiDCE_score": 2.91
+        },
+        {
+            "context": [
+                "You get your bus pass ?",
+                "I'm not going to buy one ."
+            ],
+            "hyp_response": "How much do you want to get ?",
+            "ref_response": "You're not ?",
+            "human_score": 2.5,
+            "GRADE_score": 3.75,
+            "QuantiDCE_score": 2.79
+        },
+        {
+            "context": [
+                "You're made a good choice . This china tea set is unusual .",
+                "Where was it from ?"
+            ],
+            "hyp_response": "It was great . But I didn ' t know you were in the middle of the tea .",
+            "ref_response": "It was made in Jingdezhen .",
+            "human_score": 2.1,
+            "GRADE_score": 3.05,
+            "QuantiDCE_score": 2.29
+        },
+        {
+            "context": [
+                "Let me guess , from Sarah . It looks like something she would drive .",
+                "You guessed right . Besides , the color violet is a little girly for me ."
+            ],
+            "hyp_response": "What ?",
+            "ref_response": "I love it . It's so festive ! And where did you get that cup ? It's got the same logo .",
+            "human_score": 2.6,
+            "GRADE_score": 4.56,
+            "QuantiDCE_score": 3.13
+        },
+        {
+            "context": [
+                "Have you ever listened to AM radio ? It's quite a different experience than the traditional news stations on TV and FM radio .",
+                "I don't remember the last time I listened to AM radio ."
+            ],
+            "hyp_response": "But you should have a lot of money .",
+            "ref_response": "Another place you can get real insight is European papers . You can get them on-line .",
+            "human_score": 2.3,
+            "GRADE_score": 2.59,
+            "QuantiDCE_score": 1.97
+        },
+        {
+            "context": [
+                "Nothing , Mummy . I was hungry so I came here for some milk .",
+                "Milk ? I thought you didn't like milk ."
+            ],
+            "hyp_response": "What about some of milk ?",
+            "ref_response": "I don't , but I couldn't find anything to eat in the refrigerator .",
+            "human_score": 2.9,
+            "GRADE_score": 4.43,
+            "QuantiDCE_score": 3.36
+        },
+        {
+            "context": [
+                "Thank you for your inition . I'm free tonight .",
+                "Which kind of food do you like , chinese food , western food or sea food ?"
+            ],
+            "hyp_response": "I like it .",
+            "ref_response": "I prefer sea food .",
+            "human_score": 2.44,
+            "GRADE_score": 4.58,
+            "QuantiDCE_score": 3.57
+        },
+        {
+            "context": [
+                "Yes . There have been a few there recently . They say that this one was not a big quake . The Iranians are dealing with it on their own . They have purchased some special equipment to find people buried u",
+                "Does the newspaper say anything about casualties ?"
+            ],
+            "hyp_response": "For example , the people are in the past two months , as the people are in the country , but not as bad as the government is highly competitive .",
+            "ref_response": "So far , less than 20 people have died , but over 100 are in hospital .",
+            "human_score": 2.11,
+            "GRADE_score": 3.33,
+            "QuantiDCE_score": 2.36
+        },
+        {
+            "context": [
+                "Thank God ! I am finished writing that service guide ! It took me forever !",
+                "When did you finish ?"
+            ],
+            "hyp_response": "I had no time .",
+            "ref_response": "This morning ! No more overtime , and no more headaches !",
+            "human_score": 2.4,
+            "GRADE_score": 4.4,
+            "QuantiDCE_score": 2.94
+        },
+        {
+            "context": [
+                "What's the matter , John ? you seemed to be restless today .",
+                "You see , I've been offered a new job . I can't decide whether to take it or not ."
+            ],
+            "hyp_response": "Well , I ' ve got to say . I ' ve got a promotion .",
+            "ref_response": "Oh , that's easy . If it's better than the one you are doing now , go for it . That's my advice .",
+            "human_score": 2.6,
+            "GRADE_score": 3.87,
+            "QuantiDCE_score": 3.44
+        },
+        {
+            "context": [
+                "Look ! Mom , that's amazing ! I can't believe the girls have so neat movements .",
+                "Yeah , they all received very strict training . A minute on the stage takes ten-year practice ."
+            ],
+            "hyp_response": "Oh , no ! I see , you must have a lot of trouble with the pictures of the basketball team .",
+            "ref_response": "And all their movements are so elegant . It seems like dancing in the water .",
+            "human_score": 2.8,
+            "GRADE_score": 2.39,
+            "QuantiDCE_score": 2.37
+        },
+        {
+            "context": [
+                "Thank you .",
+                "What was your major in school ?"
+            ],
+            "hyp_response": "I was born in college .",
+            "ref_response": "I majored in Public Relations .",
+            "human_score": 2.6,
+            "GRADE_score": 3.75,
+            "QuantiDCE_score": 3.09
+        },
+        {
+            "context": [
+                "The washer costs 50 cents and the dryer costs a dollar .",
+                "Where do I put the change ?"
+            ],
+            "hyp_response": "Do you need to change it for you ?",
+            "ref_response": "The quarters go into the slot . You have to push the slot in , and the machine will turn on .",
+            "human_score": 2.9,
+            "GRADE_score": 3.82,
+            "QuantiDCE_score": 3.01
+        },
+        {
+            "context": [
+                "You can touch them only between the shoulder and the knees .",
+                "The touchdown lines are there and there . OK , let's play !"
+            ],
+            "hyp_response": "No kidding ! I don ' t think I can see it .",
+            "ref_response": "Before we start , let's have a moment of silence for our fallen men .",
+            "human_score": 2.91,
+            "GRADE_score": 3.3,
+            "QuantiDCE_score": 3.09
+        },
+        {
+            "context": [
+                "I am not surprised , you eat too much .",
+                "And I suppose sitting at the desk all day in the office doesn't help ."
+            ],
+            "hyp_response": "Yes , I think I should go to find a place where you are .",
+            "ref_response": "No , I wouldn't think so .",
+            "human_score": 2.82,
+            "GRADE_score": 3.09,
+            "QuantiDCE_score": 2.41
+        },
+        {
+            "context": [
+                "I Like pop music best . Classical music is a bit too heavy for me . I can't get fully relaxed in it .",
+                "Pop music doesn't have any depth for me ."
+            ],
+            "hyp_response": "Oh , it ' s so interesting . I ' ve been to the past several years , I ' ve been to the movie , too .",
+            "ref_response": "Yeah , that's why I can enjoy myself in it .",
+            "human_score": 2.5,
+            "GRADE_score": 2.95,
+            "QuantiDCE_score": 2.22
+        },
+        {
+            "context": [
+                "My appointment was on Monday .",
+                "What time had you chosen ?"
+            ],
+            "hyp_response": "I was waiting for my invitation .",
+            "ref_response": "It was for 10",
+            "human_score": 2.4,
+            "GRADE_score": 3.93,
+            "QuantiDCE_score": 2.7
+        },
+        {
+            "context": [
+                "she said that the columnist for the literary criticism column would be going on pregnancy leave soon and that I could be in charge of the column until she came back .",
+                "wow ! That's really great news . How often does the magazine come out ?"
+            ],
+            "hyp_response": "The news is a very good idea .",
+            "ref_response": "it's a monthly magazine , but my column will be shared with another columnist so my articles will be due fortnightly .",
+            "human_score": 2.2,
+            "GRADE_score": 2.89,
+            "QuantiDCE_score": 2.63
+        },
+        {
+            "context": [
+                "Can't beat that ! Thank you accounting guy !",
+                "The game starts at seven so we'd better hustle , it's already five ."
+            ],
+            "hyp_response": "I ' m sorry , but I ' m still waiting for the next one .",
+            "ref_response": "What are we waiting for ? Let's go !",
+            "human_score": 2.73,
+            "GRADE_score": 3.77,
+            "QuantiDCE_score": 2.39
+        },
+        {
+            "context": [
+                "Not long , because people rush for lunch .",
+                "The line sure does move fast ."
+            ],
+            "hyp_response": "How much does it cost ?",
+            "ref_response": "Tell the man behind the counter what you want .",
+            "human_score": 2.64,
+            "GRADE_score": 3.86,
+            "QuantiDCE_score": 3.28
+        },
+        {
+            "context": [
+                "Bank of American card . The number is 6786 9182 12300 8657 .",
+                "Thank you ! Would you like an aisle seat or a window seat ?"
+            ],
+            "hyp_response": "I ' m afraid I can ' t .",
+            "ref_response": "An aisle seat , please . I'm tall and need to get up and walk pretty often .",
+            "human_score": 2.27,
+            "GRADE_score": 4.22,
+            "QuantiDCE_score": 2.83
+        },
+        {
+            "context": [
+                "I'm forming a music band .",
+                "Do you already know how to play an instrument ?"
+            ],
+            "hyp_response": "Yeah , it ' s a good idea . You can play a musical instrument or so .",
+            "ref_response": "Uh  .  .  .  Yeah ! I'Ve told you a thousand times that I'm learning to play the drums . Now that I know how to play well , I would like to form a rock band .",
+            "human_score": 2.55,
+            "GRADE_score": 4.54,
+            "QuantiDCE_score": 2.97
+        },
+        {
+            "context": [
+                "Have you seen this news article ? Apparently an organization has made a list to name the new seven wonders of the world and people could vote for them online .",
+                "Wow , that's really interesting . So who won ?"
+            ],
+            "hyp_response": "It ' s a lot of people who give their skills .",
+            "ref_response": "Well , the Great Wall of China , the Taj Mahal in India .",
+            "human_score": 2.5,
+            "GRADE_score": 3.06,
+            "QuantiDCE_score": 2.3
+        }
+    ],
+    "score ∈ [3.0, 4.0)": [
+        {
+            "context": [
+                "yes , that's my only day off until Thursday .",
+                "ok , well , my friends and I are planning on going to the beach on Sunday . We tend to leave around noon whenever we go anywhere , so you could still sleep in . Do you want to come with us ?"
+            ],
+            "hyp_response": "Ok , well , my friends and I are planning on going to the beach on Sunday . We tend to leave around noon whenever we go anywhere , so you could still sleep in . Do you want to come with us ?",
+            "ref_response": "that'd be fantastic ! Which beach are you going to ?",
+            "human_score": 3.0,
+            "GRADE_score": 4.63,
+            "QuantiDCE_score": 3.46
+        },
+        {
+            "context": [
+                "What do you think about the equipment in our company ?",
+                "We have to equip our company with a network of work stations at every office and show room as soon as possible ."
+            ],
+            "hyp_response": "How do you ensure quality ?",
+            "ref_response": "I also realized this issue . And office automation is essential .",
+            "human_score": 3.9,
+            "GRADE_score": 4.06,
+            "QuantiDCE_score": 4.12
+        },
+        {
+            "context": [
+                "I can check that for you right now . Would you mind holding ?",
+                "Sure . No problem ."
+            ],
+            "hyp_response": "Is this a promise ?",
+            "ref_response": "Mr . Robson , I'm sorry . Our computer system is down . Could I call you back later ?",
+            "human_score": 3.0,
+            "GRADE_score": 4.43,
+            "QuantiDCE_score": 3.51
+        },
+        {
+            "context": [
+                "Me ? No way , keep him away from me , please .",
+                "Why are you acting so strange today ?"
+            ],
+            "hyp_response": "I just had a quarrel with him .",
+            "ref_response": "I've said that I've got a problem with the circus . I'm not kidding .",
+            "human_score": 3.6,
+            "GRADE_score": 4.33,
+            "QuantiDCE_score": 4.08
+        },
+        {
+            "context": [
+                "Did you lend him a lot of money ?",
+                "Not much . I had to pay an unexpected bill , so I needed the money back ."
+            ],
+            "hyp_response": "not much . I had to pay an unexpected bill , so I needed the money back .",
+            "ref_response": "Well , talk to him about it next time you see him . He probably feels as bad about it as you do . Close friends sometimes have disagreements . It's nothing unusual . Neither of you said anything really nasty , did you ?",
+            "human_score": 3.1,
+            "GRADE_score": 4.54,
+            "QuantiDCE_score": 3.21
+        },
+        {
+            "context": [
+                "Here you are .",
+                "Thanks . What kind of stone is this ?"
+            ],
+            "hyp_response": "It's C261 .",
+            "ref_response": "It's a ruby . It is from South Africa . Would you like to try it on ?",
+            "human_score": 3.8,
+            "GRADE_score": 4.59,
+            "QuantiDCE_score": 4.14
+        },
+        {
+            "context": [
+                "Excuse me . Do you mind if I try this on ?",
+                "Not at all . The changing rooms are just this way ."
+            ],
+            "hyp_response": "That is all right .",
+            "ref_response": "Thanks . It's a little tight . Do you have any in a larger size ?",
+            "human_score": 3.4,
+            "GRADE_score": 4.6,
+            "QuantiDCE_score": 3.88
+        },
+        {
+            "context": [
+                "Well , it's specially made of a platinum alloy , sir , and the lustre will never fade out .",
+                "I'II take them . Please wrap them up tor me and give me the receipt ."
+            ],
+            "hyp_response": "All right . Here it is .",
+            "ref_response": "You've made an excellent choice , sir .",
+            "human_score": 3.3,
+            "GRADE_score": 4.56,
+            "QuantiDCE_score": 3.85
+        },
+        {
+            "context": [
+                "That's for the phone calls you made from your room .",
+                "Can I pay with traveller's cheques ?"
+            ],
+            "hyp_response": "No , there's no charge for those .",
+            "ref_response": "Certainly . May I have your passport , please ?",
+            "human_score": 3.1,
+            "GRADE_score": 4.36,
+            "QuantiDCE_score": 3.5
+        },
+        {
+            "context": [
+                "Yeah , about .",
+                "Do you know Chinese better now ?"
+            ],
+            "hyp_response": "Just as usual , you know .",
+            "ref_response": "Oh , definitely . I remember , when I first arrived in Guangzhou , my girlfriend was haggling with a sales clerk over the price of a mobile phone .",
+            "human_score": 3.2,
+            "GRADE_score": 3.73,
+            "QuantiDCE_score": 3.4
+        },
+        {
+            "context": [
+                "What sort of job would you like to take ?",
+                "I prefer a sedentary job and I used to work as an operator ."
+            ],
+            "hyp_response": "How ' d you get that job ?",
+            "ref_response": "We need an operator now .",
+            "human_score": 3.9,
+            "GRADE_score": 4.35,
+            "QuantiDCE_score": 4.03
+        },
+        {
+            "context": [
+                "Yes , I'd like a book about law .",
+                "Would you tell me the name of the book and the author ?"
+            ],
+            "hyp_response": "Let me give you a hand . The author is ...",
+            "ref_response": "Uh , the Origin of Law . And it's written by Professor Felix of Harvard .",
+            "human_score": 3.7,
+            "GRADE_score": 4.42,
+            "QuantiDCE_score": 4.07
+        },
+        {
+            "context": [
+                "I like the sound of that .",
+                "Yes , that is today's sale price ."
+            ],
+            "hyp_response": "Well , the sale price is $ 1 each .",
+            "ref_response": "A dozen will be fine .",
+            "human_score": 3.6,
+            "GRADE_score": 4.43,
+            "QuantiDCE_score": 3.92
+        },
+        {
+            "context": [
+                "I'm very sorry to hear that . May I have your name and room number , please ?",
+                "Yes , it's Yao Lan . Room 406 ."
+            ],
+            "hyp_response": "Mr . Lee in Room 1234 .",
+            "ref_response": "And how many pieces did you have ?",
+            "human_score": 3.0,
+            "GRADE_score": 4.19,
+            "QuantiDCE_score": 3.34
+        },
+        {
+            "context": [
+                "I should tell you that I'm checking out in about 30 minutes .",
+                "I'm ready when you are , sir ."
+            ],
+            "hyp_response": "Please put your luggage outside your room by eight . The bellboy will pick them up .",
+            "ref_response": "Very good ! Now , it's still morning here in New York .",
+            "human_score": 3.1,
+            "GRADE_score": 3.89,
+            "QuantiDCE_score": 3.34
+        },
+        {
+            "context": [
+                "Hello ! How do I get more amenities ?",
+                "I'm sorry , sir . I'm not sure I understand ."
+            ],
+            "hyp_response": "I'm losing you , sir . What's the problem ?",
+            "ref_response": "I'm talking about the free stuff , like soap and shampoo .",
+            "human_score": 3.7,
+            "GRADE_score": 4.2,
+            "QuantiDCE_score": 4.0
+        },
+        {
+            "context": [
+                "The traffic is not very heavy on this high way , is it ? So I'm sure we'll make it .",
+                "No , but we'Ve got a hurry . It will be the rush hour soon ."
+            ],
+            "hyp_response": "We'll have to hurry ; visiting hours will be over soon",
+            "ref_response": "Don't worry . There's plenty of time yet .",
+            "human_score": 3.4,
+            "GRADE_score": 2.78,
+            "QuantiDCE_score": 3.26
+        },
+        {
+            "context": [
+                "What style do you want ?",
+                "I want to buy a V-neck checked sweater , and it should be tight ."
+            ],
+            "hyp_response": "It doesn't fit quite right . It feels a little tight in the waist . Do you have this in a larger size ?",
+            "ref_response": "Oh , I see . How about the color ?",
+            "human_score": 3.5,
+            "GRADE_score": 4.04,
+            "QuantiDCE_score": 3.52
+        },
+        {
+            "context": [
+                "Surely of course .",
+                "Here is the film . Can I get my pictures tomorrow ?"
+            ],
+            "hyp_response": "Yes , give me two rolls of Kodak color film .",
+            "ref_response": "Sure .",
+            "human_score": 3.4,
+            "GRADE_score": 4.4,
+            "QuantiDCE_score": 3.76
+        },
+        {
+            "context": [
+                "I need to stay home tonight and finish my term paper .",
+                "OK . What about going to the movies on Friday night ?"
+            ],
+            "hyp_response": "I ' d love to but I have to help John with his math problems right now .",
+            "ref_response": "What were you planning on seeing ?",
+            "human_score": 3.5,
+            "GRADE_score": 3.69,
+            "QuantiDCE_score": 3.85
+        },
+        {
+            "context": [
+                "Hello .",
+                "Hi . It's Tony calling from the dentist's office . Is Lily there ?"
+            ],
+            "hyp_response": "Yes , It's John eng .",
+            "ref_response": "No , Lily is not here at the moment .",
+            "human_score": 3.5,
+            "GRADE_score": 4.12,
+            "QuantiDCE_score": 3.69
+        },
+        {
+            "context": [
+                "You need a babysitter .",
+                "Yes , I'd ask Jill , the girl I've had before , but I need someone overnight . Maybe even for two nights ."
+            ],
+            "hyp_response": "You need a babysitter .",
+            "ref_response": "I could have Suzy stay at my place .",
+            "human_score": 3.1,
+            "GRADE_score": 4.54,
+            "QuantiDCE_score": 3.34
+        },
+        {
+            "context": [
+                "Shall we drop in somewhere for a couple of drinks ?",
+                "That sounds like a good idea ."
+            ],
+            "hyp_response": "OK . Shall we go to a bar ?",
+            "ref_response": "I know a very interesting place .",
+            "human_score": 3.7,
+            "GRADE_score": 4.43,
+            "QuantiDCE_score": 3.99
+        },
+        {
+            "context": [
+                "How can you be so sure ?",
+                "I can tell form the way he spoke to us ."
+            ],
+            "hyp_response": "That doesn ' t make any sense .",
+            "ref_response": "Never believe his words .",
+            "human_score": 3.4,
+            "GRADE_score": 4.02,
+            "QuantiDCE_score": 3.83
+        },
+        {
+            "context": [
+                "I want to go traveling .",
+                "Do you have any where in mind ?"
+            ],
+            "hyp_response": "There are student passes .",
+            "ref_response": "Yes , I've been thinking about Florida .",
+            "human_score": 3.0,
+            "GRADE_score": 3.55,
+            "QuantiDCE_score": 3.14
+        },
+        {
+            "context": [
+                "Not bad .",
+                "Say I've got two tickets for the concert this evening . Would you like to come with me ?"
+            ],
+            "hyp_response": "Oh , I'd rather not .",
+            "ref_response": "Sure . Thank you very much .",
+            "human_score": 3.6,
+            "GRADE_score": 4.51,
+            "QuantiDCE_score": 3.98
+        },
+        {
+            "context": [
+                "Good afternoon . I come here specially to pick up my tickets . I booked it last month . This is my reservation note .",
+                "I am terribly sorry . You didn't come to reconfirm recently . You should have come to pick up your ticket three days ago since it's an international flight , any reservation without reconfirmation within 72 hours will be cancelled ."
+            ],
+            "hyp_response": "I understand . So that ' s one ticket to New York , and you ' ll be departing tonight . Will that be one-way or round trip ?",
+            "ref_response": "But I have been so busy all these days . Well , is there any other ticket available ? I want the next one .",
+            "human_score": 3.8,
+            "GRADE_score": 4.3,
+            "QuantiDCE_score": 3.99
+        },
+        {
+            "context": [
+                "Exactly ! I searched on the web and found a couple of HMO's with low co-pays and good coverage . The deductibles are low , too .",
+                "Sounds good , although , do you think we can qualify for insurance ? Those insurance companies are real pirates when it comes to money ."
+            ],
+            "hyp_response": "Exactly ! I searched on the web and found a couple of HMO ' s with low co-pays and good coverage . The deductibles are low , too .",
+            "ref_response": "Well , we don't have any pre-existing illnesses or conditions , so we should be fine .",
+            "human_score": 3.1,
+            "GRADE_score": 4.44,
+            "QuantiDCE_score": 3.2
+        },
+        {
+            "context": [
+                "Great ! B , most of the items listed are available this year . I hope we can come to an agreement and sign the contracts , so as to enable our timely delivery .",
+                "That sounds good . But I have a proposal now ."
+            ],
+            "hyp_response": "It seems this is the only proposal for me to accept . I ' ll come again tomorrow to discuss it in detail .",
+            "ref_response": "What's the proposal ?",
+            "human_score": 3.5,
+            "GRADE_score": 3.65,
+            "QuantiDCE_score": 3.61
+        },
+        {
+            "context": [
+                "How much is that one ?",
+                "It's two hundred and eighty dollars ."
+            ],
+            "hyp_response": "That's 20 dollars . Keep the change !",
+            "ref_response": "OK . I'll take it . Thank you .",
+            "human_score": 3.1,
+            "GRADE_score": 4.29,
+            "QuantiDCE_score": 3.44
+        },
+        {
+            "context": [
+                "I don't know . But this is definitely the last straw .",
+                "Maybe you should start seeing someone else ."
+            ],
+            "hyp_response": "Yes . It could happen .",
+            "ref_response": "You said it . Ok , let's go in , Sandy .",
+            "human_score": 3.1,
+            "GRADE_score": 4.57,
+            "QuantiDCE_score": 3.62
+        },
+        {
+            "context": [
+                "Oh , I know a place where you might like to eat .",
+                "Is it close by ?"
+            ],
+            "hyp_response": "No , it's not far .",
+            "ref_response": "It's down a block on the right ; can I show you the way ?",
+            "human_score": 3.4,
+            "GRADE_score": 4.62,
+            "QuantiDCE_score": 3.82
+        },
+        {
+            "context": [
+                "Fine . I'll take the compact .",
+                "Alright . We have a blue Ford Focus for you , Mr . Fox . Would you like insurance ?"
+            ],
+            "hyp_response": "Yes , I do . Do you accept American Express ?",
+            "ref_response": "Yeah , you better give me the insurance , because I am gonna beat the hell out of this car .",
+            "human_score": 3.2,
+            "GRADE_score": 2.94,
+            "QuantiDCE_score": 2.48
+        },
+        {
+            "context": [
+                "Um , ninety-five dollars ?",
+                "Yes , that's the price they were advertising it at . I was hoping it might go on sale soon . Why , how much did you pay for it ?"
+            ],
+            "hyp_response": "The price of CPU is 260 dollars above 1,000 Units .",
+            "ref_response": "I bought it for one hundred and forty-five dollars at Helen's Boutique . I didn't know I could get it cheaper somewhere else .",
+            "human_score": 3.1,
+            "GRADE_score": 3.51,
+            "QuantiDCE_score": 2.82
+        },
+        {
+            "context": [
+                "I went to Salt Lake City on business . What's up ?",
+                "I got fired ."
+            ],
+            "hyp_response": "Come on . Don ' t hesitate .",
+            "ref_response": "How come ? Last time I saw you . You told me it was a good job , and you'd like to take it as a career . That was only one month ago . Why this sudden change ?",
+            "human_score": 3.3,
+            "GRADE_score": 3.65,
+            "QuantiDCE_score": 3.55
+        },
+        {
+            "context": [
+                "Really ? Wow with who ?",
+                "This girl I've been chatting with for the past couple of months . She's really cool and she's driving over here this weekend ."
+            ],
+            "hyp_response": "Really ? That's really wonderful . I'm so happy for her .",
+            "ref_response": "Wait a minute , you mean you met her online ?",
+            "human_score": 3.9,
+            "GRADE_score": 4.49,
+            "QuantiDCE_score": 4.14
+        },
+        {
+            "context": [
+                "Why aren't you eating anything else ?",
+                "Well , fruits and vegetables are very healthy ."
+            ],
+            "hyp_response": "And vegetables with porridge .",
+            "ref_response": "And the chicken ?",
+            "human_score": 3.3,
+            "GRADE_score": 4.37,
+            "QuantiDCE_score": 3.55
+        },
+        {
+            "context": [
+                "Lucky you ! I can't buy anything else . I'm flat broke .",
+                "I got a replace my party outfit , I trashed it last week ."
+            ],
+            "hyp_response": "yeah , maybe you ' re right . How about this outfit ?",
+            "ref_response": "Why did you drag me into this ? I've spent a week salary .",
+            "human_score": 3.5,
+            "GRADE_score": 3.84,
+            "QuantiDCE_score": 3.72
+        },
+        {
+            "context": [
+                "Have you ever tried shopping online ?",
+                "No , never . I prefer to actually see and touch what I'm buying before I pay for it , especially for clothes and shoes ."
+            ],
+            "hyp_response": "Why don't you go shopping online ?",
+            "ref_response": "That's right . Seeing is believing .",
+            "human_score": 3.3,
+            "GRADE_score": 4.4,
+            "QuantiDCE_score": 3.7
+        },
+        {
+            "context": [
+                "How nice of him . I'll be delighted to go . But what time would be convenient ?",
+                "If you could be ready by , say 6:30 o'clock , I'll be at the hotel to pick you up ."
+            ],
+            "hyp_response": "That's fine . I'll be waiting for you .",
+            "ref_response": "That's great . It's most thoughtful of you to do this , Miss Rose .",
+            "human_score": 3.3,
+            "GRADE_score": 4.34,
+            "QuantiDCE_score": 3.63
+        },
+        {
+            "context": [
+                "Barely . Will you be checking any luggage today ?",
+                "Yes , One suitcase . I also have a carry-on bag ."
+            ],
+            "hyp_response": "Are you keeping this small bag as carry-on luggage , sir ?",
+            "ref_response": "Ok . Mr . Lee , you're all set . Your flight leaves from gate 10 . Boarding begins at 10:30",
+            "human_score": 3.8,
+            "GRADE_score": 4.3,
+            "QuantiDCE_score": 3.28
+        },
+        {
+            "context": [
+                "I'm Du Juan , in Room 312 .",
+                "I see . Wait in the room , please ."
+            ],
+            "hyp_response": "Could I have your name and room number ?",
+            "ref_response": "Thank you for your kindness .",
+            "human_score": 3.0,
+            "GRADE_score": 4.21,
+            "QuantiDCE_score": 3.39
+        },
+        {
+            "context": [
+                "What do you feel about gay marriage ?",
+                "I think everyone has the right to love who they want ."
+            ],
+            "hyp_response": "Would you make gay marriage legal ?",
+            "ref_response": "Would you legalize gay marriage ?",
+            "human_score": 3.2,
+            "GRADE_score": 4.17,
+            "QuantiDCE_score": 3.47
+        },
+        {
+            "context": [
+                "How do you do ? Please be seated , How is your trip here ?",
+                "Quite good , I think . I came here by bus , and it took me about 15 minutes ."
+            ],
+            "hyp_response": "Wow , thanks a lot .",
+            "ref_response": "Oh , yes . How old are you ?",
+            "human_score": 3.3,
+            "GRADE_score": 4.6,
+            "QuantiDCE_score": 3.83
+        },
+        {
+            "context": [
+                "Good afternoon ! Trans Pacific Airline . How can I help you ?",
+                "I'm calling to cancel my reservation for Trans Pacific Flight 8 on July 19 from Taipei to Minneapolis . Could you please make it for the same flight on August 2 instead of July 19 ?"
+            ],
+            "hyp_response": "Yes there are . How do you want to go , First class or coach ?",
+            "ref_response": "What's your name , please ?",
+            "human_score": 3.9,
+            "GRADE_score": 3.12,
+            "QuantiDCE_score": 3.3
+        },
+        {
+            "context": [
+                "Ms . Wang , this is Mr . Cooper , president of Ivy Publishing .",
+                "It's nice to meet you , Mr . Cooper ."
+            ],
+            "hyp_response": "It's nice to meet you , Mr . Cooper .",
+            "ref_response": "Nice to meet you , Ms . Wang . You must be exhausted after your long trip from Canada .",
+            "human_score": 3.5,
+            "GRADE_score": 4.37,
+            "QuantiDCE_score": 3.77
+        },
+        {
+            "context": [
+                "It is too bad today .",
+                "What happened ?"
+            ],
+            "hyp_response": "It ' s been leaking for a couple of days now .",
+            "ref_response": "My som was lost . I told him to stand rooted to the spot when I went shopping , but he ignored it .",
+            "human_score": 3.0,
+            "GRADE_score": 4.27,
+            "QuantiDCE_score": 3.43
+        },
+        {
+            "context": [
+                "Hey Tina . What are you doing ?",
+                "I was just watching TV . What's going on with you ?"
+            ],
+            "hyp_response": "I'm watching TV .",
+            "ref_response": "I just watched a movie and I'm scared .",
+            "human_score": 3.4,
+            "GRADE_score": 4.58,
+            "QuantiDCE_score": 3.38
+        },
+        {
+            "context": [
+                "Thank you ! Would you like an aisle seat or a window seat ?",
+                "An aisle seat , please . I'm tall and need to get up and walk pretty often ."
+            ],
+            "hyp_response": "Anything but a center seat is fine with me . The middle seat drives me crazy !",
+            "ref_response": "No problem . Your ticket is for Trans Pacific Flight 87 from Detroit to Beijing at 3 forty p . m . on April 13 . You will arrive at Beijing International Airport at six 35 p . m . on April 14 . Your electronic",
+            "human_score": 3.1,
+            "GRADE_score": 3.98,
+            "QuantiDCE_score": 3.28
+        },
+        {
+            "context": [
+                "What if I don't want to find another girl ?",
+                "You'll change your mind . Look at everyone in the world . They all break up and move on . The faster you understand this , the quicker you will recover ."
+            ],
+            "hyp_response": "Right . Thanks .",
+            "ref_response": "You're right .",
+            "human_score": 3.7,
+            "GRADE_score": 4.6,
+            "QuantiDCE_score": 4.02
+        },
+        {
+            "context": [
+                "I'd like to speak Dr . Johnson .",
+                "Sorry , but he's not in . May I take a message for you ?"
+            ],
+            "hyp_response": "Yes . He's waiting for you in his office . This way , please .",
+            "ref_response": "This is Robert Jordan . Would you ask him to call me back , please ?",
+            "human_score": 3.2,
+            "GRADE_score": 4.42,
+            "QuantiDCE_score": 3.55
+        },
+        {
+            "context": [
+                "I have a lot of luggage . Will those fit in the taxi ?",
+                "Take it easy . I'll send a larger to pick you up ."
+            ],
+            "hyp_response": "By the way , don't forget your luggage on the ship .",
+            "ref_response": "Thank you very much .",
+            "human_score": 3.4,
+            "GRADE_score": 3.38,
+            "QuantiDCE_score": 3.37
+        },
+        {
+            "context": [
+                "Please be at the airport two hours before your departure to check in . You also need to reconfirm your reservation with the airline at least 7 days prior to your departure .",
+                "What happens if I can't leave on April 13 ? Can I cancel my ticket or change the reservation to another date ?"
+            ],
+            "hyp_response": "I think so . I won't forget anything important . As long as I have my passport , VISA card and airline ticket . It will be OK .",
+            "ref_response": "Yes , you can , but you will have to pay a penalty of $ 75 for any change or cancellation .",
+            "human_score": 3.6,
+            "GRADE_score": 3.96,
+            "QuantiDCE_score": 3.25
+        },
+        {
+            "context": [
+                "Thank you for your inition . I'm free tonight .",
+                "Which kind of food do you like , chinese food , western food or sea food ?"
+            ],
+            "hyp_response": "Chinese food .",
+            "ref_response": "I prefer sea food .",
+            "human_score": 3.9,
+            "GRADE_score": 4.56,
+            "QuantiDCE_score": 4.11
+        },
+        {
+            "context": [
+                "Turn on the TV for what ?",
+                "So that we can sit down together and listen to some music ."
+            ],
+            "hyp_response": "So that we can sit down together and listen to some music .",
+            "ref_response": "Listen to the music ? And who will cook dinner , will you ?",
+            "human_score": 3.3,
+            "GRADE_score": 4.41,
+            "QuantiDCE_score": 3.49
+        },
+        {
+            "context": [
+                "Yes , I'd like a glass of iced tea .",
+                "Okay . I'll be back in a minute with your drink and salad ."
+            ],
+            "hyp_response": "All right . And would you like a salad ?",
+            "ref_response": "Thank you .",
+            "human_score": 3.0,
+            "GRADE_score": 4.52,
+            "QuantiDCE_score": 3.29
+        },
+        {
+            "context": [
+                "Wait a moment , please . Let me check it .",
+                "By the way , I want a large room ."
+            ],
+            "hyp_response": "By the way , what's the rate for a single room ?",
+            "ref_response": "Right now we have a suite for 4 people , do you want to book it ?",
+            "human_score": 3.3,
+            "GRADE_score": 4.06,
+            "QuantiDCE_score": 3.45
+        },
+        {
+            "context": [
+                "Thank God ! I am finished writing that service guide ! It took me forever !",
+                "When did you finish ?"
+            ],
+            "hyp_response": "About 2 o ' clock .",
+            "ref_response": "This morning ! No more overtime , and no more headaches !",
+            "human_score": 3.6,
+            "GRADE_score": 4.56,
+            "QuantiDCE_score": 4.02
+        },
+        {
+            "context": [
+                "What's the matter , John ? you seemed to be restless today .",
+                "You see , I've been offered a new job . I can't decide whether to take it or not ."
+            ],
+            "hyp_response": "But I don't know what else I can do . I am willing to work hard . Sometimes I make mistakes and the boss is not happy .",
+            "ref_response": "Oh , that's easy . If it's better than the one you are doing now , go for it . That's my advice .",
+            "human_score": 3.1,
+            "GRADE_score": 3.94,
+            "QuantiDCE_score": 3.4
+        },
+        {
+            "context": [
+                "The washer costs 50 cents and the dryer costs a dollar .",
+                "Where do I put the change ?"
+            ],
+            "hyp_response": "You need to put 50 cents into the washer machine and a dollar into the dryer .",
+            "ref_response": "The quarters go into the slot . You have to push the slot in , and the machine will turn on .",
+            "human_score": 3.4,
+            "GRADE_score": 4.09,
+            "QuantiDCE_score": 3.48
+        },
+        {
+            "context": [
+                "I suppose I don't want that one then . I don't like auto-reverse . It breaks too easily .",
+                "Really ? Have you had an auto-reverse break before ?"
+            ],
+            "hyp_response": "Yes , this price is very affordable , but driving this car you'll also notice a significant annual saving in gas consumption . The main attraction for this model is the fuel economy .",
+            "ref_response": "Yes , twice now . I think it's too high-tech , and so it's the first part that breaks .",
+            "human_score": 3.4,
+            "GRADE_score": 2.74,
+            "QuantiDCE_score": 3.0
+        },
+        {
+            "context": [
+                "This is Bill Burton from Milford Insurance , I'm calling in regards to our meeting next Tuesday .",
+                "Thank you , Mr . Burton . Can you please hold for a moment ? I'll check to see if she is available ."
+            ],
+            "hyp_response": "All right . I ' ll call you back later .",
+            "ref_response": "No problem .",
+            "human_score": 3.5,
+            "GRADE_score": 3.89,
+            "QuantiDCE_score": 3.25
+        },
+        {
+            "context": [
+                "First of all , we'll design a custom-made work-out plan according to your habits .",
+                "How can you get that done ?"
+            ],
+            "hyp_response": "About 2 days .",
+            "ref_response": "Well , we give each of our customers a personal trainer who is qualified . And he will give you a fitness assessment and then come up with the work-out plan for your needs .",
+            "human_score": 3.3,
+            "GRADE_score": 4.49,
+            "QuantiDCE_score": 3.71
+        },
+        {
+            "context": [
+                "I am not surprised , you eat too much .",
+                "And I suppose sitting at the desk all day in the office doesn't help ."
+            ],
+            "hyp_response": "No , I wouldn't think so .",
+            "ref_response": "No , I wouldn't think so .",
+            "human_score": 3.4,
+            "GRADE_score": 3.97,
+            "QuantiDCE_score": 3.75
+        },
+        {
+            "context": [
+                "I would prefer next Thursday .",
+                "What time would be best for you ?"
+            ],
+            "hyp_response": "I would like to meet on Monday .",
+            "ref_response": "I want to come in at 2",
+            "human_score": 3.8,
+            "GRADE_score": 4.11,
+            "QuantiDCE_score": 3.99
+        },
+        {
+            "context": [
+                "I Like pop music best . Classical music is a bit too heavy for me . I can't get fully relaxed in it .",
+                "Pop music doesn't have any depth for me ."
+            ],
+            "hyp_response": "That is a perfect reason to like a certain kind of music .",
+            "ref_response": "Yeah , that's why I can enjoy myself in it .",
+            "human_score": 3.56,
+            "GRADE_score": 4.24,
+            "QuantiDCE_score": 3.87
+        },
+        {
+            "context": [
+                "No . I am a transit passenger going to Sweden .",
+                "How long are you going to stay here ?"
+            ],
+            "hyp_response": "Only four days .",
+            "ref_response": "Only one night .",
+            "human_score": 3.44,
+            "GRADE_score": 4.61,
+            "QuantiDCE_score": 3.85
+        },
+        {
+            "context": [
+                "Can't beat that ! Thank you accounting guy !",
+                "The game starts at seven so we'd better hustle , it's already five ."
+            ],
+            "hyp_response": "You mean half-and-half ?",
+            "ref_response": "What are we waiting for ? Let's go !",
+            "human_score": 3.0,
+            "GRADE_score": 3.82,
+            "QuantiDCE_score": 2.65
+        },
+        {
+            "context": [
+                "Of course you do . They are silly stories just for little kids like you .",
+                "Don't call me kid . I am a grownup ."
+            ],
+            "hyp_response": "Don't forger to come straight home after school .",
+            "ref_response": "Do you dare watch scary movies with me tonight ?",
+            "human_score": 3.0,
+            "GRADE_score": 2.96,
+            "QuantiDCE_score": 2.81
+        },
+        {
+            "context": [
+                "Not long , because people rush for lunch .",
+                "The line sure does move fast ."
+            ],
+            "hyp_response": "What kind of lease is it ?",
+            "ref_response": "Tell the man behind the counter what you want .",
+            "human_score": 3.0,
+            "GRADE_score": 2.33,
+            "QuantiDCE_score": 2.42
+        },
+        {
+            "context": [
+                "Bank of American card . The number is 6786 9182 12300 8657 .",
+                "Thank you ! Would you like an aisle seat or a window seat ?"
+            ],
+            "hyp_response": "Aisle , please .",
+            "ref_response": "An aisle seat , please . I'm tall and need to get up and walk pretty often .",
+            "human_score": 3.5,
+            "GRADE_score": 4.6,
+            "QuantiDCE_score": 3.8
+        },
+        {
+            "context": [
+                "Morning , Michael . I'Ve been very busy lately . One of our other vendors is going out of business and I'Ve been searching for a suitable replacement .",
+                "Well , rest assured that you can count on us to be here for the long run , sitdown . Coffee ?"
+            ],
+            "hyp_response": "Well , rest assured that you can count on us to be here for the long run , please sit down . Coffee ?",
+            "ref_response": "No , thanks . I'Ve been trying to cut down on the caffeine .",
+            "human_score": 3.1,
+            "GRADE_score": 4.53,
+            "QuantiDCE_score": 3.41
+        },
+        {
+            "context": [
+                "I am dying from the heat .",
+                "Turn on the air conditioner ."
+            ],
+            "hyp_response": "Let's stand in the line now .",
+            "ref_response": "It doesn't work .",
+            "human_score": 3.1,
+            "GRADE_score": 2.96,
+            "QuantiDCE_score": 2.67
+        },
+        {
+            "context": [
+                "yes , that's my only day off until Thursday .",
+                "ok , well , my friends and I are planning on going to the beach on Sunday . We tend to leave around noon whenever we go anywhere , so you could still sleep in . Do you want to come with us ?"
+            ],
+            "hyp_response": "ok . I ' ll be there in the afternoon .",
+            "ref_response": "that'd be fantastic ! Which beach are you going to ?",
+            "human_score": 3.6,
+            "GRADE_score": 4.21,
+            "QuantiDCE_score": 3.72
+        },
+        {
+            "context": [
+                "Hello , 332440 .",
+                "Oh hello , Sally . This is Dave Thomson here . Could I speak to Jim please ?"
+            ],
+            "hyp_response": "This is Jim , please .",
+            "ref_response": "I'm afraid he's not in at the moment Dave . He went out about an hour ago and he's not back yet .",
+            "human_score": 3.6,
+            "GRADE_score": 4.58,
+            "QuantiDCE_score": 3.92
+        },
+        {
+            "context": [
+                "If only our company prescribe flex time .",
+                "The board has been considering introducing flex time ."
+            ],
+            "hyp_response": "But it ' s not a very high - worker , but it ' s not a very high - time job .",
+            "ref_response": "Good news . Ah , what if be even better if alternative work place is provided .",
+            "human_score": 3.3,
+            "GRADE_score": 3.14,
+            "QuantiDCE_score": 2.78
+        },
+        {
+            "context": [
+                "Thank you so much . Does he read his e-mails daily ?",
+                "Yes . He usually replies immediately ."
+            ],
+            "hyp_response": "Oh , he ' s a man of the first person . He ' s a successful successful successful man .",
+            "ref_response": "Great . Thanks again . You've been very helpful .",
+            "human_score": 3.4,
+            "GRADE_score": 4.18,
+            "QuantiDCE_score": 3.53
+        },
+        {
+            "context": [
+                "I'll take a little milk , but no sugar , please . Make sure you let the tea steep a few minutes before you take the tea bag out of the cup .",
+                "Ok . What do you think about our living room ?"
+            ],
+            "hyp_response": "It ' s a very good idea .",
+            "ref_response": "Well , I do like the mantelpiece and the coffee table , but I don't really care for curtains . Did you get them at a yard sale ? They look ancient .",
+            "human_score": 3.4,
+            "GRADE_score": 4.06,
+            "QuantiDCE_score": 3.85
+        },
+        {
+            "context": [
+                "I want to take a look at that home with the Open House flags out front .",
+                "What a wonderful neighborhood ! Can you find that house on our Open House list ?"
+            ],
+            "hyp_response": "I am sorry I can ' t go there .",
+            "ref_response": "Yes , that is one of the houses that we have on our list .",
+            "human_score": 3.22,
+            "GRADE_score": 3.55,
+            "QuantiDCE_score": 3.37
+        },
+        {
+            "context": [
+                "Take it easy . We are going to have our own baby . You should be happy .",
+                "Yeah , I know ."
+            ],
+            "hyp_response": "Well , you know .",
+            "ref_response": "The doctors and the nurses will help you . And I will be waiting for you right here , praying for you and our baby .",
+            "human_score": 3.0,
+            "GRADE_score": 4.62,
+            "QuantiDCE_score": 3.33
+        },
+        {
+            "context": [
+                "Well , there will be charity performance on Saturday night . And also , there will be a solo concert by an opera star on Sunday night .",
+                "It's a good thing that I have choices here . Can you tell me about the one on Saturday ?"
+            ],
+            "hyp_response": "Sure , let ' s go to the concert with a night .",
+            "ref_response": "Sure . It's to raise money for the homeless .",
+            "human_score": 3.3,
+            "GRADE_score": 4.13,
+            "QuantiDCE_score": 3.6
+        },
+        {
+            "context": [
+                "What did they say ?",
+                "They said I need a new hard drive ."
+            ],
+            "hyp_response": "They are very good .",
+            "ref_response": "That's too bad . How much is a new one ?",
+            "human_score": 3.3,
+            "GRADE_score": 3.56,
+            "QuantiDCE_score": 3.7
+        },
+        {
+            "context": [
+                "That is right up my alley . You say party and I'm there .",
+                "Perfect . It will be open to the public and we anticipate roughly about five to seven hundred people ."
+            ],
+            "hyp_response": "Are you serious ?",
+            "ref_response": "Will it be an all day event ?",
+            "human_score": 3.4,
+            "GRADE_score": 4.6,
+            "QuantiDCE_score": 3.79
+        },
+        {
+            "context": [
+                "I can check that for you right now . Would you mind holding ?",
+                "Sure . No problem ."
+            ],
+            "hyp_response": "I ' m afraid I can ' t .",
+            "ref_response": "Mr . Robson , I'm sorry . Our computer system is down . Could I call you back later ?",
+            "human_score": 3.4,
+            "GRADE_score": 3.91,
+            "QuantiDCE_score": 3.6
+        },
+        {
+            "context": [
+                "I wasn't all that impressed by the food .",
+                "The service certainly could have been better ."
+            ],
+            "hyp_response": "What do you think of the food ?",
+            "ref_response": "The service did not help the situation .",
+            "human_score": 3.4,
+            "GRADE_score": 4.07,
+            "QuantiDCE_score": 3.67
+        },
+        {
+            "context": [
+                "Me ? No way , keep him away from me , please .",
+                "Why are you acting so strange today ?"
+            ],
+            "hyp_response": "Because he ' s a little boy .",
+            "ref_response": "I've said that I've got a problem with the circus . I'm not kidding .",
+            "human_score": 3.8,
+            "GRADE_score": 4.43,
+            "QuantiDCE_score": 4.24
+        },
+        {
+            "context": [
+                "Excuse me . Do you mind if I try this on ?",
+                "Not at all . The changing rooms are just this way ."
+            ],
+            "hyp_response": "I am sorry , but I ' m afraid I can ' t .",
+            "ref_response": "Thanks . It's a little tight . Do you have any in a larger size ?",
+            "human_score": 3.0,
+            "GRADE_score": 3.58,
+            "QuantiDCE_score": 2.95
+        },
+        {
+            "context": [
+                "Well , it's specially made of a platinum alloy , sir , and the lustre will never fade out .",
+                "I'II take them . Please wrap them up tor me and give me the receipt ."
+            ],
+            "hyp_response": "OK . I ' ll take it .",
+            "ref_response": "You've made an excellent choice , sir .",
+            "human_score": 3.7,
+            "GRADE_score": 4.56,
+            "QuantiDCE_score": 3.94
+        },
+        {
+            "context": [
+                "That's for the phone calls you made from your room .",
+                "Can I pay with traveller's cheques ?"
+            ],
+            "hyp_response": "Yes , I have .",
+            "ref_response": "Certainly . May I have your passport , please ?",
+            "human_score": 3.7,
+            "GRADE_score": 4.5,
+            "QuantiDCE_score": 3.96
+        },
+        {
+            "context": [
+                "Yes , I have been working in the Public Relations Section of a company in the past two years . I plan the advertising campaign and cooperate the work of artists and typographers . Sometimes I have to do the work of a specialist when there's something urgent .",
+                "Do you have any practical experience as a secretary ?"
+            ],
+            "hyp_response": "I ' m not familiar with the company , but I don ' t have any other questions . I ' m not familiar with the customer . I ' m afraid I can ' t do any other things .",
+            "ref_response": "Yes , sir . I acted as a secretary in an insurance company .",
+            "human_score": 3.4,
+            "GRADE_score": 3.63,
+            "QuantiDCE_score": 3.64
+        },
+        {
+            "context": [
+                "How long will the induction training be ?",
+                "About two weeks ."
+            ],
+            "hyp_response": "You ' re welcome .",
+            "ref_response": "I see .",
+            "human_score": 3.6,
+            "GRADE_score": 4.38,
+            "QuantiDCE_score": 3.96
+        },
+        {
+            "context": [
+                "I like the sound of that .",
+                "Yes , that is today's sale price ."
+            ],
+            "hyp_response": "I ' m sorry , but I didn ' t expect you to pay for it .",
+            "ref_response": "A dozen will be fine .",
+            "human_score": 3.5,
+            "GRADE_score": 3.54,
+            "QuantiDCE_score": 2.95
+        },
+        {
+            "context": [
+                "I'm very sorry to hear that . May I have your name and room number , please ?",
+                "Yes , it's Yao Lan . Room 406 ."
+            ],
+            "hyp_response": "Thanks .",
+            "ref_response": "And how many pieces did you have ?",
+            "human_score": 3.4,
+            "GRADE_score": 4.6,
+            "QuantiDCE_score": 3.93
+        },
+        {
+            "context": [
+                "I should tell you that I'm checking out in about 30 minutes .",
+                "I'm ready when you are , sir ."
+            ],
+            "hyp_response": "I ' m afraid I ' ll be back in a minute .",
+            "ref_response": "Very good ! Now , it's still morning here in New York .",
+            "human_score": 3.0,
+            "GRADE_score": 3.57,
+            "QuantiDCE_score": 3.03
+        },
+        {
+            "context": [
+                "Hello ! How do I get more amenities ?",
+                "I'm sorry , sir . I'm not sure I understand ."
+            ],
+            "hyp_response": "Well , sir , you are quite right .",
+            "ref_response": "I'm talking about the free stuff , like soap and shampoo .",
+            "human_score": 3.3,
+            "GRADE_score": 4.1,
+            "QuantiDCE_score": 3.6
+        },
+        {
+            "context": [
+                "The traffic is not very heavy on this high way , is it ? So I'm sure we'll make it .",
+                "No , but we'Ve got a hurry . It will be the rush hour soon ."
+            ],
+            "hyp_response": "I ' m afraid we can ' t wait until the traffic jam .",
+            "ref_response": "Don't worry . There's plenty of time yet .",
+            "human_score": 3.3,
+            "GRADE_score": 4.08,
+            "QuantiDCE_score": 3.68
+        },
+        {
+            "context": [
+                "What style do you want ?",
+                "I want to buy a V-neck checked sweater , and it should be tight ."
+            ],
+            "hyp_response": "OK . Here you are .",
+            "ref_response": "Oh , I see . How about the color ?",
+            "human_score": 3.4,
+            "GRADE_score": 4.58,
+            "QuantiDCE_score": 3.83
+        },
+        {
+            "context": [
+                "Mr . Smith , please .",
+                "Sorry , he is out ."
+            ],
+            "hyp_response": "I ' m sorry , Mr . Smith .",
+            "ref_response": "What time do you expect him back then ?",
+            "human_score": 3.3,
+            "GRADE_score": 4.57,
+            "QuantiDCE_score": 3.63
+        },
+        {
+            "context": [
+                "Surely of course .",
+                "Here is the film . Can I get my pictures tomorrow ?"
+            ],
+            "hyp_response": "Sure . What is it ?",
+            "ref_response": "Sure .",
+            "human_score": 3.7,
+            "GRADE_score": 4.59,
+            "QuantiDCE_score": 3.99
+        },
+        {
+            "context": [
+                "I need to stay home tonight and finish my term paper .",
+                "OK . What about going to the movies on Friday night ?"
+            ],
+            "hyp_response": "I ' m not sure .",
+            "ref_response": "What were you planning on seeing ?",
+            "human_score": 3.9,
+            "GRADE_score": 4.55,
+            "QuantiDCE_score": 4.09
+        },
+        {
+            "context": [
+                "Let me check . Yes , we have .",
+                "May I try it on ?"
+            ],
+            "hyp_response": "Here you are .",
+            "ref_response": "Sure . Let me help you .",
+            "human_score": 3.3,
+            "GRADE_score": 4.63,
+            "QuantiDCE_score": 3.78
+        },
+        {
+            "context": [
+                "You can't come any earlier than that ?",
+                "I'm sorry . That's the only available time ."
+            ],
+            "hyp_response": "What time does the next time ?",
+            "ref_response": "Are you available this Saturday ?",
+            "human_score": 3.4,
+            "GRADE_score": 4.13,
+            "QuantiDCE_score": 3.59
+        },
+        {
+            "context": [
+                "Hello .",
+                "Hi . It's Tony calling from the dentist's office . Is Lily there ?"
+            ],
+            "hyp_response": "Yes , he is .",
+            "ref_response": "No , Lily is not here at the moment .",
+            "human_score": 3.4,
+            "GRADE_score": 4.61,
+            "QuantiDCE_score": 3.68
+        },
+        {
+            "context": [
+                "Excuse me . I have an appointment with Mr . Li at nine . May I come in ?",
+                "Yes , come in please . I am Mr . Li . You must be My Liu , right ?"
+            ],
+            "hyp_response": "Yes , I am . I am afraid I can ' t .",
+            "ref_response": "Yes , I am My Liu . Thanks .",
+            "human_score": 3.0,
+            "GRADE_score": 3.95,
+            "QuantiDCE_score": 2.81
+        },
+        {
+            "context": [
+                "How can you be so sure ?",
+                "I can tell form the way he spoke to us ."
+            ],
+            "hyp_response": "I see .",
+            "ref_response": "Never believe his words .",
+            "human_score": 3.18,
+            "GRADE_score": 4.62,
+            "QuantiDCE_score": 3.74
+        },
+        {
+            "context": [
+                "I want to go traveling .",
+                "Do you have any where in mind ?"
+            ],
+            "hyp_response": "I ' m not sure .",
+            "ref_response": "Yes , I've been thinking about Florida .",
+            "human_score": 3.8,
+            "GRADE_score": 4.58,
+            "QuantiDCE_score": 4.1
+        },
+        {
+            "context": [
+                "With everything , with everybody , with all this !",
+                "A good suggestion for you . You need a holiday ."
+            ],
+            "hyp_response": "What ?",
+            "ref_response": "It wasn't always like this , you know .",
+            "human_score": 3.3,
+            "GRADE_score": 4.59,
+            "QuantiDCE_score": 3.73
+        },
+        {
+            "context": [
+                "Good afternoon . I come here specially to pick up my tickets . I booked it last month . This is my reservation note .",
+                "I am terribly sorry . You didn't come to reconfirm recently . You should have come to pick up your ticket three days ago since it's an international flight , any reservation without reconfirmation within 72 hours will be cancelled ."
+            ],
+            "hyp_response": "That ' s fine . We will have a reservation for us .",
+            "ref_response": "But I have been so busy all these days . Well , is there any other ticket available ? I want the next one .",
+            "human_score": 3.4,
+            "GRADE_score": 4.28,
+            "QuantiDCE_score": 3.71
+        },
+        {
+            "context": [
+                "Exactly ! I searched on the web and found a couple of HMO's with low co-pays and good coverage . The deductibles are low , too .",
+                "Sounds good , although , do you think we can qualify for insurance ? Those insurance companies are real pirates when it comes to money ."
+            ],
+            "hyp_response": "If we are not , we should start to work overtime , we should start the rest .",
+            "ref_response": "Well , we don't have any pre-existing illnesses or conditions , so we should be fine .",
+            "human_score": 3.0,
+            "GRADE_score": 3.49,
+            "QuantiDCE_score": 2.7
+        },
+        {
+            "context": [
+                "Then tell me something about your background .",
+                "My major was computer science when I was at college , and I am quite familiar with Visual C + + and Java language ."
+            ],
+            "hyp_response": "What ' s your computer qualifications ?",
+            "ref_response": "Well , what do you think about the development in computers ?",
+            "human_score": 3.3,
+            "GRADE_score": 4.49,
+            "QuantiDCE_score": 3.61
+        },
+        {
+            "context": [
+                "Why don't you watch where you're going ?",
+                "Me ? You're the one who pulled out in front of me !"
+            ],
+            "hyp_response": "I ' m not sure .",
+            "ref_response": "There was plenty of room for me to pull out . You didn't have to stay in the lane you were in .",
+            "human_score": 3.1,
+            "GRADE_score": 3.98,
+            "QuantiDCE_score": 3.6
+        },
+        {
+            "context": [
+                "I don't know . But this is definitely the last straw .",
+                "Maybe you should start seeing someone else ."
+            ],
+            "hyp_response": "I ' m sorry , but I ' m not sure .",
+            "ref_response": "You said it . Ok , let's go in , Sandy .",
+            "human_score": 3.22,
+            "GRADE_score": 3.57,
+            "QuantiDCE_score": 3.32
+        },
+        {
+            "context": [
+                "Oh , I know a place where you might like to eat .",
+                "Is it close by ?"
+            ],
+            "hyp_response": "I think you ' re right .",
+            "ref_response": "It's down a block on the right ; can I show you the way ?",
+            "human_score": 3.11,
+            "GRADE_score": 3.77,
+            "QuantiDCE_score": 3.43
+        },
+        {
+            "context": [
+                "Not really . I don't think pop music has much depth .",
+                "I see what you mean . I think that's way I like it so much ."
+            ],
+            "hyp_response": "Really ? What ' s that ?",
+            "ref_response": "How long have you been in to pop music , then ?",
+            "human_score": 3.1,
+            "GRADE_score": 4.61,
+            "QuantiDCE_score": 3.36
+        },
+        {
+            "context": [
+                "Fine . I'll take the compact .",
+                "Alright . We have a blue Ford Focus for you , Mr . Fox . Would you like insurance ?"
+            ],
+            "hyp_response": "Yes , I ' d like to .",
+            "ref_response": "Yeah , you better give me the insurance , because I am gonna beat the hell out of this car .",
+            "human_score": 3.6,
+            "GRADE_score": 4.46,
+            "QuantiDCE_score": 3.93
+        },
+        {
+            "context": [
+                "Um , ninety-five dollars ?",
+                "Yes , that's the price they were advertising it at . I was hoping it might go on sale soon . Why , how much did you pay for it ?"
+            ],
+            "hyp_response": "Well , I think it ' s a little expensive .",
+            "ref_response": "I bought it for one hundred and forty-five dollars at Helen's Boutique . I didn't know I could get it cheaper somewhere else .",
+            "human_score": 3.1,
+            "GRADE_score": 4.16,
+            "QuantiDCE_score": 3.35
+        },
+        {
+            "context": [
+                "Really ? Wow with who ?",
+                "This girl I've been chatting with for the past couple of months . She's really cool and she's driving over here this weekend ."
+            ],
+            "hyp_response": "Oh , I know . I ' ve heard that she ' s going to be a good thing .",
+            "ref_response": "Wait a minute , you mean you met her online ?",
+            "human_score": 3.1,
+            "GRADE_score": 4.11,
+            "QuantiDCE_score": 3.1
+        },
+        {
+            "context": [
+                "Why aren't you eating anything else ?",
+                "Well , fruits and vegetables are very healthy ."
+            ],
+            "hyp_response": "What kind of vegetables do you want to eat ?",
+            "ref_response": "And the chicken ?",
+            "human_score": 3.1,
+            "GRADE_score": 3.93,
+            "QuantiDCE_score": 3.29
+        },
+        {
+            "context": [
+                "Have you ever tried shopping online ?",
+                "No , never . I prefer to actually see and touch what I'm buying before I pay for it , especially for clothes and shoes ."
+            ],
+            "hyp_response": "What about the size ?",
+            "ref_response": "That's right . Seeing is believing .",
+            "human_score": 3.5,
+            "GRADE_score": 4.49,
+            "QuantiDCE_score": 3.91
+        },
+        {
+            "context": [
+                "How nice of him . I'll be delighted to go . But what time would be convenient ?",
+                "If you could be ready by , say 6:30 o'clock , I'll be at the hotel to pick you up ."
+            ],
+            "hyp_response": "That ' s fine .",
+            "ref_response": "That's great . It's most thoughtful of you to do this , Miss Rose .",
+            "human_score": 3.5,
+            "GRADE_score": 4.62,
+            "QuantiDCE_score": 3.98
+        },
+        {
+            "context": [
+                "Barely . Will you be checking any luggage today ?",
+                "Yes , One suitcase . I also have a carry-on bag ."
+            ],
+            "hyp_response": "Do you have anything to declare ?",
+            "ref_response": "Ok . Mr . Lee , you're all set . Your flight leaves from gate 10 . Boarding begins at 10:30",
+            "human_score": 3.0,
+            "GRADE_score": 3.5,
+            "QuantiDCE_score": 3.07
+        },
+        {
+            "context": [
+                "I'm Du Juan , in Room 312 .",
+                "I see . Wait in the room , please ."
+            ],
+            "hyp_response": "OK .",
+            "ref_response": "Thank you for your kindness .",
+            "human_score": 3.6,
+            "GRADE_score": 4.6,
+            "QuantiDCE_score": 4.03
+        },
+        {
+            "context": [
+                "How do you do ? Please be seated , How is your trip here ?",
+                "Quite good , I think . I came here by bus , and it took me about 15 minutes ."
+            ],
+            "hyp_response": "Really ?",
+            "ref_response": "Oh , yes . How old are you ?",
+            "human_score": 3.7,
+            "GRADE_score": 4.62,
+            "QuantiDCE_score": 4.04
+        },
+        {
+            "context": [
+                "Does the class start again , Mam ?",
+                "Yes , but to the heath , this break has long enough ."
+            ],
+            "hyp_response": "Yes , but I have a lot of time .",
+            "ref_response": "Oh , breaktime flies .",
+            "human_score": 3.3,
+            "GRADE_score": 3.34,
+            "QuantiDCE_score": 3.31
+        },
+        {
+            "context": [
+                "Sure ! Are you okay ? You seem a bit worried . What's on your mind ?",
+                "We need to talk ."
+            ],
+            "hyp_response": "I need to talk with you .",
+            "ref_response": "Okay  .  .  .",
+            "human_score": 3.3,
+            "GRADE_score": 3.32,
+            "QuantiDCE_score": 3.27
+        },
+        {
+            "context": [
+                "Have I got a high fever ?",
+                "Yes , thirty-eight point seven . Do you have a headache , chest or throat pain ?"
+            ],
+            "hyp_response": "No , I don ' t . I don ' t have a fever .",
+            "ref_response": "Yes , I have .",
+            "human_score": 3.0,
+            "GRADE_score": 4.48,
+            "QuantiDCE_score": 3.57
+        },
+        {
+            "context": [
+                "You'll need to make an appointment .",
+                "Could I do that right now , please ?"
+            ],
+            "hyp_response": "I ' m sorry . I can ' t .",
+            "ref_response": "What day would you like us to do the installation ?",
+            "human_score": 3.3,
+            "GRADE_score": 4.45,
+            "QuantiDCE_score": 3.76
+        },
+        {
+            "context": [
+                "Ms . Wang , this is Mr . Cooper , president of Ivy Publishing .",
+                "It's nice to meet you , Mr . Cooper ."
+            ],
+            "hyp_response": "Yes , I ' m glad to hear you .",
+            "ref_response": "Nice to meet you , Ms . Wang . You must be exhausted after your long trip from Canada .",
+            "human_score": 3.7,
+            "GRADE_score": 3.91,
+            "QuantiDCE_score": 4.02
+        },
+        {
+            "context": [
+                "It is too bad today .",
+                "What happened ?"
+            ],
+            "hyp_response": "It was a little accident .",
+            "ref_response": "My som was lost . I told him to stand rooted to the spot when I went shopping , but he ignored it .",
+            "human_score": 3.9,
+            "GRADE_score": 4.49,
+            "QuantiDCE_score": 4.14
+        },
+        {
+            "context": [
+                "Thank you ! Would you like an aisle seat or a window seat ?",
+                "An aisle seat , please . I'm tall and need to get up and walk pretty often ."
+            ],
+            "hyp_response": "OK . I ' ll come back with you .",
+            "ref_response": "No problem . Your ticket is for Trans Pacific Flight 87 from Detroit to Beijing at 3 forty p . m . on April 13 . You will arrive at Beijing International Airport at six 35 p . m . on April 14 . Your electronic",
+            "human_score": 3.3,
+            "GRADE_score": 3.19,
+            "QuantiDCE_score": 2.7
+        },
+        {
+            "context": [
+                "Why doesn't he ask her ?",
+                "He is too scared to ask her ."
+            ],
+            "hyp_response": "But I don ' t know .",
+            "ref_response": "He's a chicken guy .",
+            "human_score": 3.4,
+            "GRADE_score": 4.23,
+            "QuantiDCE_score": 3.81
+        },
+        {
+            "context": [
+                "What if I don't want to find another girl ?",
+                "You'll change your mind . Look at everyone in the world . They all break up and move on . The faster you understand this , the quicker you will recover ."
+            ],
+            "hyp_response": "Thank you .",
+            "ref_response": "You're right .",
+            "human_score": 3.6,
+            "GRADE_score": 4.59,
+            "QuantiDCE_score": 4.1
+        },
+        {
+            "context": [
+                "Well , known , Jim , I'm  .  .  .  I'm pretty much in favour of your computers , I think computers teach kids to think , because they require logical thoughts .",
+                "But I  .  .  .  I don't agree with thatbecause computers weaken kids'ability to thinkbecause kids don't learn basic skills ."
+            ],
+            "hyp_response": "What do you mean ?",
+            "ref_response": "What do you mean ?",
+            "human_score": 3.8,
+            "GRADE_score": 4.5,
+            "QuantiDCE_score": 4.08
+        },
+        {
+            "context": [
+                "I have a lot of luggage . Will those fit in the taxi ?",
+                "Take it easy . I'll send a larger to pick you up ."
+            ],
+            "hyp_response": "Thank you .",
+            "ref_response": "Thank you very much .",
+            "human_score": 3.8,
+            "GRADE_score": 4.6,
+            "QuantiDCE_score": 4.13
+        },
+        {
+            "context": [
+                "Anyway , the show is breathtaking . By the way , where did they get so much snow here ?",
+                "Well , they have the most advanced snowmaking machine ."
+            ],
+            "hyp_response": "Yes , they did .",
+            "ref_response": "Do you think the snowmaking may cause pollution ?",
+            "human_score": 3.3,
+            "GRADE_score": 4.6,
+            "QuantiDCE_score": 3.75
+        },
+        {
+            "context": [
+                "Please be at the airport two hours before your departure to check in . You also need to reconfirm your reservation with the airline at least 7 days prior to your departure .",
+                "What happens if I can't leave on April 13 ? Can I cancel my ticket or change the reservation to another date ?"
+            ],
+            "hyp_response": "No , you don ' t have to pay for your ticket .",
+            "ref_response": "Yes , you can , but you will have to pay a penalty of $ 75 for any change or cancellation .",
+            "human_score": 3.33,
+            "GRADE_score": 4.1,
+            "QuantiDCE_score": 3.52
+        },
+        {
+            "context": [
+                "Turn on the TV for what ?",
+                "So that we can sit down together and listen to some music ."
+            ],
+            "hyp_response": "Really ? What kind of music do you like ?",
+            "ref_response": "Listen to the music ? And who will cook dinner , will you ?",
+            "human_score": 3.78,
+            "GRADE_score": 4.36,
+            "QuantiDCE_score": 4.0
+        },
+        {
+            "context": [
+                "Yes , I'd like a glass of iced tea .",
+                "Okay . I'll be back in a minute with your drink and salad ."
+            ],
+            "hyp_response": "Thank you .",
+            "ref_response": "Thank you .",
+            "human_score": 3.78,
+            "GRADE_score": 4.6,
+            "QuantiDCE_score": 4.16
+        },
+        {
+            "context": [
+                "It was alright . I ran into Bill and we got to talking for a while . He's in a bit of a jam .",
+                "Why ? What happened ?"
+            ],
+            "hyp_response": "Well , he was a little accident .",
+            "ref_response": "Well , his son had an accident and Bill doesn't have health insurance . This really got me thinking , and I wondered if we shouldn't look into a couple of different HMO's .",
+            "human_score": 3.6,
+            "GRADE_score": 4.32,
+            "QuantiDCE_score": 3.93
+        },
+        {
+            "context": [
+                "Providing warm meals and shelter , especially in the winter months . I found it really fulfilling to be part of that group .",
+                "I'm sure . Okay , now let's move on to your work experience , shall we ?"
+            ],
+            "hyp_response": "Yeah , why not ?",
+            "ref_response": "Yes , okay .",
+            "human_score": 3.8,
+            "GRADE_score": 4.57,
+            "QuantiDCE_score": 4.09
+        },
+        {
+            "context": [
+                "I didn't just find out about one job . There were several ones that looked good .",
+                "Maybe I should try looking on the web for work ."
+            ],
+            "hyp_response": "That ' s good .",
+            "ref_response": "Sure you have to be patient . But I think it's much less trouble to sit in front of a computer than to go door to door or to make a lot of phone calls .",
+            "human_score": 3.4,
+            "GRADE_score": 4.62,
+            "QuantiDCE_score": 3.89
+        },
+        {
+            "context": [
+                "Good afternoon ! Trans Pacific Airline . How can I help you ?",
+                "I'm calling to cancel my reservation for Trans Pacific Flight 8 on July 19 from Taipei to Minneapolis . Could you please make it for the same flight on August 2 instead of July 19 ?"
+            ],
+            "hyp_response": "Sure . I ' m afraid you can ' t .",
+            "ref_response": "What's your name , please ?",
+            "human_score": 3.0,
+            "GRADE_score": 3.93,
+            "QuantiDCE_score": 3.29
+        },
+        {
+            "context": [
+                "I see . We will go the day after tomorrow .",
+                "By the way , what kind of stores do we need to go ?"
+            ],
+            "hyp_response": "OK . Let ' s go .",
+            "ref_response": "I want to buy some clothes in clothing store . When we are going back , go to the butcher's shop and buy some chicken .",
+            "human_score": 3.33,
+            "GRADE_score": 4.54,
+            "QuantiDCE_score": 3.7
+        },
+        {
+            "context": [
+                "Heard what ?",
+                "Deborah already had her baby ."
+            ],
+            "hyp_response": "Oh , what ?",
+            "ref_response": "I didn't know that .",
+            "human_score": 3.22,
+            "GRADE_score": 4.63,
+            "QuantiDCE_score": 3.65
+        },
+        {
+            "context": [
+                "I suppose I don't want that one then . I don't like auto-reverse . It breaks too easily .",
+                "Really ? Have you had an auto-reverse break before ?"
+            ],
+            "hyp_response": "I don ' t know , but I don ' t know how to use it .",
+            "ref_response": "Yes , twice now . I think it's too high-tech , and so it's the first part that breaks .",
+            "human_score": 3.33,
+            "GRADE_score": 3.94,
+            "QuantiDCE_score": 3.09
+        },
+        {
+            "context": [
+                "How much per night are we talking about ?",
+                "Each night will be $ 308 ."
+            ],
+            "hyp_response": "$ 308 a night ?",
+            "ref_response": "That price is perfectly acceptable .",
+            "human_score": 3.44,
+            "GRADE_score": 4.61,
+            "QuantiDCE_score": 3.77
+        },
+        {
+            "context": [
+                "This is Bill Burton from Milford Insurance , I'm calling in regards to our meeting next Tuesday .",
+                "Thank you , Mr . Burton . Can you please hold for a moment ? I'll check to see if she is available ."
+            ],
+            "hyp_response": "OK .",
+            "ref_response": "No problem .",
+            "human_score": 3.67,
+            "GRADE_score": 4.6,
+            "QuantiDCE_score": 4.06
+        },
+        {
+            "context": [
+                "No . I am a transit passenger going to Sweden .",
+                "How long are you going to stay here ?"
+            ],
+            "hyp_response": "I have no idea .",
+            "ref_response": "Only one night .",
+            "human_score": 3.8,
+            "GRADE_score": 4.53,
+            "QuantiDCE_score": 4.01
+        },
+        {
+            "context": [
+                "Of course you do . They are silly stories just for little kids like you .",
+                "Don't call me kid . I am a grownup ."
+            ],
+            "hyp_response": "Really ? I am sorry .",
+            "ref_response": "Do you dare watch scary movies with me tonight ?",
+            "human_score": 3.73,
+            "GRADE_score": 4.58,
+            "QuantiDCE_score": 4.04
+        },
+        {
+            "context": [
+                "Morning , Michael . I'Ve been very busy lately . One of our other vendors is going out of business and I'Ve been searching for a suitable replacement .",
+                "Well , rest assured that you can count on us to be here for the long run , sitdown . Coffee ?"
+            ],
+            "hyp_response": "No , I ' m afraid not . I ' m not interested in the spot .",
+            "ref_response": "No , thanks . I'Ve been trying to cut down on the caffeine .",
+            "human_score": 3.6,
+            "GRADE_score": 3.35,
+            "QuantiDCE_score": 3.49
+        },
+        {
+            "context": [
+                "I am dying from the heat .",
+                "Turn on the air conditioner ."
+            ],
+            "hyp_response": "How long will it take ?",
+            "ref_response": "It doesn't work .",
+            "human_score": 3.4,
+            "GRADE_score": 3.71,
+            "QuantiDCE_score": 3.79
+        },
+        {
+            "context": [
+                "That's how much this t . v costs .",
+                "That's too expensive for me ."
+            ],
+            "hyp_response": "I ' m not sure .",
+            "ref_response": "This television is of very high quality .",
+            "human_score": 3.6,
+            "GRADE_score": 4.43,
+            "QuantiDCE_score": 3.97
+        },
+        {
+            "context": [
+                "Yes , smoking or non-smoking ?",
+                "We'd like a non-smoking table , please ."
+            ],
+            "hyp_response": "Yes , please .",
+            "ref_response": "Come with me , please .",
+            "human_score": 3.4,
+            "GRADE_score": 4.62,
+            "QuantiDCE_score": 3.8
+        }
+    ],
+    "score ∈ [4.0, 5.0)": [
+        {
+            "context": [
+                "Hello , 332440 .",
+                "Oh hello , Sally . This is Dave Thomson here . Could I speak to Jim please ?"
+            ],
+            "hyp_response": "Yes . He's in the line-up .",
+            "ref_response": "I'm afraid he's not in at the moment Dave . He went out about an hour ago and he's not back yet .",
+            "human_score": 4.1,
+            "GRADE_score": 4.09,
+            "QuantiDCE_score": 3.97
+        },
+        {
+            "context": [
+                "I want to take a look at that home with the Open House flags out front .",
+                "What a wonderful neighborhood ! Can you find that house on our Open House list ?"
+            ],
+            "hyp_response": "Yes , it looks perfect .",
+            "ref_response": "Yes , that is one of the houses that we have on our list .",
+            "human_score": 4.0,
+            "GRADE_score": 4.48,
+            "QuantiDCE_score": 4.18
+        },
+        {
+            "context": [
+                "How long will the induction training be ?",
+                "About two weeks ."
+            ],
+            "hyp_response": "Is the training center helpful ?",
+            "ref_response": "I see .",
+            "human_score": 4.1,
+            "GRADE_score": 4.03,
+            "QuantiDCE_score": 3.33
+        },
+        {
+            "context": [
+                "Hum , Edward Norton , or something like that . Did you like him ?",
+                "Yes . He was excellent . They worked well together , don't you think ?"
+            ],
+            "hyp_response": "Yes . He was excellent . They worked well together .",
+            "ref_response": "I don't know . I think the woman was better . She provided a good love interest . Lucky James Bond !",
+            "human_score": 4.1,
+            "GRADE_score": 4.64,
+            "QuantiDCE_score": 4.25
+        },
+        {
+            "context": [
+                "Mr . Smith , please .",
+                "Sorry , he is out ."
+            ],
+            "hyp_response": "Could you leave him a message ?",
+            "ref_response": "What time do you expect him back then ?",
+            "human_score": 4.3,
+            "GRADE_score": 4.38,
+            "QuantiDCE_score": 4.29
+        },
+        {
+            "context": [
+                "How much per night are we talking about ?",
+                "Each night will be $ 308 ."
+            ],
+            "hyp_response": "$ 308 a night ? That's a fair price .",
+            "ref_response": "That price is perfectly acceptable .",
+            "human_score": 4.1,
+            "GRADE_score": 4.55,
+            "QuantiDCE_score": 4.28
+        },
+        {
+            "context": [
+                "Not bad .",
+                "Say I've got two tickets for the concert this evening . Would you like to come with me ?"
+            ],
+            "hyp_response": "That ' s fine .",
+            "ref_response": "Sure . Thank you very much .",
+            "human_score": 4.2,
+            "GRADE_score": 4.62,
+            "QuantiDCE_score": 3.95
+        },
+        {
+            "context": [
+                "How much is that one ?",
+                "It's two hundred and eighty dollars ."
+            ],
+            "hyp_response": "That ' s good .",
+            "ref_response": "OK . I'll take it . Thank you .",
+            "human_score": 4.0,
+            "GRADE_score": 4.64,
+            "QuantiDCE_score": 4.06
+        },
+        {
+            "context": [
+                "I think that's just steam . Your engine's overheated .",
+                "Do you know a lot about cars ?"
+            ],
+            "hyp_response": "No , I don ' t .",
+            "ref_response": "A little bit . I'll take a look if you want me to .",
+            "human_score": 4.0,
+            "GRADE_score": 4.6,
+            "QuantiDCE_score": 3.78
+        },
+        {
+            "context": [
+                "I went to Salt Lake City on business . What's up ?",
+                "I got fired ."
+            ],
+            "hyp_response": "Really ? Why ?",
+            "ref_response": "How come ? Last time I saw you . You told me it was a good job , and you'd like to take it as a career . That was only one month ago . Why this sudden change ?",
+            "human_score": 4.0,
+            "GRADE_score": 4.6,
+            "QuantiDCE_score": 4.13
+        },
+        {
+            "context": [
+                "The bartender just gave the last call . Let's order another round , okay ?",
+                "Sure , but let's get a pitcher this time We should be able to down it before they close ."
+            ],
+            "hyp_response": "That ' s good . I ' ll be there .",
+            "ref_response": "That sounds good . You order the beer while I go to the bathroom . Where is the can in this place ?",
+            "human_score": 4.0,
+            "GRADE_score": 3.11,
+            "QuantiDCE_score": 2.87
+        },
+        {
+            "context": [
+                "Good afternoon ! Trans Pacific Airline . How can I help you ?",
+                "I'm calling to cancel my reservation for Trans Pacific Flight 8 on July 19 from Taipei to Minneapolis . Could you please make it for the same flight on August 2 instead of July 19 ?"
+            ],
+            "hyp_response": "Sure . I ' m afraid you can ' t .",
+            "ref_response": "What's your name , please ?",
+            "human_score": 4.2,
+            "GRADE_score": 3.93,
+            "QuantiDCE_score": 3.29
+        },
+        {
+            "context": [
+                "Well , you should come this weekend . I think you could do the climb .",
+                "Yeah , I will . See you then !"
+            ],
+            "hyp_response": "See you !",
+            "ref_response": "O . K . See you .",
+            "human_score": 4.3,
+            "GRADE_score": 4.6,
+            "QuantiDCE_score": 4.51
+        },
+        {
+            "context": [
+                "Hey Tina . What are you doing ?",
+                "I was just watching TV . What's going on with you ?"
+            ],
+            "hyp_response": "I ' m going to the movies .",
+            "ref_response": "I just watched a movie and I'm scared .",
+            "human_score": 4.4,
+            "GRADE_score": 3.84,
+            "QuantiDCE_score": 4.4
+        },
+        {
+            "context": [
+                "Here's my name card .",
+                "And here's mine ."
+            ],
+            "hyp_response": "Thank you .",
+            "ref_response": "It's nice to finally meet you .",
+            "human_score": 4.1,
+            "GRADE_score": 4.62,
+            "QuantiDCE_score": 4.2
+        },
+        {
+            "context": [
+                "I'd like to speak Dr . Johnson .",
+                "Sorry , but he's not in . May I take a message for you ?"
+            ],
+            "hyp_response": "Yes , please .",
+            "ref_response": "This is Robert Jordan . Would you ask him to call me back , please ?",
+            "human_score": 4.1,
+            "GRADE_score": 4.62,
+            "QuantiDCE_score": 4.17
+        },
+        {
+            "context": [
+                "Wait a moment , please . Let me check it .",
+                "By the way , I want a large room ."
+            ],
+            "hyp_response": "Here you are .",
+            "ref_response": "Right now we have a suite for 4 people , do you want to book it ?",
+            "human_score": 4.3,
+            "GRADE_score": 4.61,
+            "QuantiDCE_score": 4.33
+        },
+        {
+            "context": [
+                "First of all , we'll design a custom-made work-out plan according to your habits .",
+                "How can you get that done ?"
+            ],
+            "hyp_response": "Well , I think we ' ll have a try .",
+            "ref_response": "Well , we give each of our customers a personal trainer who is qualified . And he will give you a fitness assessment and then come up with the work-out plan for your needs .",
+            "human_score": 4.27,
+            "GRADE_score": 3.82,
+            "QuantiDCE_score": 2.78
+        },
+        {
+            "context": [
+                "I would prefer next Thursday .",
+                "What time would be best for you ?"
+            ],
+            "hyp_response": "At 9 : 00 o ' clock .",
+            "ref_response": "I want to come in at 2",
+            "human_score": 4.36,
+            "GRADE_score": 4.54,
+            "QuantiDCE_score": 4.37
+        },
+        {
+            "context": [
+                "Yes .",
+                "What's the weather like in your country ?"
+            ],
+            "hyp_response": "It ' s very hot . The summers are very rainy .",
+            "ref_response": "Mm  .  .  .  It's quite warm now .",
+            "human_score": 4.45,
+            "GRADE_score": 4.36,
+            "QuantiDCE_score": 4.4
+        },
+        {
+            "context": [
+                "Don't feel like it . I'm broke .",
+                "Well , we can still do some window shopping , can we ?"
+            ],
+            "hyp_response": "I ' ll have to go to the hospital .",
+            "ref_response": "Just look around ? Nah , that's boring .",
+            "human_score": 4.2,
+            "GRADE_score": 3.13,
+            "QuantiDCE_score": 3.81
+        }
+    ]
+}

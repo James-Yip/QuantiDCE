@@ -1,0 +1,3310 @@
+{
+    "score ∈ [1.0, 2.0)": [
+        {
+            "context": [
+                "I ended up staying at home for the holidays",
+                "why is that? comfort ?"
+            ],
+            "hyp_response": "How long have you been with your boyfriend?",
+            "ref_response": "No all my family lives out of state. I didn't feel like traveling, but I just ended up sitting at home and watching lord of the rings in the dark.",
+            "human_score": 1.9,
+            "GRADE_score": 3.02,
+            "QuantiDCE_score": 2.81
+        },
+        {
+            "context": [
+                "I am so happy it's a boy",
+                "You just had a baby?! I didn't even know you were expecting!"
+            ],
+            "hyp_response": "My dog needs some good training!",
+            "ref_response": "He'll be here in about 3 months",
+            "human_score": 1.9,
+            "GRADE_score": 2.45,
+            "QuantiDCE_score": 2.65
+        },
+        {
+            "context": [
+                "I enjoy visiting the nursing home on occasion.",
+                "Oh yeah?  Do you know someone that lives there?"
+            ],
+            "hyp_response": "Nice, you must do whatever you want each day.",
+            "ref_response": "Not really, I take my daughter to see them, so many of them have no visitors at all.",
+            "human_score": 1.78,
+            "GRADE_score": 2.36,
+            "QuantiDCE_score": 2.31
+        },
+        {
+            "context": [
+                "I came home from work last night and my step dad scared me!",
+                "How did he scare you?"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "Like he jumped out from behind a door and scared me. I was not expecting it!",
+            "human_score": 1.9,
+            "GRADE_score": 3.11,
+            "QuantiDCE_score": 2.43
+        },
+        {
+            "context": [
+                "I told a lie to my mother.",
+                "Was it a bad one? And did she find out?"
+            ],
+            "hyp_response": "That ' s a good time . How did it go ?",
+            "ref_response": "I was about school. And I eventually confessed.",
+            "human_score": 1.8,
+            "GRADE_score": 2.54,
+            "QuantiDCE_score": 2.19
+        },
+        {
+            "context": [
+                "I feel the same way.",
+                "How do you channel the anger? Obviously, it too easily turns into the same kind of negative emotion I'm upset about -- so that can feel hypocritical!"
+            ],
+            "hyp_response": "That ' s great ! I hope you can find it !",
+            "ref_response": "I practice boxing. I love to punch the sandbags.It is very therapeutic.",
+            "human_score": 1.9,
+            "GRADE_score": 2.79,
+            "QuantiDCE_score": 2.17
+        },
+        {
+            "context": [
+                "I was annoyed when my favorite show wasn't on",
+                "what did you end up watching instead"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "I ended up watching Impractical Jokers",
+            "human_score": 1.9,
+            "GRADE_score": 3.39,
+            "QuantiDCE_score": 2.97
+        },
+        {
+            "context": [
+                "My dad called me one day crying out for help. I had to drive over to his house.",
+                "Oh my goodness! What happened?"
+            ],
+            "hyp_response": "That ' s great ! I hope you have a good time !",
+            "ref_response": "He had fallen and bruised his ribs. I had to take him to the hospital.",
+            "human_score": 1.8,
+            "GRADE_score": 1.88,
+            "QuantiDCE_score": 2.1
+        }
+    ],
+    "score ∈ [2.0, 3.0)": [
+        {
+            "context": [
+                "Someone let me cut in line at the store so I could check out faster.",
+                "wow that was really nice of them"
+            ],
+            "hyp_response": "oh well you lived through it!",
+            "ref_response": "Yeah, I was in a huge hurry and didn't have much but I really needed to make it to the bank before it closed.",
+            "human_score": 2.8,
+            "GRADE_score": 3.71,
+            "QuantiDCE_score": 3.05
+        },
+        {
+            "context": [
+                "My sunday was great. All my chores were done ahead of time. It was a rare and welcomed day.",
+                "that is awesome. sundays are usually my veg out days."
+            ],
+            "hyp_response": "When is it?",
+            "ref_response": "I wish I could more often, but it rarely happens. Especially during the summer. My yard grows like literal weeds.",
+            "human_score": 2.4,
+            "GRADE_score": 4.54,
+            "QuantiDCE_score": 3.78
+        },
+        {
+            "context": [
+                "I always feel like no one hears me. Like When I speak it falls on deaf ears.",
+                "That sucks. Maybe it's time to get new friends?"
+            ],
+            "hyp_response": "Glad you had fun. What breed is it?",
+            "ref_response": "Well, for the most part it's my family. My husband, kids and pets. I know they're not deaf and it's frustrating!",
+            "human_score": 2.4,
+            "GRADE_score": 2.08,
+            "QuantiDCE_score": 2.07
+        },
+        {
+            "context": [
+                "As I look at my 21 year old son, I often reflect on when he was smaller. Time really flies!",
+                "Time sure does fly and change is inevitable"
+            ],
+            "hyp_response": "your husband is a lucky guy!",
+            "ref_response": "Yes, that's true. I still can imagine when he was waking up Christmas morning to see what Santa brought when he was 5.",
+            "human_score": 2.3,
+            "GRADE_score": 3.64,
+            "QuantiDCE_score": 3.05
+        },
+        {
+            "context": [
+                "A dog chased me through a street the other day",
+                "did he catch you?"
+            ],
+            "hyp_response": "What kind of dog was it?",
+            "ref_response": "No i somehow managed to escape.. it was so scary",
+            "human_score": 2.4,
+            "GRADE_score": 4.48,
+            "QuantiDCE_score": 3.51
+        },
+        {
+            "context": [
+                "A year ago, I found an injured baby kitten in the road while driving.",
+                "Oh no! Did you take the kitten to an animal hospital or care for it yourself?"
+            ],
+            "hyp_response": "That's very kind of you. Too often people neglect stray animals and they suffer terrible short lives.",
+            "ref_response": "I cared for it myself. Now she's my beloved cat, Muffin.",
+            "human_score": 2.9,
+            "GRADE_score": 3.67,
+            "QuantiDCE_score": 3.05
+        },
+        {
+            "context": [
+                "Omg! That is terrible. They should really be considerate of people's time",
+                "I wouldn't have minded as much if he actually seemed to care.  If they make you wait and then spend alot of time with you that is one thing"
+            ],
+            "hyp_response": "I hope you keep it forever.",
+            "ref_response": "Right. Did he at least apologize for the long wait",
+            "human_score": 2.7,
+            "GRADE_score": 2.98,
+            "QuantiDCE_score": 2.38
+        },
+        {
+            "context": [
+                "I was planning my wedding and trying to get a caterer.  The one we were looking at was completely ignoring every time my wife tried to communicate with them, to the point where I told them off and went with someone else.",
+                "Sounds like you made the right decision.  What a bunch of A-holes"
+            ],
+            "hyp_response": "Ah ok. Good you stayed committed to your wife.",
+            "ref_response": "Yeah, it was weird, the caterer was a woman so I can't imagine it was like a sexism thing, but she responded to me almost instantly every time.",
+            "human_score": 2.4,
+            "GRADE_score": 4.39,
+            "QuantiDCE_score": 4.06
+        },
+        {
+            "context": [
+                "I've been training a new girl at work this week!",
+                "How is she doing"
+            ],
+            "hyp_response": "That is awesome, good luck",
+            "ref_response": "She's doing great, especially for her second week on the job!",
+            "human_score": 2.64,
+            "GRADE_score": 3.13,
+            "QuantiDCE_score": 2.69
+        },
+        {
+            "context": [
+                "It is a blessing and curse. When I am having problems I think about what she would say to me.",
+                "That's a good way to remember her and keep her close to your heart."
+            ],
+            "hyp_response": "She is probably working hard to provide a better life for the family.",
+            "ref_response": "Yes, it is. I know that time heals.",
+            "human_score": 2.91,
+            "GRADE_score": 3.43,
+            "QuantiDCE_score": 3.25
+        },
+        {
+            "context": [
+                "My husband might loose his job, I'm not sure what we will do if he does.",
+                "That is terrible. Why do you think that he will lose his job?"
+            ],
+            "hyp_response": "What kind of job is it?   I will keep my fingers crossed he gets it!",
+            "ref_response": "The company is downsizing and cutting a lot of departments. His hasn't been cut yet but there are rumors!",
+            "human_score": 2.45,
+            "GRADE_score": 3.74,
+            "QuantiDCE_score": 3.16
+        },
+        {
+            "context": [
+                "We walked, we ate ice cream, we rode a bike, we laughed a lot, we enjoyed the outdoors, we were exhausted",
+                "Who did you do all those things with? Sounds like a wonderful day!"
+            ],
+            "hyp_response": "That sounds good!",
+            "ref_response": "I had time that I did not share with the children and that was something that was pending in my soul",
+            "human_score": 2.27,
+            "GRADE_score": 4.58,
+            "QuantiDCE_score": 3.73
+        },
+        {
+            "context": [
+                "Did I tell you what happened with Li the other night? Boy do I feel dumb.",
+                "No, you didn't tell me! What happened?"
+            ],
+            "hyp_response": "Please tell me you caught him!! That is awful!!",
+            "ref_response": "She's 45 minutes late to our anniversary dinner. I don't know what happened to me but I called and left an angry message. Turns out, she had gotten T-boned at an intersection and was talking to the Police Officer when I called!",
+            "human_score": 2.18,
+            "GRADE_score": 4.29,
+            "QuantiDCE_score": 3.43
+        },
+        {
+            "context": [
+                "I am impressed in my sisters camping skills. They are very good",
+                "what did she do ?"
+            ],
+            "hyp_response": "Sounds amazing! What kind of art does she want to produce?",
+            "ref_response": "We went camping and she prepared everything rather quickly including the tents",
+            "human_score": 2.5,
+            "GRADE_score": 2.37,
+            "QuantiDCE_score": 2.48
+        },
+        {
+            "context": [
+                "I was stunned with fear to find a rattlesnake right where i was about to step into last week",
+                "holy cow! Thats terrifying. What did you do?"
+            ],
+            "hyp_response": "sounds super scary! my god.",
+            "ref_response": "I stood there speechless for a moment, turned back and ran for my life!",
+            "human_score": 2.7,
+            "GRADE_score": 4.28,
+            "QuantiDCE_score": 3.29
+        },
+        {
+            "context": [
+                "I'm gonna need your support here, because I'm going through something a little bit rough, okay?",
+                "Anything you need!! I'm here for you!"
+            ],
+            "hyp_response": "That's great! You have to keep a good attitude about it. I hope you get the part you want!",
+            "ref_response": "I'm 29 years old and I woke up to find that I'd wet the bed last night. I'm...not even sure how. I didn't drink a whole lot before bed or anything.",
+            "human_score": 2.6,
+            "GRADE_score": 2.96,
+            "QuantiDCE_score": 2.28
+        },
+        {
+            "context": [
+                "I think that in the past i have spent time caring about things that aren't important.",
+                "What kind of thing?  You could always change that in the future."
+            ],
+            "hyp_response": "Good for you.What is the reason of all this happiness?",
+            "ref_response": "Money mostly. I just wish i could have enough of it to be set for life.",
+            "human_score": 2.1,
+            "GRADE_score": 3.54,
+            "QuantiDCE_score": 2.93
+        },
+        {
+            "context": [
+                "First day of school I remember ,my kids first day of school, how did it make you feel?",
+                "It just gave me the feeling that time flies by too quickly sometimes.  My youngest in the pic was in first grade and his older sister was in 7th grade."
+            ],
+            "hyp_response": "That's awesome. That's a good amount for a little effort which is always nice.",
+            "ref_response": "yes it does but we always got or memories.",
+            "human_score": 2.3,
+            "GRADE_score": 2.79,
+            "QuantiDCE_score": 2.32
+        },
+        {
+            "context": [
+                "I love teaching people how to skydive - it is so much fun helping them to learn.",
+                "That's sound like a lot of fun! Do you know where I can go get lessons?"
+            ],
+            "hyp_response": "It does just bring about a great feeling doesn't it?",
+            "ref_response": "There are skydiving centers all over the world.  What part of the country are you in?  It is an amazing sport.",
+            "human_score": 2.8,
+            "GRADE_score": 2.79,
+            "QuantiDCE_score": 2.34
+        },
+        {
+            "context": [
+                "Yes, I think they offer a great bridge to the past. Do you?",
+                "Absolutely. I love to hear my mámá tell me stories from her childhood trapping nutria and trawling with her family."
+            ],
+            "hyp_response": "well, as long as you're happy",
+            "ref_response": "That's great. It sounds like a very good situation to be in.",
+            "human_score": 2.7,
+            "GRADE_score": 3.3,
+            "QuantiDCE_score": 2.56
+        },
+        {
+            "context": [
+                "I have a wonderful sister-in-law.  who is always there for me when I need her",
+                "That must be comforting!  It is good to have people in your life that are supportive."
+            ],
+            "hyp_response": "Oh, that does not seem very nice.",
+            "ref_response": "I feel so lucky to have her as a sister-in-law and a friend.  She is always there to offer a supporting ear and encouraging word.",
+            "human_score": 2.44,
+            "GRADE_score": 3.04,
+            "QuantiDCE_score": 2.46
+        },
+        {
+            "context": [
+                "Oh man! What happened to your hip?",
+                "I fell and fractured it two years ago. My then surgeon botched the operation and I have to use a walker to get around. If this new guy can do something I could walk properly again!"
+            ],
+            "hyp_response": "Sounds cool! There isn't anything like that around here.",
+            "ref_response": "Oh my god..I had doctors really mess me up too. I am in a lawsuit. Have you thought about contacting an attorney?",
+            "human_score": 2.11,
+            "GRADE_score": 2.72,
+            "QuantiDCE_score": 2.47
+        },
+        {
+            "context": [
+                "My husband is on the road a lot, I hardley ever see him.",
+                "I'm sorry. My wife could sympathize with you since I'm gone a lot on business as well."
+            ],
+            "hyp_response": "it is so nice to see a marriage as strong these days!",
+            "ref_response": "Yes, its hard but I try to remember he does it for our family! I have been trying to adapt to enjoying alone time.",
+            "human_score": 2.78,
+            "GRADE_score": 3.49,
+            "QuantiDCE_score": 2.92
+        },
+        {
+            "context": [
+                "I watched The Lion King today with my daughter, reminded me of my childhood.",
+                "thats a good movie, cant wait for the live action version coming out"
+            ],
+            "hyp_response": "Nice you must feel pretty lucky",
+            "ref_response": "Yes! I'm excited for that as well. I watched the movie with my mom when it first came out!",
+            "human_score": 2.33,
+            "GRADE_score": 3.29,
+            "QuantiDCE_score": 2.59
+        },
+        {
+            "context": [
+                "I came home from work last night and my step dad scared me!",
+                "How did he scare you?"
+            ],
+            "hyp_response": "That's so sweet!  I bet he is an awesome dad!",
+            "ref_response": "Like he jumped out from behind a door and scared me. I was not expecting it!",
+            "human_score": 2.44,
+            "GRADE_score": 3.52,
+            "QuantiDCE_score": 2.89
+        },
+        {
+            "context": [
+                "Sounds like fund, you must be excited!",
+                "I am, I have been watching all my favorite movies."
+            ],
+            "hyp_response": "me too, i use it for work , to relax and play games or watch movies on it",
+            "ref_response": "I think I will need to do that, my TV is an oldy.  I am sure you will have a great time.",
+            "human_score": 2.89,
+            "GRADE_score": 3.66,
+            "QuantiDCE_score": 2.69
+        },
+        {
+            "context": [
+                "I recently had a shop fix my car. They worked so fast!",
+                "That's good, did you have to wait there or were you able to go home?"
+            ],
+            "hyp_response": "Oh sorry to hear that.. Don't you like florida?",
+            "ref_response": "I was able to go home, but I realize now that I didn't even have to",
+            "human_score": 2.44,
+            "GRADE_score": 2.92,
+            "QuantiDCE_score": 2.26
+        },
+        {
+            "context": [
+                "I remember being in Scotland and arranging a trip to California to see my then boyfriend. I was so very happy to be seeing him again!",
+                "I bet! Is it hard to have a long distance relationship?"
+            ],
+            "hyp_response": "That's great! I went on a nice trip too",
+            "ref_response": "Very hard and this was before the days of smartphones and FaceTime. We spent a fortune on telephone calls. But it was so worth it to speak to each other and I was lucky I could afford to fly out to see him.",
+            "human_score": 2.7,
+            "GRADE_score": 2.89,
+            "QuantiDCE_score": 2.59
+        },
+        {
+            "context": [
+                "My mother fell and injured herself. I wanted help and comfort her in any way possible.",
+                "Oh no! I'm sorry. Is she going to be ok?"
+            ],
+            "hyp_response": "That sad. I hope she is okay.",
+            "ref_response": "Yes, but bhe bruised her wrist, and had a concussion. I wish that I was there for her when it happened.",
+            "human_score": 2.8,
+            "GRADE_score": 4.45,
+            "QuantiDCE_score": 3.7
+        },
+        {
+            "context": [
+                "When I do things that are challenging I feel more self-reliant. I recently tried taking an ice bath",
+                "Oh man! thats impressive, those baths are rough."
+            ],
+            "hyp_response": "Sounds like somebody needs an accountabili-buddy...",
+            "ref_response": "Yeah, my bath wasn't deep enough, so I didn't get covered all the way!",
+            "human_score": 2.3,
+            "GRADE_score": 3.16,
+            "QuantiDCE_score": 2.37
+        },
+        {
+            "context": [
+                "My aggressive pet rat attacked the baby rat and left her a horrible gash on her abdomen!",
+                "Wow, that sounds very disgusting."
+            ],
+            "hyp_response": "sounds like a good idea i hope her pain goes away asap!",
+            "ref_response": "It looked so horrible. I thought for sure the baby was as good as dead.",
+            "human_score": 2.2,
+            "GRADE_score": 3.55,
+            "QuantiDCE_score": 2.92
+        },
+        {
+            "context": [
+                "My parents gave me a car for graduating from college. It makes my life so much easier.",
+                "You deserved for graduating."
+            ],
+            "hyp_response": "Good for you. Many are getting into car loan and struggling with car payments",
+            "ref_response": "Thanks, now all I got to do is get a real career. I couldn't have done it with out them.",
+            "human_score": 2.8,
+            "GRADE_score": 3.27,
+            "QuantiDCE_score": 3.02
+        },
+        {
+            "context": [
+                "My birthday was last week and I never heard from my brother OR my sister to wish me a happy birthday.",
+                "oh no I am sorry to hear that! They must have been really busy and it must have slipped their mind"
+            ],
+            "hyp_response": "wow thats a nice little drive!",
+            "ref_response": "I guess I shouldn't expect so much from them and let myself get let down like I have.",
+            "human_score": 2.6,
+            "GRADE_score": 2.16,
+            "QuantiDCE_score": 2.22
+        },
+        {
+            "context": [
+                "No, I didn't.  We live in a rural area and the grocery store is 20 minutes away.  Lucky for him, I forgot some other stuff for tomorrow's dinner [mom brain!] and I told him that we could ride together tomorrow back to the store.",
+                "Maybe you should let him get a couple of things to make up for it."
+            ],
+            "hyp_response": "Oh, well hopefully that works. Wouldn't want you up all night!",
+            "ref_response": "Multiple bags of chips, to be sure!  *chuckle*",
+            "human_score": 2.64,
+            "GRADE_score": 3.73,
+            "QuantiDCE_score": 3.33
+        },
+        {
+            "context": [
+                "Yeah it really does. It's even worse to try and close those accounts!",
+                "They don't want to. I lost mine or it was stolen. But all my autopay bills are at a standstill and the companies are not happy about it."
+            ],
+            "hyp_response": "yea that sucks.. feeling those cars zoom by you",
+            "ref_response": "Man that sounds really stressful...",
+            "human_score": 2.55,
+            "GRADE_score": 3.27,
+            "QuantiDCE_score": 2.63
+        },
+        {
+            "context": [
+                "I'm eating a lot of food to make sure I can lift more weight in the gym next time!",
+                "Are you taking protein?"
+            ],
+            "hyp_response": "Wow!  That is impressive!  You must be really prod of yourself!",
+            "ref_response": "I'm taking everything, honey, raw garlic, yogurt, EVERYTHING!",
+            "human_score": 2.64,
+            "GRADE_score": 2.99,
+            "QuantiDCE_score": 2.45
+        },
+        {
+            "context": [
+                "This afternoon i went to my sons soccer game and he scored three goals! happiest dad ever!",
+                "I figure your son is pretty happy as well."
+            ],
+            "hyp_response": "You will grow to love it. Football is amazing sport. Your son will love it.",
+            "ref_response": "Yes! i love him so dad, but i feel like my own achievement since i teach him how to play, he dedicated the three goals to me!",
+            "human_score": 2.82,
+            "GRADE_score": 4.23,
+            "QuantiDCE_score": 3.89
+        },
+        {
+            "context": [
+                "Over the summer my family went to Alabama to visit family and I felt a lot of emotions",
+                "I guess you don't live in Alabama? Was it overall a good trip....or challenging? Or both!"
+            ],
+            "hyp_response": "Oh, sometimes you just have to accept weather changing your plans. I am sure you can go another time.",
+            "ref_response": "No, I do not live in Alabama. We drove and trip was overall very good as sometimes it can be challenging when driving such a long distance",
+            "human_score": 2.78,
+            "GRADE_score": 3.48,
+            "QuantiDCE_score": 3.51
+        },
+        {
+            "context": [
+                "oh, how nice. What are your plans in that regard for the future?",
+                "have my own restaurant"
+            ],
+            "hyp_response": "Oh nice. What color is it?",
+            "ref_response": "What a dream come true for you that'll be.",
+            "human_score": 2.11,
+            "GRADE_score": 2.7,
+            "QuantiDCE_score": 2.59
+        },
+        {
+            "context": [
+                "I went to a court hearing for unemployment with my former employer, and I felt great about it since I was so prepared with all of the documents and everything I needed to show the court I was in the right for quitting.",
+                "Did it go your way?"
+            ],
+            "hyp_response": "Wow, that's some high praise, I might just have to try it out myself!",
+            "ref_response": "Yes, I actually ended up winning it and they gave me 6 months of unemployment pay.",
+            "human_score": 2.56,
+            "GRADE_score": 2.87,
+            "QuantiDCE_score": 2.33
+        },
+        {
+            "context": [
+                "there is nothing i hate more than losing in something",
+                "Yeah, that's never fun. Did you lose at something recently?"
+            ],
+            "hyp_response": "That is the illusion of winning when in reality you are expected to lose",
+            "ref_response": "not recently but gettting last at a race really makes me angry and motivates me",
+            "human_score": 2.56,
+            "GRADE_score": 3.69,
+            "QuantiDCE_score": 2.96
+        },
+        {
+            "context": [
+                "I'm going overseas and I think I packed everything i need!",
+                "Where are you headed ?"
+            ],
+            "hyp_response": "Nice! You sound like you prepared very well",
+            "ref_response": "Going to Kazakhstan. That's where i was born. My parents still live there and i miss them so much",
+            "human_score": 2.9,
+            "GRADE_score": 2.88,
+            "QuantiDCE_score": 2.32
+        },
+        {
+            "context": [
+                "It's been a long week! My husband has been out of town and its been just me and a cranky toddler.",
+                "Will he be back soon?"
+            ],
+            "hyp_response": "That sounds amazing, I hope you both enjoy it!",
+            "ref_response": "I sure hope so! He's in the military so I never know when he'll get called on a mission :(",
+            "human_score": 2.7,
+            "GRADE_score": 2.3,
+            "QuantiDCE_score": 2.07
+        },
+        {
+            "context": [
+                "My girlfriend's leg was bitten off by a bull shark last summer.",
+                "Oh my! Is she ok, and was it while surfing?"
+            ],
+            "hyp_response": "Oh wow, I'm sorry to hear that! Put your leg up and relax this weekend!",
+            "ref_response": "She's fine now. I spent a month in the hospital with her, then was with her every day for three months while she was in rehab. She was out spreading sacrificial lamb's blood in the water on a fishing trip. Gotta love her.",
+            "human_score": 2.2,
+            "GRADE_score": 3.77,
+            "QuantiDCE_score": 2.84
+        },
+        {
+            "context": [
+                "I recently found out that a person I very much intimately admired did not feel the same way for me. I was pretty surprised.",
+                "I'm sorry to hear that! How did you find out?"
+            ],
+            "hyp_response": "Wow...You need to find a new place to live because that's completely unreasonable.",
+            "ref_response": "She just started treating me differently all of a sudden. And now she is going to be moving away soon.",
+            "human_score": 2.1,
+            "GRADE_score": 2.61,
+            "QuantiDCE_score": 2.31
+        },
+        {
+            "context": [
+                "My sister threw up the other day and made a huge mess.",
+                "that must have been an explosion and a half, did  you clean it up?"
+            ],
+            "hyp_response": "Wow! That is really impressive!",
+            "ref_response": "Fortunately no- she cleaned it up. But she had just had spaghetti and it was floating in it. It was so gross!",
+            "human_score": 2.4,
+            "GRADE_score": 3.36,
+            "QuantiDCE_score": 2.38
+        },
+        {
+            "context": [
+                "I'm sorry to hear that. I had a dog die once too.",
+                "it is so sad to know but my mother is rather sick of flu and not dying"
+            ],
+            "hyp_response": "Aw I hate to hear that. I also hope she feels better. I love my dog so much.",
+            "ref_response": "The flu sure makes it feel like you're dying haha",
+            "human_score": 2.4,
+            "GRADE_score": 4.48,
+            "QuantiDCE_score": 3.79
+        },
+        {
+            "context": [
+                "I hope she hears some good news. Is it pretty serious?",
+                "She had stage 3 cancer, but she was clear last screening a year ago."
+            ],
+            "hyp_response": "I hope she was able to fend for herself. I'm sorry she went through that loss.",
+            "ref_response": "I'll be praying for her, I hope she continues to stay in the clear in the future.",
+            "human_score": 2.4,
+            "GRADE_score": 3.78,
+            "QuantiDCE_score": 3.37
+        },
+        {
+            "context": [
+                "Ugh! I hate it when stuff like that happens. Were you able to get a refund on your tickets?",
+                "No. We went ahead and went on. It actually turned out to be a great trip with zero incidents."
+            ],
+            "hyp_response": "It's awful when you spend money on tickets and popcorn and it's a bad time. Did they put all of the best moments in the trailer?",
+            "ref_response": "Awesome!!",
+            "human_score": 2.89,
+            "GRADE_score": 2.54,
+            "QuantiDCE_score": 2.8
+        },
+        {
+            "context": [
+                "Last year I made a bet with my friend and he lost, so he had to buy me a Nintendo Switch. I was so great.",
+                "That's quite the win! What was the bet?"
+            ],
+            "hyp_response": "Wow I love nintendo, you should get an NES classic!",
+            "ref_response": "I made a bet that he would not lose 20 pounds in 3.5 months. I was hoping that he would win the bet, but on the bright side I got a switch :) Win-win for me.",
+            "human_score": 2.33,
+            "GRADE_score": 3.83,
+            "QuantiDCE_score": 3.39
+        },
+        {
+            "context": [
+                "I like going fishing, it reminds me of when I would go with my dad when I was a kid.",
+                "Do you have any kids?"
+            ],
+            "hyp_response": "Nice. I love finding old stuff from my childhood.",
+            "ref_response": "I do, I have a 6 month old boy. How about you?",
+            "human_score": 2.44,
+            "GRADE_score": 2.37,
+            "QuantiDCE_score": 2.59
+        },
+        {
+            "context": [
+                "Once I was suppose to go visit my sister and nieces who I hadn't seen in forever but I ended up breaking my heal and big toe and wasn't able to go. I was so upset!",
+                "Dang, that sucks. MAybe they can visit you instead?"
+            ],
+            "hyp_response": "I'm glad you found a job quick! That must have felt a little good to tell them at least",
+            "ref_response": "Yeah, hopefully so.  It isn't healing correctly is the problem or else I would just go in my cast.",
+            "human_score": 2.67,
+            "GRADE_score": 3.63,
+            "QuantiDCE_score": 3.03
+        },
+        {
+            "context": [
+                "I had a high risk pregnancy up until a few months ago. I felt the most grateful I'd ever been when my baby turned out healthy.",
+                "Congrats, that must have been a very stressful time leading up the the birth."
+            ],
+            "hyp_response": "That's an amazing feat. Studying is kind of a chore for me.",
+            "ref_response": "It was a really rough pregnancy that ended with a very painful surgery. It was not pretty, but definitely worth it. I would have taken any amount of pain as long as my son was born healthy and safe.",
+            "human_score": 2.56,
+            "GRADE_score": 2.65,
+            "QuantiDCE_score": 2.38
+        },
+        {
+            "context": [
+                "I was feeling kind of down so I ended up snuggling with a stuffed rabbit I have. It brought back a lot of good old memories.",
+                "Never too old or too manly to snuggle a stuffed animal. My mom said I used to carry this blanket with me when I was a toddler, everywhere I went. I wish I still had it. If I did, I'd consider using it again, or at the very least passing it down to my own kid. What's the harm, you know? If something gives you comfort and doesn't bother anyone else, there should be no shame."
+            ],
+            "hyp_response": "Same I've put my parents through a lot.  But now I'm trying to be the best version of myself so I can eventually pay them back",
+            "ref_response": "Awe yeah thanks. He's pretty soft even though he some derpy eye that point in opposite directions. Brings me a lot of comfort and reminds me that someone cares.",
+            "human_score": 2.8,
+            "GRADE_score": 3.17,
+            "QuantiDCE_score": 2.6
+        },
+        {
+            "context": [
+                "When I got the phone call that my mom had cancer I was so upset.",
+                "I am so sorry to hear that. No one should have to go through something like that."
+            ],
+            "hyp_response": "Then maybe you should think about trying to find a job somewhere else?",
+            "ref_response": "It's hard watching one of your parents get sick. We were at the movie theater when I found out and I had to leave.",
+            "human_score": 2.5,
+            "GRADE_score": 3.51,
+            "QuantiDCE_score": 2.63
+        },
+        {
+            "context": [
+                "I was very sad when I found out that my neighbors houses were going to be demolished because the city ordered it..",
+                "Is the city going to build them new ones at least?"
+            ],
+            "hyp_response": "It is unbelievable to meet these wild animals in a city. You should definitely call them",
+            "ref_response": "Nope. They bought them out at city valued tax prices and they have 60 days to find another place to live.",
+            "human_score": 2.9,
+            "GRADE_score": 1.81,
+            "QuantiDCE_score": 2.65
+        },
+        {
+            "context": [
+                "I am going to a concert very soon.",
+                "Cool! Who are you going to see?"
+            ],
+            "hyp_response": "Awesome, I hope you have a great time at the concert.",
+            "ref_response": "Imagine Dragon and Grace Vanderwhall, do you know them?",
+            "human_score": 2.62,
+            "GRADE_score": 3.39,
+            "QuantiDCE_score": 3.03
+        },
+        {
+            "context": [
+                "Honestly? I have a pretty special nephew. He just solved the Navier-Stokes existence and smoothness Millenium Prize problem.",
+                "Holy moses, he must be as smart as me. I solved that thing in five minutes last week. Child's play."
+            ],
+            "hyp_response": "If you live under his roof then you should obey him.",
+            "ref_response": "Child's play is right, the kid is only 6 years old. And you couldn't have, because the Clay Institute says the million dollar prize is still at large, which I'm sure he will be blowing immediately on Tropical Sprite and cocaine.",
+            "human_score": 2.38,
+            "GRADE_score": 3.2,
+            "QuantiDCE_score": 2.45
+        },
+        {
+            "context": [
+                "I was trying to take a nap, but my cat kept on trying to play with my head.",
+                "I love cats."
+            ],
+            "hyp_response": "Wow, that cat must have loved that shoe, he wanted it",
+            "ref_response": "I usually love mine, but not when it is keeping me from sleeping",
+            "human_score": 2.5,
+            "GRADE_score": 3.39,
+            "QuantiDCE_score": 2.96
+        },
+        {
+            "context": [
+                "Honestly? I have a pretty special nephew. He just solved the Navier-Stokes existence and smoothness Millenium Prize problem.",
+                "Holy moses, he must be as smart as me. I solved that thing in five minutes last week. Child's play."
+            ],
+            "hyp_response": "If you live under his roof then you should obey him.",
+            "ref_response": "Child's play is right, the kid is only 6 years old. And you couldn't have, because the Clay Institute says the million dollar prize is still at large, which I'm sure he will be blowing immediately on Tropical Sprite and cocaine.",
+            "human_score": 2.12,
+            "GRADE_score": 3.2,
+            "QuantiDCE_score": 2.45
+        },
+        {
+            "context": [
+                "Same. And all these guys live in different places now so it's harder and harder to get everyone together.",
+                "I bet it would be tough.  Was there a special occasion that brought you all together?"
+            ],
+            "hyp_response": "That's great you are happy with where you are in life. I think the place we work and the area in which we live make a big difference.",
+            "ref_response": "No. We've had a group text going for several years so we just all decided it had been too long.",
+            "human_score": 2.6,
+            "GRADE_score": 2.74,
+            "QuantiDCE_score": 2.5
+        },
+        {
+            "context": [
+                "You won't believe the day I've had! I got to sleep in this morning, I haven't done that in months!",
+                "Its always nice to get some sleep"
+            ],
+            "hyp_response": "You will climb high in the company with that good attitude.",
+            "ref_response": "Yes, my husband even cooked dinner for me today, and helped clean the house! He has been very helpful today.",
+            "human_score": 2.0,
+            "GRADE_score": 2.56,
+            "QuantiDCE_score": 2.37
+        },
+        {
+            "context": [
+                "In college I was in a class with an older woman who stole my ideas for a paper.",
+                "Oh wow! that stinks. Im sorry"
+            ],
+            "hyp_response": "Wow, you're so well spoken.",
+            "ref_response": "It's ok.  I'm basically over it now, but it was really angering then.",
+            "human_score": 2.5,
+            "GRADE_score": 3.18,
+            "QuantiDCE_score": 2.84
+        },
+        {
+            "context": [
+                "my son just used a potty for the first time! he is only 16 months. i'm so proud of him",
+                "Watch out! Next thing you turn around, and he's driving."
+            ],
+            "hyp_response": "That's great to hear, I hope his first day goes well!",
+            "ref_response": "I know! they  grow up so fast! I feel like i just gave a birth to him and look at him now",
+            "human_score": 2.9,
+            "GRADE_score": 4.34,
+            "QuantiDCE_score": 3.61
+        },
+        {
+            "context": [
+                "I understand, but coming at me head on, on a two lane highway, while I'm on a bridge with nowhere to go is not cool.",
+                "I cant imagine how scared you must have been."
+            ],
+            "hyp_response": "i enjoy a little rain every once in a while, but i dont like thunderstorms either",
+            "ref_response": "Uh oh, did he destroy something? Sounds as though he misbehaved a bit.",
+            "human_score": 2.5,
+            "GRADE_score": 2.97,
+            "QuantiDCE_score": 2.93
+        },
+        {
+            "context": [
+                "OKay. I care for everyone",
+                "well you sound like a good person"
+            ],
+            "hyp_response": "That is really cool, everyone should do something like that",
+            "ref_response": "Thanks, I hope I am. You sound like one too",
+            "human_score": 2.8,
+            "GRADE_score": 3.12,
+            "QuantiDCE_score": 2.5
+        },
+        {
+            "context": [
+                "I love youtube. been listening to all my classic tracks. Tupac forever",
+                "I love me some Tupac. Real talk."
+            ],
+            "hyp_response": "have you seen them do it on youtube?",
+            "ref_response": "I started out with one hit wonders but ended up at Pac. I miss my youth lol",
+            "human_score": 2.8,
+            "GRADE_score": 3.3,
+            "QuantiDCE_score": 2.85
+        },
+        {
+            "context": [
+                "When my daughter was born doctors said she wouldn't ever go to school and basically be mentally handicapped.",
+                "And how is she doing now"
+            ],
+            "hyp_response": "it is indeed, learning things at young age is a boon. you got an exceptional daughter",
+            "ref_response": "She is a normal A-B student and just started 8th grade",
+            "human_score": 2.6,
+            "GRADE_score": 3.47,
+            "QuantiDCE_score": 3.08
+        },
+        {
+            "context": [
+                "I was going through my photos today and I saw a picture of me and my ex together. It just made me feel odd, I miss him.",
+                "Nice, when did you guys break up"
+            ],
+            "hyp_response": "Good to hear, glad you guys are happy!",
+            "ref_response": "We broke up back in May, he was just too much of a workaholic.",
+            "human_score": 2.6,
+            "GRADE_score": 3.36,
+            "QuantiDCE_score": 2.45
+        },
+        {
+            "context": [
+                "One time when I was kicked out of the place I was staying at, my best friend immediately told me I could stay with her until I got on my feet.",
+                "Oh no, that sounds like an awful situation. What did you end up doing after that?"
+            ],
+            "hyp_response": "Oh well that sounds like it ended well at least. What was the fight about?",
+            "ref_response": "I stayed with her for about a year until I got my own apartment. We are getting an apartment together in a few months.",
+            "human_score": 2.5,
+            "GRADE_score": 3.75,
+            "QuantiDCE_score": 2.77
+        },
+        {
+            "context": [
+                "When I got the phone call that my mom had cancer I was so upset.",
+                "I am so sorry to hear that. No one should have to go through something like that."
+            ],
+            "hyp_response": "Then maybe you should think about trying to find a job somewhere else?",
+            "ref_response": "It's hard watching one of your parents get sick. We were at the movie theater when I found out and I had to leave.",
+            "human_score": 2.5,
+            "GRADE_score": 3.51,
+            "QuantiDCE_score": 2.63
+        },
+        {
+            "context": [
+                "I feel like deepening my connection to God is the most important thing in my life",
+                "I think that is a lovely thing"
+            ],
+            "hyp_response": "Its good to have supportive siblings like you",
+            "ref_response": "It's like if I don't get that sorted out I won't be able to live a fulfilling life",
+            "human_score": 2.9,
+            "GRADE_score": 3.31,
+            "QuantiDCE_score": 3.17
+        },
+        {
+            "context": [
+                "I have the best kids in the world.",
+                "What did they do this time?"
+            ],
+            "hyp_response": "Did you do anything special to honor it?",
+            "ref_response": "Lots of little stuff.  They love to draw me pictures, crack jokes, and give lots of kisses.",
+            "human_score": 2.6,
+            "GRADE_score": 2.92,
+            "QuantiDCE_score": 2.74
+        },
+        {
+            "context": [
+                "I got to go to a cat cafe when no one else was around!",
+                "I've been to one before with my girlfriend, what an amazing experience eh?"
+            ],
+            "hyp_response": "Wow, that must be quite some distance then! Have a safe flight!",
+            "ref_response": "It was! I was the only one around so all the cats came to spend time with me",
+            "human_score": 2.5,
+            "GRADE_score": 2.39,
+            "QuantiDCE_score": 2.45
+        },
+        {
+            "context": [
+                "I'm gonna take the family out to the lake this weekend, we might rent a boat.",
+                "That sounds like a great way to spend the weekend.  What type of boat are you thinking about renting?"
+            ],
+            "hyp_response": "Is there anything else you do besides work? A hobby you enjoy, video games, music, working out?",
+            "ref_response": "Maybe a pontoon boat, depends on what they have. Should be a nice way to unwind.",
+            "human_score": 2.8,
+            "GRADE_score": 2.44,
+            "QuantiDCE_score": 2.37
+        },
+        {
+            "context": [
+                "I have a big exam coming up! My nerves are getting to me.",
+                "ohh good luck!"
+            ],
+            "hyp_response": "Good luck! Hope you do well",
+            "ref_response": "Thanks! It is my final exam for a summer class studying Database Design. I actually should be taking it right now.",
+            "human_score": 2.89,
+            "GRADE_score": 3.97,
+            "QuantiDCE_score": 3.53
+        },
+        {
+            "context": [
+                "i was so stressed when i found out that i did not get accepted in my dream college",
+                "Oh no. Did you have a good backup plan ?"
+            ],
+            "hyp_response": "Oh congratulations!  I am so happy for you!",
+            "ref_response": "yeah i got into another college that was not as good haha",
+            "human_score": 2.56,
+            "GRADE_score": 2.73,
+            "QuantiDCE_score": 2.26
+        },
+        {
+            "context": [
+                "I went to see Hamilton last month in NYC",
+                "Oh the broadway musical? I heard really good reviews of it"
+            ],
+            "hyp_response": "That's cool. Guess all that hard work pays off!",
+            "ref_response": "It was such a stunning show. Lin manuel should get a grammy for this",
+            "human_score": 2.67,
+            "GRADE_score": 3.37,
+            "QuantiDCE_score": 2.61
+        },
+        {
+            "context": [
+                "A good friend of mine moved away recently and we lost contact. I really wish we would still speak.",
+                "I know how that feels. Maybe try reaching out."
+            ],
+            "hyp_response": "I understand it is usually hard moving to a new city leaving some many people and placed behind",
+            "ref_response": "That's a good idea. Maybe I'll try that soon.",
+            "human_score": 2.89,
+            "GRADE_score": 3.1,
+            "QuantiDCE_score": 2.85
+        },
+        {
+            "context": [
+                "I got to hear a lot of cool songs on a radio station I usually don't listen to.",
+                "Nice! Which ones did you hear!"
+            ],
+            "hyp_response": "Oh cool. I love visiting car shows myself.",
+            "ref_response": "Mambo #5, Missy Elliot, and Ricky Martin. It really took me back",
+            "human_score": 2.56,
+            "GRADE_score": 2.17,
+            "QuantiDCE_score": 2.35
+        },
+        {
+            "context": [
+                "I wore wrong pair of socks to the college. But, no was there to spot it. But, when we have to go in for a church we have to first remove the shoes. At, that time friend of mine spotted with with wrong pair of shoes. They made a fun of me. That was very awkward situation.",
+                "Oh that sucks :( Maybe organize the socks better?"
+            ],
+            "hyp_response": "That's true. It's nice of you to put yourself in their shoes.",
+            "ref_response": "My room was messy as there was a party last night in my house and friends were enjoying in whole house. That is the reason.",
+            "human_score": 2.0,
+            "GRADE_score": 3.3,
+            "QuantiDCE_score": 2.72
+        },
+        {
+            "context": [
+                "So I asked out a girl in my class and she said yes. Was a big morale boost.",
+                "im glad to hear that!"
+            ],
+            "hyp_response": "Thats good! I would of been anxious to get out of that place if that happend.",
+            "ref_response": "Thanks! We are getting coffee this weekend. Hopefully something comes of it!",
+            "human_score": 2.89,
+            "GRADE_score": 3.4,
+            "QuantiDCE_score": 2.94
+        },
+        {
+            "context": [
+                "I was horribly wronged by someone I thought I could trust. The feeling was devastating, and I've always struggled with forgiveness.",
+                "Oh my, what happened? I'm so sorry, no one should treat anyone they care about poorly."
+            ],
+            "hyp_response": "that's sad news, i am sorry for this news you must have been extra drained after coming back from work from that news",
+            "ref_response": "They were dishonest and physically cruel. We have gone our separate ways, but I truly hope they can learn to treat others better.",
+            "human_score": 2.78,
+            "GRADE_score": 3.49,
+            "QuantiDCE_score": 2.76
+        },
+        {
+            "context": [
+                "I feel the same way.",
+                "How do you channel the anger? Obviously, it too easily turns into the same kind of negative emotion I'm upset about -- so that can feel hypocritical!"
+            ],
+            "hyp_response": "I am too.  I don't go out much so maybe you should make sure you do that",
+            "ref_response": "I practice boxing. I love to punch the sandbags.It is very therapeutic.",
+            "human_score": 2.9,
+            "GRADE_score": 2.76,
+            "QuantiDCE_score": 2.1
+        },
+        {
+            "context": [
+                "I ate way too many sweets today!",
+                "theres always tomorrow!"
+            ],
+            "hyp_response": "Well done! What are you going to spend it on?",
+            "ref_response": "Thanks! Being on a diet is hard, espically with family in town!",
+            "human_score": 2.78,
+            "GRADE_score": 2.71,
+            "QuantiDCE_score": 2.93
+        },
+        {
+            "context": [
+                "I'm a little anxious about an upcoming move. It's to a *very* different state with a *very* different climate and way of life!",
+                "What is the state and do you like change?"
+            ],
+            "hyp_response": "It sounds like you're patient and prepared to take it. I wish the best for you guys!",
+            "ref_response": "We've been great with change, including a few overseas moves under our belts. But this is to Anchorage! I've read a lot, and there's a lot to be excited about -- but man, those looooong winters!",
+            "human_score": 2.89,
+            "GRADE_score": 2.73,
+            "QuantiDCE_score": 2.39
+        },
+        {
+            "context": [
+                "I sold some stuff I didnt need last week.",
+                "did yo make some good money?"
+            ],
+            "hyp_response": "Thats what you should do",
+            "ref_response": "Yea, enought to have great weekened anyway.",
+            "human_score": 2.78,
+            "GRADE_score": 3.23,
+            "QuantiDCE_score": 2.55
+        },
+        {
+            "context": [
+                "I've been teaching my young daughter to play video games with me, she's such a quick learner.",
+                "What video games are the two of you playing?"
+            ],
+            "hyp_response": "Good. I hope you enjoy the game and play well.",
+            "ref_response": "Minecraft and asphalt racing are two of them, It's amazing to watch a child learn and grow their intelligence.",
+            "human_score": 2.0,
+            "GRADE_score": 3.37,
+            "QuantiDCE_score": 2.64
+        },
+        {
+            "context": [
+                "I am so proud of my sister",
+                "What did she do?"
+            ],
+            "hyp_response": "You got a good sister!",
+            "ref_response": "She bought me a car",
+            "human_score": 2.44,
+            "GRADE_score": 4.3,
+            "QuantiDCE_score": 3.37
+        },
+        {
+            "context": [
+                "No matter how many times I told her that I didn't do it, my roommate insisted that I ate her ice cream last night! Unbelievable!",
+                "Well, did you eat her ice cream?"
+            ],
+            "hyp_response": "Wow, that is really thoughtful.",
+            "ref_response": "I certainly would have liked to, but I'm lactose intolerant! If I had eaten it, I would have been so miserable that there's no way she would've mistaken it.",
+            "human_score": 2.9,
+            "GRADE_score": 2.9,
+            "QuantiDCE_score": 2.43
+        },
+        {
+            "context": [
+                "Are you cleaning out a house or do you not have garbage pick-up?",
+                "The company in my city just quit picking up for any of the residents, so the dump has a line every day."
+            ],
+            "hyp_response": "That too bad. They are other work from home opportunities though.",
+            "ref_response": "That is insane! I've never heard of anything like that before.  You all should start protesting!",
+            "human_score": 2.9,
+            "GRADE_score": 3.34,
+            "QuantiDCE_score": 3.47
+        },
+        {
+            "context": [
+                "I had to wait in line for 15 minutes at the store today. There was only one poor cashier working.",
+                "That must of been a pain! I hate waiting in lines for cashiers, they are so slow sometimes."
+            ],
+            "hyp_response": "That sounds pretty healthy.  Have you always been this health conscious",
+            "ref_response": "The cashier couldn't help it. The store should hire more people.",
+            "human_score": 2.5,
+            "GRADE_score": 2.94,
+            "QuantiDCE_score": 2.42
+        },
+        {
+            "context": [
+                "Well, it takes perseverance and a bit of luck, but you can do it!",
+                "My dream job is being born rich. Its too late for that"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "Lol, you and me both. You could always marry a Kardashian!",
+            "human_score": 2.7,
+            "GRADE_score": 3.27,
+            "QuantiDCE_score": 2.49
+        },
+        {
+            "context": [
+                "I always feel like no one hears me. Like When I speak it falls on deaf ears.",
+                "That sucks. Maybe it's time to get new friends?"
+            ],
+            "hyp_response": "That ' s cool . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+            "ref_response": "Well, for the most part it's my family. My husband, kids and pets. I know they're not deaf and it's frustrating!",
+            "human_score": 2.6,
+            "GRADE_score": 3.35,
+            "QuantiDCE_score": 3.14
+        },
+        {
+            "context": [
+                "As I look at my 21 year old son, I often reflect on when he was smaller. Time really flies!",
+                "Time sure does fly and change is inevitable"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "Yes, that's true. I still can imagine when he was waking up Christmas morning to see what Santa brought when he was 5.",
+            "human_score": 2.4,
+            "GRADE_score": 3.23,
+            "QuantiDCE_score": 2.86
+        },
+        {
+            "context": [
+                "A dog chased me through a street the other day",
+                "did he catch you?"
+            ],
+            "hyp_response": "oh thats cool",
+            "ref_response": "No i somehow managed to escape.. it was so scary",
+            "human_score": 2.4,
+            "GRADE_score": 3.82,
+            "QuantiDCE_score": 2.67
+        },
+        {
+            "context": [
+                "A year ago, I found an injured baby kitten in the road while driving.",
+                "Oh no! Did you take the kitten to an animal hospital or care for it yourself?"
+            ],
+            "hyp_response": "oh wow that ' s so sweet ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !",
+            "ref_response": "I cared for it myself. Now she's my beloved cat, Muffin.",
+            "human_score": 2.4,
+            "GRADE_score": 2.93,
+            "QuantiDCE_score": 2.59
+        },
+        {
+            "context": [
+                "I was planning my wedding and trying to get a caterer.  The one we were looking at was completely ignoring every time my wife tried to communicate with them, to the point where I told them off and went with someone else.",
+                "Sounds like you made the right decision.  What a bunch of A-holes"
+            ],
+            "hyp_response": "oh thats cool",
+            "ref_response": "Yeah, it was weird, the caterer was a woman so I can't imagine it was like a sexism thing, but she responded to me almost instantly every time.",
+            "human_score": 2.7,
+            "GRADE_score": 3.57,
+            "QuantiDCE_score": 2.51
+        },
+        {
+            "context": [
+                "I've been training a new girl at work this week!",
+                "How is she doing"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "She's doing great, especially for her second week on the job!",
+            "human_score": 2.8,
+            "GRADE_score": 3.41,
+            "QuantiDCE_score": 2.66
+        },
+        {
+            "context": [
+                "My husband might loose his job, I'm not sure what we will do if he does.",
+                "That is terrible. Why do you think that he will lose his job?"
+            ],
+            "hyp_response": "thats a good thing to do . i hope he is a good job",
+            "ref_response": "The company is downsizing and cutting a lot of departments. His hasn't been cut yet but there are rumors!",
+            "human_score": 2.5,
+            "GRADE_score": 4.13,
+            "QuantiDCE_score": 3.43
+        },
+        {
+            "context": [
+                "We walked, we ate ice cream, we rode a bike, we laughed a lot, we enjoyed the outdoors, we were exhausted",
+                "Who did you do all those things with? Sounds like a wonderful day!"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "I had time that I did not share with the children and that was something that was pending in my soul",
+            "human_score": 2.6,
+            "GRADE_score": 3.86,
+            "QuantiDCE_score": 3.2
+        },
+        {
+            "context": [
+                "I am impressed in my sisters camping skills. They are very good",
+                "what did she do ?"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "We went camping and she prepared everything rather quickly including the tents",
+            "human_score": 2.8,
+            "GRADE_score": 3.17,
+            "QuantiDCE_score": 2.64
+        },
+        {
+            "context": [
+                "I just went today to visit my son in his new house.",
+                "how was it"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "It was great! He has saved for so long to buy it.",
+            "human_score": 2.7,
+            "GRADE_score": 3.08,
+            "QuantiDCE_score": 2.7
+        },
+        {
+            "context": [
+                "I was stunned with fear to find a rattlesnake right where i was about to step into last week",
+                "holy cow! Thats terrifying. What did you do?"
+            ],
+            "hyp_response": "oh wow ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !",
+            "ref_response": "I stood there speechless for a moment, turned back and ran for my life!",
+            "human_score": 2.7,
+            "GRADE_score": 3.4,
+            "QuantiDCE_score": 3.03
+        },
+        {
+            "context": [
+                "I think that in the past i have spent time caring about things that aren't important.",
+                "What kind of thing?  You could always change that in the future."
+            ],
+            "hyp_response": "That ' s great ! I hope you have a good time !",
+            "ref_response": "Money mostly. I just wish i could have enough of it to be set for life.",
+            "human_score": 2.8,
+            "GRADE_score": 2.74,
+            "QuantiDCE_score": 2.07
+        },
+        {
+            "context": [
+                "I love teaching people how to skydive - it is so much fun helping them to learn.",
+                "That's sound like a lot of fun! Do you know where I can go get lessons?"
+            ],
+            "hyp_response": "That ' s great ! i hope you have a good time",
+            "ref_response": "There are skydiving centers all over the world.  What part of the country are you in?  It is an amazing sport.",
+            "human_score": 2.3,
+            "GRADE_score": 2.78,
+            "QuantiDCE_score": 2.19
+        },
+        {
+            "context": [
+                "My husband is on the road a lot, I hardley ever see him.",
+                "I'm sorry. My wife could sympathize with you since I'm gone a lot on business as well."
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "Yes, its hard but I try to remember he does it for our family! I have been trying to adapt to enjoying alone time.",
+            "human_score": 2.8,
+            "GRADE_score": 3.45,
+            "QuantiDCE_score": 2.66
+        },
+        {
+            "context": [
+                "We ate good food, drank wine and went swimming.",
+                "That sounds fun.  Was the weather nice?"
+            ],
+            "hyp_response": "That ' s a good time . I bet you were able to go to visit .",
+            "ref_response": "It was, kind of hot but not enough to complain about.",
+            "human_score": 2.3,
+            "GRADE_score": 2.86,
+            "QuantiDCE_score": 2.7
+        },
+        {
+            "context": [
+                "Thats sad. Have you been to Scotand since?",
+                "Only for funerals, unfortunately. Both my parents have since died. Unpleasant fact of life, I'm afraid."
+            ],
+            "hyp_response": "That ' s a good way to work .",
+            "ref_response": "Im sorry to hear that. Were you born there?",
+            "human_score": 2.2,
+            "GRADE_score": 2.77,
+            "QuantiDCE_score": 2.57
+        },
+        {
+            "context": [
+                "I recently had a shop fix my car. They worked so fast!",
+                "That's good, did you have to wait there or were you able to go home?"
+            ],
+            "hyp_response": "That ' s great ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !",
+            "ref_response": "I was able to go home, but I realize now that I didn't even have to",
+            "human_score": 2.4,
+            "GRADE_score": 3.2,
+            "QuantiDCE_score": 2.63
+        },
+        {
+            "context": [
+                "The other night i heard a sound like someone was breaking in my house, i was pretty scared.",
+                "Wow, that sounds quite disturbing. Was someone breaking in?"
+            ],
+            "hyp_response": "oh thats cool",
+            "ref_response": "No, it turns out the power had went out for a minute and it was the sound of the printer calibrating.",
+            "human_score": 2.7,
+            "GRADE_score": 3.7,
+            "QuantiDCE_score": 2.61
+        },
+        {
+            "context": [
+                "I remember being in Scotland and arranging a trip to California to see my then boyfriend. I was so very happy to be seeing him again!",
+                "I bet! Is it hard to have a long distance relationship?"
+            ],
+            "hyp_response": "That ' s great ! I hope you have a great time !",
+            "ref_response": "Very hard and this was before the days of smartphones and FaceTime. We spent a fortune on telephone calls. But it was so worth it to speak to each other and I was lucky I could afford to fly out to see him.",
+            "human_score": 2.8,
+            "GRADE_score": 2.7,
+            "QuantiDCE_score": 2.17
+        },
+        {
+            "context": [
+                "My mother fell and injured herself. I wanted help and comfort her in any way possible.",
+                "Oh no! I'm sorry. Is she going to be ok?"
+            ],
+            "hyp_response": "thats cool , i hope you have a good time",
+            "ref_response": "Yes, but bhe bruised her wrist, and had a concussion. I wish that I was there for her when it happened.",
+            "human_score": 2.2,
+            "GRADE_score": 1.98,
+            "QuantiDCE_score": 2.05
+        },
+        {
+            "context": [
+                "My aggressive pet rat attacked the baby rat and left her a horrible gash on her abdomen!",
+                "Wow, that sounds very disgusting."
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "It looked so horrible. I thought for sure the baby was as good as dead.",
+            "human_score": 2.8,
+            "GRADE_score": 3.54,
+            "QuantiDCE_score": 2.99
+        },
+        {
+            "context": [
+                "I still live and work in the place where I grew up, but all of my friends have moved away.",
+                "Aw, that has to be tough not to see your friends. Do they visit often?"
+            ],
+            "hyp_response": "oh thats cool",
+            "ref_response": "No, everyone's so busy with their lives and work that it's hard to arrange. Most of the people here my age do drugs or stay out all night, so I keep to myself at home, alone.",
+            "human_score": 2.5,
+            "GRADE_score": 3.46,
+            "QuantiDCE_score": 2.5
+        },
+        {
+            "context": [
+                "My parents gave me a car for graduating from college. It makes my life so much easier.",
+                "You deserved for graduating."
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "Thanks, now all I got to do is get a real career. I couldn't have done it with out them.",
+            "human_score": 2.9,
+            "GRADE_score": 3.43,
+            "QuantiDCE_score": 3.37
+        },
+        {
+            "context": [
+                "My birthday was last week and I never heard from my brother OR my sister to wish me a happy birthday.",
+                "oh no I am sorry to hear that! They must have been really busy and it must have slipped their mind"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "I guess I shouldn't expect so much from them and let myself get let down like I have.",
+            "human_score": 2.6,
+            "GRADE_score": 3.32,
+            "QuantiDCE_score": 2.56
+        },
+        {
+            "context": [
+                "Needing some extra money, I used the spare change in my car to buy a scratch off ticket.",
+                "Nice.. what type of ticket.. Monopoly?  Price is Right?  Scrabble?  Bingo?"
+            ],
+            "hyp_response": "oh thats cool",
+            "ref_response": "It was Blackjack.  I didn't win anything though.",
+            "human_score": 2.0,
+            "GRADE_score": 3.75,
+            "QuantiDCE_score": 3.33
+        },
+        {
+            "context": [
+                "No, I didn't.  We live in a rural area and the grocery store is 20 minutes away.  Lucky for him, I forgot some other stuff for tomorrow's dinner [mom brain!] and I told him that we could ride together tomorrow back to the store.",
+                "Maybe you should let him get a couple of things to make up for it."
+            ],
+            "hyp_response": "oh thats cool",
+            "ref_response": "Multiple bags of chips, to be sure!  *chuckle*",
+            "human_score": 2.7,
+            "GRADE_score": 3.92,
+            "QuantiDCE_score": 3.16
+        },
+        {
+            "context": [
+                "I'm eating a lot of food to make sure I can lift more weight in the gym next time!",
+                "Are you taking protein?"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "I'm taking everything, honey, raw garlic, yogurt, EVERYTHING!",
+            "human_score": 2.3,
+            "GRADE_score": 3.5,
+            "QuantiDCE_score": 3.18
+        },
+        {
+            "context": [
+                "I had a job interview yesterday. I was really nervous before it started.",
+                "Was it on the phone or in person?"
+            ],
+            "hyp_response": "Oh no ! That ' s a good job .",
+            "ref_response": "It was in person. We mostly interviewed in a conference room, then we took a lab tour afterwards.",
+            "human_score": 2.9,
+            "GRADE_score": 3.37,
+            "QuantiDCE_score": 2.49
+        },
+        {
+            "context": [
+                "Over the summer my family went to Alabama to visit family and I felt a lot of emotions",
+                "I guess you don't live in Alabama? Was it overall a good trip....or challenging? Or both!"
+            ],
+            "hyp_response": "oh thats cool , i bet you were happy",
+            "ref_response": "No, I do not live in Alabama. We drove and trip was overall very good as sometimes it can be challenging when driving such a long distance",
+            "human_score": 2.5,
+            "GRADE_score": 4.07,
+            "QuantiDCE_score": 3.66
+        },
+        {
+            "context": [
+                "Tomorrow I start my new job teaching kids. I really hope it goes well!",
+                "Oh wow, now that really is exciting, congratulations! Did you get the grade level and subject you wanted?"
+            ],
+            "hyp_response": "That ' s great ! I hope you have a great time !",
+            "ref_response": "I am teaching at a small private school, so I will be teaching all the subjects for 3rd grade. I am pretty excited, just nervous.",
+            "human_score": 2.5,
+            "GRADE_score": 3.35,
+            "QuantiDCE_score": 2.54
+        },
+        {
+            "context": [
+                "there is nothing i hate more than losing in something",
+                "Yeah, that's never fun. Did you lose at something recently?"
+            ],
+            "hyp_response": "That ' s cool . I hope you have a good time .",
+            "ref_response": "not recently but gettting last at a race really makes me angry and motivates me",
+            "human_score": 2.7,
+            "GRADE_score": 2.37,
+            "QuantiDCE_score": 2.1
+        },
+        {
+            "context": [
+                "My son was just born, my first boy after 11 girls!",
+                "Thats amazing, congratulations. 12 Kids your amazing."
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "It's easier if you had 12 different baby mamas, that's my trick anyway. This last labour was 6 hours long!",
+            "human_score": 2.8,
+            "GRADE_score": 4.18,
+            "QuantiDCE_score": 3.34
+        },
+        {
+            "context": [
+                "I feel nostalgic when playing old school games with my bro",
+                "Nice, me too, are you playing Nintendo games?"
+            ],
+            "hyp_response": "thats cool , i love to see my kids , i love to see my kids",
+            "ref_response": "Yes and also Sega Genesis. We play these on the xbox one though via emulation",
+            "human_score": 2.6,
+            "GRADE_score": 3.15,
+            "QuantiDCE_score": 2.36
+        },
+        {
+            "context": [
+                "I agree, the writing part is easy part, but the speaking part is the worst!",
+                "Yeah, it seems like the learning curve is impossible! Maybe I just need more life experience"
+            ],
+            "hyp_response": "i hope you have a great time",
+            "ref_response": "Maybe so, they say to imagine the crowd naked, but I don't think that helps too much with the writing part.",
+            "human_score": 2.7,
+            "GRADE_score": 3.15,
+            "QuantiDCE_score": 2.27
+        },
+        {
+            "context": [
+                "I had a terrifying experience what using the restroom yesterday.",
+                "What happened??"
+            ],
+            "hyp_response": "Oh that ' s so sweet ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !",
+            "ref_response": "As I was sitting on the toilet I kept hearing a scratching noise.  When I turned to look a huge waterbug had climbed up the tub wall next to me.",
+            "human_score": 2.5,
+            "GRADE_score": 3.01,
+            "QuantiDCE_score": 2.82
+        },
+        {
+            "context": [
+                "I'm going overseas and I think I packed everything i need!",
+                "Where are you headed ?"
+            ],
+            "hyp_response": "thats awesome , i hope you have fun",
+            "ref_response": "Going to Kazakhstan. That's where i was born. My parents still live there and i miss them so much",
+            "human_score": 2.4,
+            "GRADE_score": 2.36,
+            "QuantiDCE_score": 2.14
+        },
+        {
+            "context": [
+                "Wow! Congrats to her, and I am sorry that you didn't get the prize. What did she win?",
+                "A weekend trip to Gatlinburg. I would of loved that."
+            ],
+            "hyp_response": "Oh wow ! That ' s a great time !",
+            "ref_response": "Wow that is a great prize! Is she able to take anyone with her or is it just a ticket for one person?",
+            "human_score": 2.7,
+            "GRADE_score": 3.86,
+            "QuantiDCE_score": 3.14
+        },
+        {
+            "context": [
+                "Did you think about moving after that?",
+                "Funny you should mention that - in three weeks time, lol."
+            ],
+            "hyp_response": "thats cool , i love to see my kids , i love my kids",
+            "ref_response": "haha are you serious? Did you move in with your girlfriend?",
+            "human_score": 2.5,
+            "GRADE_score": 3.42,
+            "QuantiDCE_score": 2.62
+        },
+        {
+            "context": [
+                "My girlfriend's leg was bitten off by a bull shark last summer.",
+                "Oh my! Is she ok, and was it while surfing?"
+            ],
+            "hyp_response": "oh thats cool",
+            "ref_response": "She's fine now. I spent a month in the hospital with her, then was with her every day for three months while she was in rehab. She was out spreading sacrificial lamb's blood in the water on a fishing trip. Gotta love her.",
+            "human_score": 2.4,
+            "GRADE_score": 3.59,
+            "QuantiDCE_score": 2.66
+        },
+        {
+            "context": [
+                "Well yeah, that sounds about right. He has to go to the Championship first and win, then party time !!!!!",
+                "You got it! I've been watching him play for a while now and it's such a fantastic feeling to see him win - and in his own country too!"
+            ],
+            "hyp_response": "thats cool , i hope you have a great time !",
+            "ref_response": "It is really could to see friends live out their dreams! I will be cheering for him and the team!",
+            "human_score": 2.8,
+            "GRADE_score": 3.73,
+            "QuantiDCE_score": 2.95
+        },
+        {
+            "context": [
+                "I recently found out that a person I very much intimately admired did not feel the same way for me. I was pretty surprised.",
+                "I'm sorry to hear that! How did you find out?"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "She just started treating me differently all of a sudden. And now she is going to be moving away soon.",
+            "human_score": 2.0,
+            "GRADE_score": 2.97,
+            "QuantiDCE_score": 2.36
+        },
+        {
+            "context": [
+                "My sister threw up the other day and made a huge mess.",
+                "that must have been an explosion and a half, did  you clean it up?"
+            ],
+            "hyp_response": "That ' s so cool ! I bet it was a great time .",
+            "ref_response": "Fortunately no- she cleaned it up. But she had just had spaghetti and it was floating in it. It was so gross!",
+            "human_score": 2.7,
+            "GRADE_score": 2.55,
+            "QuantiDCE_score": 2.27
+        },
+        {
+            "context": [
+                "Over the summer my family went to Alabama to visit family and I felt a lot of emotions",
+                "I guess you don't live in Alabama? Was it overall a good trip....or challenging? Or both!"
+            ],
+            "hyp_response": "oh thats cool , i bet you were happy",
+            "ref_response": "No, I do not live in Alabama. We drove and trip was overall very good as sometimes it can be challenging when driving such a long distance",
+            "human_score": 2.9,
+            "GRADE_score": 4.07,
+            "QuantiDCE_score": 3.66
+        },
+        {
+            "context": [
+                "I'm sorry to hear that. I had a dog die once too.",
+                "it is so sad to know but my mother is rather sick of flu and not dying"
+            ],
+            "hyp_response": "oh thats cool",
+            "ref_response": "The flu sure makes it feel like you're dying haha",
+            "human_score": 2.3,
+            "GRADE_score": 3.56,
+            "QuantiDCE_score": 2.57
+        },
+        {
+            "context": [
+                "I hope she hears some good news. Is it pretty serious?",
+                "She had stage 3 cancer, but she was clear last screening a year ago."
+            ],
+            "hyp_response": "That ' s so sweet . I hope you guys have a good time .",
+            "ref_response": "I'll be praying for her, I hope she continues to stay in the clear in the future.",
+            "human_score": 2.5,
+            "GRADE_score": 2.8,
+            "QuantiDCE_score": 2.39
+        },
+        {
+            "context": [
+                "I just bought iced coffee yesterday and my brother drank the rest of it without asking me.",
+                "Wow. Does he usually do stuff like that?"
+            ],
+            "hyp_response": "oh thats cool , i bet he was a good time",
+            "ref_response": "Yeah, he will eat or drink whatever he finds in the fridge.",
+            "human_score": 2.4,
+            "GRADE_score": 3.56,
+            "QuantiDCE_score": 2.42
+        },
+        {
+            "context": [
+                "Last night I was walking home from work in a bad part of town, I was a bit scared.",
+                "You should have taken a Uber. You never know what will happen these days."
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "I agree. It was a bit foolish on my part and I don't want to risk myself nor be worried again. Thanks for the advice.",
+            "human_score": 2.8,
+            "GRADE_score": 3.22,
+            "QuantiDCE_score": 2.62
+        },
+        {
+            "context": [
+                "Last year I made a bet with my friend and he lost, so he had to buy me a Nintendo Switch. I was so great.",
+                "That's quite the win! What was the bet?"
+            ],
+            "hyp_response": "That ' s so cool ! I hope he was a good time !",
+            "ref_response": "I made a bet that he would not lose 20 pounds in 3.5 months. I was hoping that he would win the bet, but on the bright side I got a switch :) Win-win for me.",
+            "human_score": 2.7,
+            "GRADE_score": 3.5,
+            "QuantiDCE_score": 2.63
+        },
+        {
+            "context": [
+                "I like going fishing, it reminds me of when I would go with my dad when I was a kid.",
+                "Do you have any kids?"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "I do, I have a 6 month old boy. How about you?",
+            "human_score": 2.7,
+            "GRADE_score": 3.1,
+            "QuantiDCE_score": 2.64
+        },
+        {
+            "context": [
+                "I won a free trip to Florida. It's not the best vacation, but I'll take it for free.",
+                "Why wasn't it good? Florida sounds like an ideal destination."
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "I've been to Florida many times before so it wears on you.",
+            "human_score": 2.9,
+            "GRADE_score": 3.7,
+            "QuantiDCE_score": 3.25
+        },
+        {
+            "context": [
+                "Once I was suppose to go visit my sister and nieces who I hadn't seen in forever but I ended up breaking my heal and big toe and wasn't able to go. I was so upset!",
+                "Dang, that sucks. MAybe they can visit you instead?"
+            ],
+            "hyp_response": "oh thats cool",
+            "ref_response": "Yeah, hopefully so.  It isn't healing correctly is the problem or else I would just go in my cast.",
+            "human_score": 2.5,
+            "GRADE_score": 4.11,
+            "QuantiDCE_score": 3.15
+        },
+        {
+            "context": [
+                "One night when my children and I came home, I saw a shadow inside! I was so fearful and afraid!",
+                "Oh that can be scary. I don't watch horror movies because I know that I'll do just that!"
+            ],
+            "hyp_response": "i hope it was a good time",
+            "ref_response": "It was so scary! Luckily, it was actually my shadow! The light made my shadow show up, but it first appeared to be an intruder!",
+            "human_score": 2.6,
+            "GRADE_score": 2.84,
+            "QuantiDCE_score": 2.23
+        },
+        {
+            "context": [
+                "I went to the beach other day",
+                "That is really cool . Did you have a good time?"
+            ],
+            "hyp_response": "That ' s cool . How long have you been together ?",
+            "ref_response": "I sure did! the ocean and the breeze gives me such a sense of joy and calm",
+            "human_score": 2.6,
+            "GRADE_score": 3.16,
+            "QuantiDCE_score": 2.6
+        },
+        {
+            "context": [
+                "I had a high risk pregnancy up until a few months ago. I felt the most grateful I'd ever been when my baby turned out healthy.",
+                "Congrats, that must have been a very stressful time leading up the the birth."
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "It was a really rough pregnancy that ended with a very painful surgery. It was not pretty, but definitely worth it. I would have taken any amount of pain as long as my son was born healthy and safe.",
+            "human_score": 2.4,
+            "GRADE_score": 3.35,
+            "QuantiDCE_score": 2.66
+        },
+        {
+            "context": [
+                "I was feeling kind of down so I ended up snuggling with a stuffed rabbit I have. It brought back a lot of good old memories.",
+                "Never too old or too manly to snuggle a stuffed animal. My mom said I used to carry this blanket with me when I was a toddler, everywhere I went. I wish I still had it. If I did, I'd consider using it again, or at the very least passing it down to my own kid. What's the harm, you know? If something gives you comfort and doesn't bother anyone else, there should be no shame."
+            ],
+            "hyp_response": "That ' s a great way to go to the same way .",
+            "ref_response": "Awe yeah thanks. He's pretty soft even though he some derpy eye that point in opposite directions. Brings me a lot of comfort and reminds me that someone cares.",
+            "human_score": 2.9,
+            "GRADE_score": 3.3,
+            "QuantiDCE_score": 2.5
+        },
+        {
+            "context": [
+                "When I got the phone call that my mom had cancer I was so upset.",
+                "I am so sorry to hear that. No one should have to go through something like that."
+            ],
+            "hyp_response": "that ' s a good thing to do",
+            "ref_response": "It's hard watching one of your parents get sick. We were at the movie theater when I found out and I had to leave.",
+            "human_score": 2.4,
+            "GRADE_score": 3.9,
+            "QuantiDCE_score": 3.52
+        },
+        {
+            "context": [
+                "I was very sad when I found out that my neighbors houses were going to be demolished because the city ordered it..",
+                "Is the city going to build them new ones at least?"
+            ],
+            "hyp_response": "oh thats cool",
+            "ref_response": "Nope. They bought them out at city valued tax prices and they have 60 days to find another place to live.",
+            "human_score": 2.6,
+            "GRADE_score": 3.34,
+            "QuantiDCE_score": 2.63
+        },
+        {
+            "context": [
+                "I am going to a concert very soon.",
+                "Cool! Who are you going to see?"
+            ],
+            "hyp_response": "That ' s cool . I love my favorite year .",
+            "ref_response": "Imagine Dragon and Grace Vanderwhall, do you know them?",
+            "human_score": 2.55,
+            "GRADE_score": 2.38,
+            "QuantiDCE_score": 2.37
+        },
+        {
+            "context": [
+                "Hello, tomorrow I have the cooking test and I feel safe. I am sure that I will approve with an excellent rating",
+                "oh, how nice. What are your plans in that regard for the future?"
+            ],
+            "hyp_response": "That ' s great ! I hope you have a good time !",
+            "ref_response": "have my own restaurant",
+            "human_score": 2.82,
+            "GRADE_score": 2.38,
+            "QuantiDCE_score": 2.04
+        },
+        {
+            "context": [
+                "Same. And all these guys live in different places now so it's harder and harder to get everyone together.",
+                "I bet it would be tough.  Was there a special occasion that brought you all together?"
+            ],
+            "hyp_response": "oh thats cool",
+            "ref_response": "No. We've had a group text going for several years so we just all decided it had been too long.",
+            "human_score": 2.7,
+            "GRADE_score": 3.39,
+            "QuantiDCE_score": 2.49
+        },
+        {
+            "context": [
+                "In college I was in a class with an older woman who stole my ideas for a paper.",
+                "Oh wow! that stinks. Im sorry"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "It's ok.  I'm basically over it now, but it was really angering then.",
+            "human_score": 2.4,
+            "GRADE_score": 3.85,
+            "QuantiDCE_score": 3.02
+        },
+        {
+            "context": [
+                "I am so happy it's a boy",
+                "You just had a baby?! I didn't even know you were expecting!"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "He'll be here in about 3 months",
+            "human_score": 2.5,
+            "GRADE_score": 3.54,
+            "QuantiDCE_score": 2.58
+        },
+        {
+            "context": [
+                "When my daughter was born doctors said she wouldn't ever go to school and basically be mentally handicapped.",
+                "And how is she doing now"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "She is a normal A-B student and just started 8th grade",
+            "human_score": 2.2,
+            "GRADE_score": 3.08,
+            "QuantiDCE_score": 2.53
+        },
+        {
+            "context": [
+                "I was going through my photos today and I saw a picture of me and my ex together. It just made me feel odd, I miss him.",
+                "Nice, when did you guys break up"
+            ],
+            "hyp_response": "thats cool , i bet you were happy",
+            "ref_response": "We broke up back in May, he was just too much of a workaholic.",
+            "human_score": 2.6,
+            "GRADE_score": 4.06,
+            "QuantiDCE_score": 3.71
+        },
+        {
+            "context": [
+                "One time when I was kicked out of the place I was staying at, my best friend immediately told me I could stay with her until I got on my feet.",
+                "Oh no, that sounds like an awful situation. What did you end up doing after that?"
+            ],
+            "hyp_response": "That ' s cool ! I hope you have a good time !",
+            "ref_response": "I stayed with her for about a year until I got my own apartment. We are getting an apartment together in a few months.",
+            "human_score": 2.5,
+            "GRADE_score": 2.23,
+            "QuantiDCE_score": 1.95
+        },
+        {
+            "context": [
+                "When I got the phone call that my mom had cancer I was so upset.",
+                "I am so sorry to hear that. No one should have to go through something like that."
+            ],
+            "hyp_response": "that ' s a good thing to do",
+            "ref_response": "It's hard watching one of your parents get sick. We were at the movie theater when I found out and I had to leave.",
+            "human_score": 2.4,
+            "GRADE_score": 3.9,
+            "QuantiDCE_score": 3.52
+        },
+        {
+            "context": [
+                "I have the best kids in the world.",
+                "What did they do this time?"
+            ],
+            "hyp_response": "That ' s cool . How long have you been together ?",
+            "ref_response": "Lots of little stuff.  They love to draw me pictures, crack jokes, and give lots of kisses.",
+            "human_score": 2.6,
+            "GRADE_score": 2.64,
+            "QuantiDCE_score": 2.3
+        },
+        {
+            "context": [
+                "I felt sooooo nervous going to my last job interview! Nerves must occur in proportion to how badly you *want* something!",
+                "I know what you mean. Did you get the job?"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "I did! The company does something that I actually like -- a panel interview vs a series of one-on-ones. Have you ever had an interview like that?",
+            "human_score": 2.9,
+            "GRADE_score": 3.38,
+            "QuantiDCE_score": 2.89
+        },
+        {
+            "context": [
+                "I have a big exam coming up! My nerves are getting to me.",
+                "ohh good luck!"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "Thanks! It is my final exam for a summer class studying Database Design. I actually should be taking it right now.",
+            "human_score": 2.0,
+            "GRADE_score": 3.47,
+            "QuantiDCE_score": 3.3
+        },
+        {
+            "context": [
+                "i was so stressed when i found out that i did not get accepted in my dream college",
+                "Oh no. Did you have a good backup plan ?"
+            ],
+            "hyp_response": "thats cool , i hope you have a good time",
+            "ref_response": "yeah i got into another college that was not as good haha",
+            "human_score": 2.0,
+            "GRADE_score": 2.76,
+            "QuantiDCE_score": 2.11
+        },
+        {
+            "context": [
+                "I went to see Hamilton last month in NYC",
+                "Oh the broadway musical? I heard really good reviews of it"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "It was such a stunning show. Lin manuel should get a grammy for this",
+            "human_score": 2.9,
+            "GRADE_score": 3.77,
+            "QuantiDCE_score": 3.61
+        },
+        {
+            "context": [
+                "i cant wait to see my dog back home it has been 2 years since i see him",
+                "I would go mad, were you away at college or in the service?"
+            ],
+            "hyp_response": "oh thats cool",
+            "ref_response": "college, but i will be seeing him very soon i think",
+            "human_score": 2.2,
+            "GRADE_score": 3.66,
+            "QuantiDCE_score": 2.55
+        },
+        {
+            "context": [
+                "I got to hear a lot of cool songs on a radio station I usually don't listen to.",
+                "Nice! Which ones did you hear!"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "Mambo #5, Missy Elliot, and Ricky Martin. It really took me back",
+            "human_score": 2.8,
+            "GRADE_score": 3.62,
+            "QuantiDCE_score": 2.85
+        },
+        {
+            "context": [
+                "They arrested 9 people at a nearby farm for animal cruelty and they are already out of jail on bond!",
+                "Oh, that's not right. I have a rescue dog, she had a litter of puppies at a puppy mill before she was a year."
+            ],
+            "hyp_response": "oh no ! i bet you were so happy ! i hope you get it back",
+            "ref_response": "Wow!  It makes me sad how people can be so cruel to animals that don't have the ability to fight back.  The rescue shelters here have been working overtime to get things straightened out at that farm.",
+            "human_score": 2.8,
+            "GRADE_score": 3.24,
+            "QuantiDCE_score": 2.5
+        },
+        {
+            "context": [
+                "I was quite distressed to hear of the passing of Anthony Bourdain. That someone who has given so much joy to a huge number of people should take his own life is just awful.",
+                "I know!  I was just watching his show on Netflix!  So sad, especially since he had a little girl he is leaving behind."
+            ],
+            "hyp_response": "oh thats cool",
+            "ref_response": "Indeed. Depression is a terrible disease and there simply aren't enough resources devoted to mental illness, imo.",
+            "human_score": 2.6,
+            "GRADE_score": 3.26,
+            "QuantiDCE_score": 2.47
+        },
+        {
+            "context": [
+                "I'm pretty excited for the upcoming Halloween season.",
+                "I am too! What are your plans?"
+            ],
+            "hyp_response": "That ' s great ! I love to see my kids , but it ' s a good time .",
+            "ref_response": "Well In September, Universal Studios starts their Halloween Horror Nights events, after dark!  It's so much fun I can't wait to grab tickets.",
+            "human_score": 2.5,
+            "GRADE_score": 2.53,
+            "QuantiDCE_score": 2.59
+        },
+        {
+            "context": [
+                "Not until about 8am, but it's so loud I can hear it in my first floor apartment with the doors and windows closed. Idiot man!",
+                "So inconsiderate! It reminds me of my neighbours doing building work one morning at 6AM!"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "Yikes! Why are some people such inconsiderate creeps? It makes me really mad!",
+            "human_score": 2.2,
+            "GRADE_score": 3.49,
+            "QuantiDCE_score": 2.69
+        },
+        {
+            "context": [
+                "I was horribly wronged by someone I thought I could trust. The feeling was devastating, and I've always struggled with forgiveness.",
+                "Oh my, what happened? I'm so sorry, no one should treat anyone they care about poorly."
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "They were dishonest and physically cruel. We have gone our separate ways, but I truly hope they can learn to treat others better.",
+            "human_score": 2.3,
+            "GRADE_score": 3.01,
+            "QuantiDCE_score": 2.44
+        },
+        {
+            "context": [
+                "My partner left me the other day.",
+                "That's rough, I'm sorry to hear that"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "That's fine, its not your problem. i just feel very lonely right now.",
+            "human_score": 2.6,
+            "GRADE_score": 3.1,
+            "QuantiDCE_score": 2.38
+        },
+        {
+            "context": [
+                "I ate way too many sweets today!",
+                "theres always tomorrow!"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "Thanks! Being on a diet is hard, espically with family in town!",
+            "human_score": 2.7,
+            "GRADE_score": 3.81,
+            "QuantiDCE_score": 3.32
+        },
+        {
+            "context": [
+                "I was heartbroken when my mom told me that my childhood dog had died",
+                "Oh god.. sorry.. How are you holding up?"
+            ],
+            "hyp_response": "That ' s so sweet . I hope you have a good time",
+            "ref_response": "I'm coping with it. So many memories with her",
+            "human_score": 2.1,
+            "GRADE_score": 2.47,
+            "QuantiDCE_score": 2.28
+        },
+        {
+            "context": [
+                "I'm a little anxious about an upcoming move. It's to a *very* different state with a *very* different climate and way of life!",
+                "What is the state and do you like change?"
+            ],
+            "hyp_response": "That ' s great ! I love my favorite years !",
+            "ref_response": "We've been great with change, including a few overseas moves under our belts. But this is to Anchorage! I've read a lot, and there's a lot to be excited about -- but man, those looooong winters!",
+            "human_score": 2.1,
+            "GRADE_score": 2.32,
+            "QuantiDCE_score": 2.15
+        },
+        {
+            "context": [
+                "I have only a few more semesters in college. I feel very hopeful about my chances of finishing.",
+                "That's awesome. What are you majoring in?"
+            ],
+            "hyp_response": "That ' s great ! I hope you have a great time !",
+            "ref_response": "Environmental engineering! I enjoy it, but I wouldn't say it is my passion in life.",
+            "human_score": 2.2,
+            "GRADE_score": 2.75,
+            "QuantiDCE_score": 2.45
+        },
+        {
+            "context": [
+                "I sold some stuff I didnt need last week.",
+                "did yo make some good money?"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "Yea, enought to have great weekened anyway.",
+            "human_score": 2.4,
+            "GRADE_score": 3.75,
+            "QuantiDCE_score": 3.09
+        },
+        {
+            "context": [
+                "i cant believe the growth video games are having this past couple of years",
+                "What do you mean by that? I'm not a gamer really"
+            ],
+            "hyp_response": "Oh that ' s a good time . I love my favorite favorite year .",
+            "ref_response": "gaming has blown up this past couple of years",
+            "human_score": 2.7,
+            "GRADE_score": 2.03,
+            "QuantiDCE_score": 2.22
+        },
+        {
+            "context": [
+                "I've been teaching my young daughter to play video games with me, she's such a quick learner.",
+                "What video games are the two of you playing?"
+            ],
+            "hyp_response": "Oh wow , that ' s a good time . I love it",
+            "ref_response": "Minecraft and asphalt racing are two of them, It's amazing to watch a child learn and grow their intelligence.",
+            "human_score": 2.5,
+            "GRADE_score": 2.94,
+            "QuantiDCE_score": 2.22
+        },
+        {
+            "context": [
+                "I am so proud of my sister",
+                "What did she do?"
+            ],
+            "hyp_response": "That ' s great ! What did you do ?",
+            "ref_response": "She bought me a car",
+            "human_score": 2.6,
+            "GRADE_score": 3.54,
+            "QuantiDCE_score": 3.14
+        },
+        {
+            "context": [
+                "I enjoy visiting the nursing home on occasion.",
+                "Oh yeah?  Do you know someone that lives there?"
+            ],
+            "hyp_response": "That ' s cool . I hope you have a good time .",
+            "ref_response": "Not really, I take my daughter to see them, so many of them have no visitors at all.",
+            "human_score": 2.7,
+            "GRADE_score": 2.36,
+            "QuantiDCE_score": 2.2
+        },
+        {
+            "context": [
+                "No matter how many times I told her that I didn't do it, my roommate insisted that I ate her ice cream last night! Unbelievable!",
+                "Well, did you eat her ice cream?"
+            ],
+            "hyp_response": "Wow ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !",
+            "ref_response": "I certainly would have liked to, but I'm lactose intolerant! If I had eaten it, I would have been so miserable that there's no way she would've mistaken it.",
+            "human_score": 2.9,
+            "GRADE_score": 3.29,
+            "QuantiDCE_score": 3.06
+        },
+        {
+            "context": [
+                "I had to wait in line for 15 minutes at the store today. There was only one poor cashier working.",
+                "That must of been a pain! I hate waiting in lines for cashiers, they are so slow sometimes."
+            ],
+            "hyp_response": "oh thats cool",
+            "ref_response": "The cashier couldn't help it. The store should hire more people.",
+            "human_score": 2.7,
+            "GRADE_score": 3.58,
+            "QuantiDCE_score": 2.84
+        }
+    ],
+    "score ∈ [3.0, 4.0)": [
+        {
+            "context": [
+                "Well, it takes perseverance and a bit of luck, but you can do it!",
+                "My dream job is being born rich. Its too late for that"
+            ],
+            "hyp_response": "Yes, and you will succeed eventually.",
+            "ref_response": "Lol, you and me both. You could always marry a Kardashian!",
+            "human_score": 3.0,
+            "GRADE_score": 4.13,
+            "QuantiDCE_score": 3.82
+        },
+        {
+            "context": [
+                "I was excited when I bought my car",
+                "that is exciting! what kind of car?"
+            ],
+            "hyp_response": "That would be great! It would certainly save you from having to buy a new car for a while.",
+            "ref_response": "It was a mustang. I saved up enough money and purchased it outright",
+            "human_score": 3.0,
+            "GRADE_score": 3.27,
+            "QuantiDCE_score": 3.07
+        },
+        {
+            "context": [
+                "I just went today to visit my son in his new house.",
+                "how was it"
+            ],
+            "hyp_response": "That is great. Did you buy him a present for graduation?",
+            "ref_response": "It was great! He has saved for so long to buy it.",
+            "human_score": 3.3,
+            "GRADE_score": 4.19,
+            "QuantiDCE_score": 4.14
+        },
+        {
+            "context": [
+                "I'm in contract to buy my first house, fingers crossed closing goes well and I close next Friday!",
+                "That is so exciting!! buying a house can be such a great experience."
+            ],
+            "hyp_response": "How much is the house?",
+            "ref_response": "I'm definitely excited. The house just now got built and I saw it for the first time last Monday.",
+            "human_score": 3.3,
+            "GRADE_score": 4.48,
+            "QuantiDCE_score": 3.66
+        },
+        {
+            "context": [
+                "Every year when the kids go back to school, it brings back so many memories of when my kids were going to school.",
+                "I know what you mean.  I love to see all the pictures, and think back to how little mine used to be."
+            ],
+            "hyp_response": "I have those kinds of feelings as well. I think memories are a good thing though",
+            "ref_response": "I would cry the first day of school every year, especially the milestone years. Now my grandchildren are starting school. Time flies by too quickly",
+            "human_score": 3.8,
+            "GRADE_score": 3.99,
+            "QuantiDCE_score": 3.73
+        },
+        {
+            "context": [
+                "We ate good food, drank wine and went swimming.",
+                "That sounds fun.  Was the weather nice?"
+            ],
+            "hyp_response": "I bet so. I've never done anything like that before.",
+            "ref_response": "It was, kind of hot but not enough to complain about.",
+            "human_score": 3.11,
+            "GRADE_score": 2.83,
+            "QuantiDCE_score": 2.39
+        },
+        {
+            "context": [
+                "Thats sad. Have you been to Scotand since?",
+                "Only for funerals, unfortunately. Both my parents have since died. Unpleasant fact of life, I'm afraid."
+            ],
+            "hyp_response": "don't feel sad,day will pass and present is the best moment and live",
+            "ref_response": "Im sorry to hear that. Were you born there?",
+            "human_score": 3.56,
+            "GRADE_score": 2.62,
+            "QuantiDCE_score": 2.71
+        },
+        {
+            "context": [
+                "The other night i heard a sound like someone was breaking in my house, i was pretty scared.",
+                "Wow, that sounds quite disturbing. Was someone breaking in?"
+            ],
+            "hyp_response": "Oh my god. That's so scary!",
+            "ref_response": "No, it turns out the power had went out for a minute and it was the sound of the printer calibrating.",
+            "human_score": 3.2,
+            "GRADE_score": 4.3,
+            "QuantiDCE_score": 3.34
+        },
+        {
+            "context": [
+                "I just enjoyed grocery shopping for the first time in a very long time. I've found my perfect restaurant/store and spent a very happy 40 mins or so wandering around it.",
+                "That's great! Did you get anything you are especially excited about? It's a restaurant and a store?"
+            ],
+            "hyp_response": "Ford makes some pretty nifty cars! I have a Ford Focus myself. Not much, but it has killer gas mileage.",
+            "ref_response": "Yes, it's both. I got a chickpea curry with basmati rice that a local Indian lady made. And a bag of dragon tongue beans, which are delicious!",
+            "human_score": 3.0,
+            "GRADE_score": 2.11,
+            "QuantiDCE_score": 2.36
+        },
+        {
+            "context": [
+                "I still live and work in the place where I grew up, but all of my friends have moved away.",
+                "Aw, that has to be tough not to see your friends. Do they visit often?"
+            ],
+            "hyp_response": "I have a friend like that. We lose touch but we will always be great friends.",
+            "ref_response": "No, everyone's so busy with their lives and work that it's hard to arrange. Most of the people here my age do drugs or stay out all night, so I keep to myself at home, alone.",
+            "human_score": 3.1,
+            "GRADE_score": 3.58,
+            "QuantiDCE_score": 2.93
+        },
+        {
+            "context": [
+                "Needing some extra money, I used the spare change in my car to buy a scratch off ticket.",
+                "Nice.. what type of ticket.. Monopoly?  Price is Right?  Scrabble?  Bingo?"
+            ],
+            "hyp_response": "Smart move!  Good for you for deciding to use it responsibly.",
+            "ref_response": "It was Blackjack.  I didn't win anything though.",
+            "human_score": 3.3,
+            "GRADE_score": 2.9,
+            "QuantiDCE_score": 2.4
+        },
+        {
+            "context": [
+                "I woke up and the first thing I saw that my cat had decided to play with my shoes and ruin them!",
+                "Oh my, you must have been annoyed with your cat. I guess he just wanted your attention."
+            ],
+            "hyp_response": "well , glad it wasn't something important. it was just a cat. and you are safe. so that is great!",
+            "ref_response": "I was SO mad! I felt so bad being mad at him",
+            "human_score": 3.73,
+            "GRADE_score": 4.47,
+            "QuantiDCE_score": 3.95
+        },
+        {
+            "context": [
+                "I had a job interview yesterday. I was really nervous before it started.",
+                "Was it on the phone or in person?"
+            ],
+            "hyp_response": "So you must have prepared well for it. I hope you get the job!",
+            "ref_response": "It was in person. We mostly interviewed in a conference room, then we took a lab tour afterwards.",
+            "human_score": 3.0,
+            "GRADE_score": 4.01,
+            "QuantiDCE_score": 3.2
+        },
+        {
+            "context": [
+                "Tomorrow I start my new job teaching kids. I really hope it goes well!",
+                "Oh wow, now that really is exciting, congratulations! Did you get the grade level and subject you wanted?"
+            ],
+            "hyp_response": "That's great!  What finally convinved the boss?",
+            "ref_response": "I am teaching at a small private school, so I will be teaching all the subjects for 3rd grade. I am pretty excited, just nervous.",
+            "human_score": 3.0,
+            "GRADE_score": 3.08,
+            "QuantiDCE_score": 2.35
+        },
+        {
+            "context": [
+                "So who annoyed you?",
+                "A guy budged in front of some other people, I confronted him about it, and we got into an extremely heated exchange."
+            ],
+            "hyp_response": "That is so sweet of him, those are the people we need more of in the world",
+            "ref_response": "So did it result in a brawl?",
+            "human_score": 3.0,
+            "GRADE_score": 3.07,
+            "QuantiDCE_score": 2.44
+        },
+        {
+            "context": [
+                "My son was just born, my first boy after 11 girls!",
+                "Thats amazing, congratulations. 12 Kids your amazing."
+            ],
+            "hyp_response": "Amazing! Congratulations. When so many children have issues, it is always great to see one that is healthy and well.",
+            "ref_response": "It's easier if you had 12 different baby mamas, that's my trick anyway. This last labour was 6 hours long!",
+            "human_score": 3.0,
+            "GRADE_score": 3.63,
+            "QuantiDCE_score": 3.18
+        },
+        {
+            "context": [
+                "If my upstairs neighbor wakes me at 3am again I think I'll explode! I get that she has to go to work, but why not get organized the night before for goodness sake?!",
+                "I know the feeling."
+            ],
+            "hyp_response": "I do hate flooding as well",
+            "ref_response": "You too, huh? How do you nicely ask someone to shut up? Yelling at that time of day just wouldn't be right.",
+            "human_score": 3.0,
+            "GRADE_score": 2.7,
+            "QuantiDCE_score": 2.28
+        },
+        {
+            "context": [
+                "I feel nostalgic when playing old school games with my bro",
+                "Nice, me too, are you playing Nintendo games?"
+            ],
+            "hyp_response": "I don't know much about video games but remember playing Mario and games on a Nintendo 64.",
+            "ref_response": "Yes and also Sega Genesis. We play these on the xbox one though via emulation",
+            "human_score": 3.89,
+            "GRADE_score": 3.94,
+            "QuantiDCE_score": 3.27
+        },
+        {
+            "context": [
+                "I agree, the writing part is easy part, but the speaking part is the worst!",
+                "Yeah, it seems like the learning curve is impossible! Maybe I just need more life experience"
+            ],
+            "hyp_response": "Yes! life is a blessing, and we need to make the most of every day.",
+            "ref_response": "Maybe so, they say to imagine the crowd naked, but I don't think that helps too much with the writing part.",
+            "human_score": 3.7,
+            "GRADE_score": 3.53,
+            "QuantiDCE_score": 3.12
+        },
+        {
+            "context": [
+                "I had a terrifying experience what using the restroom yesterday.",
+                "What happened??"
+            ],
+            "hyp_response": "That is so terrible! was this recent? if you dont mind me asking",
+            "ref_response": "As I was sitting on the toilet I kept hearing a scratching noise.  When I turned to look a huge waterbug had climbed up the tub wall next to me.",
+            "human_score": 3.0,
+            "GRADE_score": 4.16,
+            "QuantiDCE_score": 3.63
+        },
+        {
+            "context": [
+                "Wow! Congrats to her, and I am sorry that you didn't get the prize. What did she win?",
+                "A weekend trip to Gatlinburg. I would of loved that."
+            ],
+            "hyp_response": "Aw, well you can't win everything. Be happy for her!",
+            "ref_response": "Wow that is a great prize! Is she able to take anyone with her or is it just a ticket for one person?",
+            "human_score": 3.9,
+            "GRADE_score": 4.45,
+            "QuantiDCE_score": 3.86
+        },
+        {
+            "context": [
+                "Did you think about moving after that?",
+                "Funny you should mention that - in three weeks time, lol."
+            ],
+            "hyp_response": "Nice. How many tickets did ya get?",
+            "ref_response": "haha are you serious? Did you move in with your girlfriend?",
+            "human_score": 3.0,
+            "GRADE_score": 2.65,
+            "QuantiDCE_score": 2.21
+        },
+        {
+            "context": [
+                "Well yeah, that sounds about right. He has to go to the Championship first and win, then party time !!!!!",
+                "You got it! I've been watching him play for a while now and it's such a fantastic feeling to see him win - and in his own country too!"
+            ],
+            "hyp_response": "That's great to hear!  Good luck to him!",
+            "ref_response": "It is really could to see friends live out their dreams! I will be cheering for him and the team!",
+            "human_score": 3.4,
+            "GRADE_score": 4.37,
+            "QuantiDCE_score": 4.13
+        },
+        {
+            "context": [
+                "Over the summer my family went to Alabama to visit family and I felt a lot of emotions",
+                "I guess you don't live in Alabama? Was it overall a good trip....or challenging? Or both!"
+            ],
+            "hyp_response": "Oh, sometimes you just have to accept weather changing your plans. I am sure you can go another time.",
+            "ref_response": "No, I do not live in Alabama. We drove and trip was overall very good as sometimes it can be challenging when driving such a long distance",
+            "human_score": 3.6,
+            "GRADE_score": 3.48,
+            "QuantiDCE_score": 3.51
+        },
+        {
+            "context": [
+                "I just bought iced coffee yesterday and my brother drank the rest of it without asking me.",
+                "Wow. Does he usually do stuff like that?"
+            ],
+            "hyp_response": "I know that feeling but I crashed my car my dad bought for me like 1 year later. But that feeling of happiness was awesome!",
+            "ref_response": "Yeah, he will eat or drink whatever he finds in the fridge.",
+            "human_score": 3.0,
+            "GRADE_score": 2.43,
+            "QuantiDCE_score": 2.55
+        },
+        {
+            "context": [
+                "Last night I was walking home from work in a bad part of town, I was a bit scared.",
+                "You should have taken a Uber. You never know what will happen these days."
+            ],
+            "hyp_response": "Was the drive a necessary one to take?",
+            "ref_response": "I agree. It was a bit foolish on my part and I don't want to risk myself nor be worried again. Thanks for the advice.",
+            "human_score": 3.1,
+            "GRADE_score": 3.54,
+            "QuantiDCE_score": 2.65
+        },
+        {
+            "context": [
+                "I drank a lot of alcohol at my friend's BBQ party, and I ended up puking and passing out. Not my finest moment.",
+                "Haha, I can relate to that. I did that too, and my friends took a wonderful photo of it. They like to stick it on our yearly Christmas cards to each other"
+            ],
+            "hyp_response": "I am such a lucky guy to have a friend like you",
+            "ref_response": "Hahahaha! Well, I guess we can make light of even our worst moments.",
+            "human_score": 3.67,
+            "GRADE_score": 3.49,
+            "QuantiDCE_score": 2.73
+        },
+        {
+            "context": [
+                "I'm looking forward to my best friend's surprise birthday party next week!",
+                "That sounds like so much fun! I love parties!"
+            ],
+            "hyp_response": "Parties are so much fun! Are you celebrating anything special, or is the party just a get together?",
+            "ref_response": "I'm really happy about it- she's a great friend and she's turning 40, so it's a big one!",
+            "human_score": 3.56,
+            "GRADE_score": 3.82,
+            "QuantiDCE_score": 3.3
+        },
+        {
+            "context": [
+                "I won a free trip to Florida. It's not the best vacation, but I'll take it for free.",
+                "Why wasn't it good? Florida sounds like an ideal destination."
+            ],
+            "hyp_response": "Oh awesome, what part of Florida?",
+            "ref_response": "I've been to Florida many times before so it wears on you.",
+            "human_score": 3.67,
+            "GRADE_score": 4.53,
+            "QuantiDCE_score": 4.28
+        },
+        {
+            "context": [
+                "One night when my children and I came home, I saw a shadow inside! I was so fearful and afraid!",
+                "Oh that can be scary. I don't watch horror movies because I know that I'll do just that!"
+            ],
+            "hyp_response": "Thank goodness! Yeah, I only watch scary movies in the daytime!",
+            "ref_response": "It was so scary! Luckily, it was actually my shadow! The light made my shadow show up, but it first appeared to be an intruder!",
+            "human_score": 3.56,
+            "GRADE_score": 4.43,
+            "QuantiDCE_score": 3.74
+        },
+        {
+            "context": [
+                "I went to the beach other day",
+                "That is really cool . Did you have a good time?"
+            ],
+            "hyp_response": "oh, did you enjoy it? I love going to the beach",
+            "ref_response": "I sure did! the ocean and the breeze gives me such a sense of joy and calm",
+            "human_score": 3.11,
+            "GRADE_score": 4.51,
+            "QuantiDCE_score": 3.97
+        },
+        {
+            "context": [
+                "Tomorrow is the big day, I have to deliver my proposal to the client.",
+                "Are you ready for it?"
+            ],
+            "hyp_response": "Wow, good luck.  I hope it all goes well. It sounds like you're confident that it will. Have you done one before?",
+            "ref_response": "I have been preparing for weeks, but in the back of my mind I still have doubts.",
+            "human_score": 3.1,
+            "GRADE_score": 3.62,
+            "QuantiDCE_score": 3.2
+        },
+        {
+            "context": [
+                "I'm so excited about an upcoming move and life change -- it's a move to a verrrry different state, but should be interesting!",
+                "What state are you going to move to?"
+            ],
+            "hyp_response": "Awesome, you'll be able to make friends at work. I wish you the best in your new city, congrats!",
+            "ref_response": "Potentially Alaska -- Anchorage, to be specific. We've lived in different places before -- Amsterdam, Zurich, and Hong Kong. And even though it's a US state, it feels foreign somehow!",
+            "human_score": 3.3,
+            "GRADE_score": 2.57,
+            "QuantiDCE_score": 2.61
+        },
+        {
+            "context": [
+                "Hello, tomorrow I have the cooking test and I feel safe. I am sure that I will approve with an excellent rating",
+                "oh, how nice. What are your plans in that regard for the future?"
+            ],
+            "hyp_response": "I am glad you got some things done! Now you can rest",
+            "ref_response": "have my own restaurant",
+            "human_score": 3.0,
+            "GRADE_score": 2.22,
+            "QuantiDCE_score": 2.3
+        },
+        {
+            "context": [
+                "I'm so proud of my wife",
+                "i bet she's a wonderful woman"
+            ],
+            "hyp_response": "Its great you trust an awesome woman",
+            "ref_response": "She really is",
+            "human_score": 3.2,
+            "GRADE_score": 3.77,
+            "QuantiDCE_score": 2.88
+        },
+        {
+            "context": [
+                "The other night I was driving home in the rain and slid into the guard rail. It is going to cost so much to get my car fixed!",
+                "Oh man, now that sucks! You gotta be careful on those wet roads. At least you're okay."
+            ],
+            "hyp_response": "Oh my!  I am glad to hear you managed to avoid the collision.",
+            "ref_response": "I know, I will have to be more careful next time. I shouldn't eat ice-cream while driving,",
+            "human_score": 3.7,
+            "GRADE_score": 4.05,
+            "QuantiDCE_score": 3.66
+        },
+        {
+            "context": [
+                "I felt sooooo nervous going to my last job interview! Nerves must occur in proportion to how badly you *want* something!",
+                "I know what you mean. Did you get the job?"
+            ],
+            "hyp_response": "Good job, keep on moving up!",
+            "ref_response": "I did! The company does something that I actually like -- a panel interview vs a series of one-on-ones. Have you ever had an interview like that?",
+            "human_score": 3.0,
+            "GRADE_score": 3.26,
+            "QuantiDCE_score": 2.67
+        },
+        {
+            "context": [
+                "Wow, that is sweet of him, does he have a crush on you?",
+                "It was a nice gesture on his part. But I do not know"
+            ],
+            "hyp_response": "Yeah, that is a good thing he found it and not someone else. What are the odds.",
+            "ref_response": "Huh, well maybe he is starting his campaign lol",
+            "human_score": 3.11,
+            "GRADE_score": 3.72,
+            "QuantiDCE_score": 2.98
+        },
+        {
+            "context": [
+                "i cant wait to see my dog back home it has been 2 years since i see him",
+                "I would go mad, were you away at college or in the service?"
+            ],
+            "hyp_response": "I am sorry to hear that.  Maybe he will find his way back home some day.",
+            "ref_response": "college, but i will be seeing him very soon i think",
+            "human_score": 3.11,
+            "GRADE_score": 3.51,
+            "QuantiDCE_score": 3.43
+        },
+        {
+            "context": [
+                "Nothing really! I just love that I can work at home and have time to clean or cook whenever I want.",
+                "I work from home too.  Its so nice to be able to do laundry and things on my breaks.  Im so productive around the house"
+            ],
+            "hyp_response": "I hope it was a good day for you, atleast you did something productive and got some laundry done haha",
+            "ref_response": "Right? And no having to interact with others unless we choose too.",
+            "human_score": 3.89,
+            "GRADE_score": 3.59,
+            "QuantiDCE_score": 2.92
+        },
+        {
+            "context": [
+                "They arrested 9 people at a nearby farm for animal cruelty and they are already out of jail on bond!",
+                "Oh, that's not right. I have a rescue dog, she had a litter of puppies at a puppy mill before she was a year."
+            ],
+            "hyp_response": "Perhaps she had an upset tummy or something.  Sometimes with dogs it's hard to tell.",
+            "ref_response": "Wow!  It makes me sad how people can be so cruel to animals that don't have the ability to fight back.  The rescue shelters here have been working overtime to get things straightened out at that farm.",
+            "human_score": 3.11,
+            "GRADE_score": 3.81,
+            "QuantiDCE_score": 3.06
+        },
+        {
+            "context": [
+                "I was quite distressed to hear of the passing of Anthony Bourdain. That someone who has given so much joy to a huge number of people should take his own life is just awful.",
+                "I know!  I was just watching his show on Netflix!  So sad, especially since he had a little girl he is leaving behind."
+            ],
+            "hyp_response": "I'm sure he will! Best of luck to him!",
+            "ref_response": "Indeed. Depression is a terrible disease and there simply aren't enough resources devoted to mental illness, imo.",
+            "human_score": 3.11,
+            "GRADE_score": 3.76,
+            "QuantiDCE_score": 3.26
+        },
+        {
+            "context": [
+                "I'm pretty excited for the upcoming Halloween season.",
+                "I am too! What are your plans?"
+            ],
+            "hyp_response": "Hiking and kayaking? Wow! Better pack some trail mix.",
+            "ref_response": "Well In September, Universal Studios starts their Halloween Horror Nights events, after dark!  It's so much fun I can't wait to grab tickets.",
+            "human_score": 3.0,
+            "GRADE_score": 3.75,
+            "QuantiDCE_score": 2.69
+        },
+        {
+            "context": [
+                "Not until about 8am, but it's so loud I can hear it in my first floor apartment with the doors and windows closed. Idiot man!",
+                "So inconsiderate! It reminds me of my neighbours doing building work one morning at 6AM!"
+            ],
+            "hyp_response": "Maybe you should child proof the house.",
+            "ref_response": "Yikes! Why are some people such inconsiderate creeps? It makes me really mad!",
+            "human_score": 3.33,
+            "GRADE_score": 3.34,
+            "QuantiDCE_score": 3.15
+        },
+        {
+            "context": [
+                "I told a lie to my mother.",
+                "Was it a bad one? And did she find out?"
+            ],
+            "hyp_response": "Was she mad at you?",
+            "ref_response": "I was about school. And I eventually confessed.",
+            "human_score": 3.4,
+            "GRADE_score": 4.39,
+            "QuantiDCE_score": 3.54
+        },
+        {
+            "context": [
+                "I was annoyed when my favorite show wasn't on",
+                "what did you end up watching instead"
+            ],
+            "hyp_response": "Well thats disappointing. Maybe you can find a show similar to it to watch.",
+            "ref_response": "I ended up watching Impractical Jokers",
+            "human_score": 3.6,
+            "GRADE_score": 4.42,
+            "QuantiDCE_score": 3.91
+        },
+        {
+            "context": [
+                "My dad called me one day crying out for help. I had to drive over to his house.",
+                "Oh my goodness! What happened?"
+            ],
+            "hyp_response": "Wow good for him. Now he can drive you around.",
+            "ref_response": "He had fallen and bruised his ribs. I had to take him to the hospital.",
+            "human_score": 3.0,
+            "GRADE_score": 3.28,
+            "QuantiDCE_score": 3.16
+        },
+        {
+            "context": [
+                "oopsy. I hope it was worth it.",
+                "It might not be when my wife returns and sees it gone. I look super guilty right now."
+            ],
+            "hyp_response": "your husband is a lucky guy!",
+            "ref_response": "LOL! Can  you run out and get another pie before she gets home?",
+            "human_score": 3.44,
+            "GRADE_score": 3.78,
+            "QuantiDCE_score": 2.9
+        },
+        {
+            "context": [
+                "I was heartbroken when my mom told me that my childhood dog had died",
+                "Oh god.. sorry.. How are you holding up?"
+            ],
+            "hyp_response": "Aw I am so sorry to hear of your dogs passing. It's hard to lose a pet. We just lost our cat this year.",
+            "ref_response": "I'm coping with it. So many memories with her",
+            "human_score": 3.22,
+            "GRADE_score": 4.0,
+            "QuantiDCE_score": 3.24
+        },
+        {
+            "context": [
+                "I have only a few more semesters in college. I feel very hopeful about my chances of finishing.",
+                "That's awesome. What are you majoring in?"
+            ],
+            "hyp_response": "Awesome!  I bet that's a really versatile degree, you should be really successful!",
+            "ref_response": "Environmental engineering! I enjoy it, but I wouldn't say it is my passion in life.",
+            "human_score": 3.0,
+            "GRADE_score": 3.98,
+            "QuantiDCE_score": 3.45
+        },
+        {
+            "context": [
+                "i cant believe the growth video games are having this past couple of years",
+                "What do you mean by that? I'm not a gamer really"
+            ],
+            "hyp_response": "I love video games. Thats not a bad weekend",
+            "ref_response": "gaming has blown up this past couple of years",
+            "human_score": 3.0,
+            "GRADE_score": 4.27,
+            "QuantiDCE_score": 2.94
+        },
+        {
+            "context": [
+                "I tripped and fell in front of some people.",
+                "Ouch! Was it a serious fall?"
+            ],
+            "hyp_response": "Oh my god, I would have been so embarrassed! How'd you react?",
+            "ref_response": "No, only my pride was injured.",
+            "human_score": 3.2,
+            "GRADE_score": 4.29,
+            "QuantiDCE_score": 3.42
+        },
+        {
+            "context": [
+                "Someone let me cut in line at the store so I could check out faster.",
+                "wow that was really nice of them"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "Yeah, I was in a huge hurry and didn't have much but I really needed to make it to the bank before it closed.",
+            "human_score": 3.3,
+            "GRADE_score": 3.69,
+            "QuantiDCE_score": 3.23
+        },
+        {
+            "context": [
+                "My sunday was great. All my chores were done ahead of time. It was a rare and welcomed day.",
+                "that is awesome. sundays are usually my veg out days."
+            ],
+            "hyp_response": "oh thats cool",
+            "ref_response": "I wish I could more often, but it rarely happens. Especially during the summer. My yard grows like literal weeds.",
+            "human_score": 3.3,
+            "GRADE_score": 3.88,
+            "QuantiDCE_score": 3.72
+        },
+        {
+            "context": [
+                "I was excited when I bought my car",
+                "that is exciting! what kind of car?"
+            ],
+            "hyp_response": "oh wow that ' s cool . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+            "ref_response": "It was a mustang. I saved up enough money and purchased it outright",
+            "human_score": 3.0,
+            "GRADE_score": 3.13,
+            "QuantiDCE_score": 2.65
+        },
+        {
+            "context": [
+                "Omg! That is terrible. They should really be considerate of people's time",
+                "I wouldn't have minded as much if he actually seemed to care.  If they make you wait and then spend alot of time with you that is one thing"
+            ],
+            "hyp_response": "thats a good thing to do",
+            "ref_response": "Right. Did he at least apologize for the long wait",
+            "human_score": 3.2,
+            "GRADE_score": 3.6,
+            "QuantiDCE_score": 3.24
+        },
+        {
+            "context": [
+                "It is a blessing and curse. When I am having problems I think about what she would say to me.",
+                "That's a good way to remember her and keep her close to your heart."
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "Yes, it is. I know that time heals.",
+            "human_score": 3.0,
+            "GRADE_score": 3.75,
+            "QuantiDCE_score": 2.91
+        },
+        {
+            "context": [
+                "Did I tell you what happened with Li the other night? Boy do I feel dumb.",
+                "No, you didn't tell me! What happened?"
+            ],
+            "hyp_response": "Oh no ! That ' s a good time !",
+            "ref_response": "She's 45 minutes late to our anniversary dinner. I don't know what happened to me but I called and left an angry message. Turns out, she had gotten T-boned at an intersection and was talking to the Police Officer when I called!",
+            "human_score": 3.2,
+            "GRADE_score": 1.96,
+            "QuantiDCE_score": 2.47
+        },
+        {
+            "context": [
+                "I'm gonna need your support here, because I'm going through something a little bit rough, okay?",
+                "Anything you need!! I'm here for you!"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "I'm 29 years old and I woke up to find that I'd wet the bed last night. I'm...not even sure how. I didn't drink a whole lot before bed or anything.",
+            "human_score": 3.0,
+            "GRADE_score": 3.62,
+            "QuantiDCE_score": 2.64
+        },
+        {
+            "context": [
+                "I'm in contract to buy my first house, fingers crossed closing goes well and I close next Friday!",
+                "That is so exciting!! buying a house can be such a great experience."
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "I'm definitely excited. The house just now got built and I saw it for the first time last Monday.",
+            "human_score": 3.1,
+            "GRADE_score": 3.84,
+            "QuantiDCE_score": 3.34
+        },
+        {
+            "context": [
+                "Every year when the kids go back to school, it brings back so many memories of when my kids were going to school.",
+                "I know what you mean.  I love to see all the pictures, and think back to how little mine used to be."
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "I would cry the first day of school every year, especially the milestone years. Now my grandchildren are starting school. Time flies by too quickly",
+            "human_score": 3.4,
+            "GRADE_score": 3.35,
+            "QuantiDCE_score": 2.88
+        },
+        {
+            "context": [
+                "First day of school I remember ,my kids first day of school, how did it make you feel?",
+                "It just gave me the feeling that time flies by too quickly sometimes.  My youngest in the pic was in first grade and his older sister was in 7th grade."
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "yes it does but we always got or memories.",
+            "human_score": 3.4,
+            "GRADE_score": 3.39,
+            "QuantiDCE_score": 3.09
+        },
+        {
+            "context": [
+                "Yes, I think they offer a great bridge to the past. Do you?",
+                "Absolutely. I love to hear my mámá tell me stories from her childhood trapping nutria and trawling with her family."
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "That's great. It sounds like a very good situation to be in.",
+            "human_score": 3.3,
+            "GRADE_score": 3.62,
+            "QuantiDCE_score": 3.16
+        },
+        {
+            "context": [
+                "I worked hard all night for that exam. it takes 5 months to get the results back. the wait is killing me",
+                "I hope you did well on it."
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "5 months to find out !",
+            "human_score": 3.2,
+            "GRADE_score": 3.39,
+            "QuantiDCE_score": 3.04
+        },
+        {
+            "context": [
+                "I have a wonderful sister-in-law.  who is always there for me when I need her",
+                "That must be comforting!  It is good to have people in your life that are supportive."
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "I feel so lucky to have her as a sister-in-law and a friend.  She is always there to offer a supporting ear and encouraging word.",
+            "human_score": 3.4,
+            "GRADE_score": 3.58,
+            "QuantiDCE_score": 2.67
+        },
+        {
+            "context": [
+                "Oh man! What happened to your hip?",
+                "I fell and fractured it two years ago. My then surgeon botched the operation and I have to use a walker to get around. If this new guy can do something I could walk properly again!"
+            ],
+            "hyp_response": "That ' s great ! I hope you find it !",
+            "ref_response": "Oh my god..I had doctors really mess me up too. I am in a lawsuit. Have you thought about contacting an attorney?",
+            "human_score": 3.0,
+            "GRADE_score": 2.95,
+            "QuantiDCE_score": 2.35
+        },
+        {
+            "context": [
+                "I watched The Lion King today with my daughter, reminded me of my childhood.",
+                "thats a good movie, cant wait for the live action version coming out"
+            ],
+            "hyp_response": "oh cool , did you see it ?",
+            "ref_response": "Yes! I'm excited for that as well. I watched the movie with my mom when it first came out!",
+            "human_score": 3.1,
+            "GRADE_score": 3.97,
+            "QuantiDCE_score": 3.39
+        },
+        {
+            "context": [
+                "Sounds like fund, you must be excited!",
+                "I am, I have been watching all my favorite movies."
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "I think I will need to do that, my TV is an oldy.  I am sure you will have a great time.",
+            "human_score": 3.8,
+            "GRADE_score": 3.91,
+            "QuantiDCE_score": 3.62
+        },
+        {
+            "context": [
+                "When I do things that are challenging I feel more self-reliant. I recently tried taking an ice bath",
+                "Oh man! thats impressive, those baths are rough."
+            ],
+            "hyp_response": "thats cool , i hope you have a great time",
+            "ref_response": "Yeah, my bath wasn't deep enough, so I didn't get covered all the way!",
+            "human_score": 3.2,
+            "GRADE_score": 3.54,
+            "QuantiDCE_score": 2.45
+        },
+        {
+            "context": [
+                "I just enjoyed grocery shopping for the first time in a very long time. I've found my perfect restaurant/store and spent a very happy 40 mins or so wandering around it.",
+                "That's great! Did you get anything you are especially excited about? It's a restaurant and a store?"
+            ],
+            "hyp_response": "oh thats cool , i hope you have a great time !",
+            "ref_response": "Yes, it's both. I got a chickpea curry with basmati rice that a local Indian lady made. And a bag of dragon tongue beans, which are delicious!",
+            "human_score": 3.2,
+            "GRADE_score": 3.42,
+            "QuantiDCE_score": 2.59
+        },
+        {
+            "context": [
+                "I woke up and the first thing I saw that my cat had decided to play with my shoes and ruin them!",
+                "Oh my, you must have been annoyed with your cat. I guess he just wanted your attention."
+            ],
+            "hyp_response": "oh thats cool",
+            "ref_response": "I was SO mad! I felt so bad being mad at him",
+            "human_score": 3.7,
+            "GRADE_score": 3.9,
+            "QuantiDCE_score": 3.32
+        },
+        {
+            "context": [
+                "Yeah it really does. It's even worse to try and close those accounts!",
+                "They don't want to. I lost mine or it was stolen. But all my autopay bills are at a standstill and the companies are not happy about it."
+            ],
+            "hyp_response": "oh thats a good way to go",
+            "ref_response": "Man that sounds really stressful...",
+            "human_score": 3.0,
+            "GRADE_score": 3.35,
+            "QuantiDCE_score": 2.53
+        },
+        {
+            "context": [
+                "This afternoon i went to my sons soccer game and he scored three goals! happiest dad ever!",
+                "I figure your son is pretty happy as well."
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "Yes! i love him so dad, but i feel like my own achievement since i teach him how to play, he dedicated the three goals to me!",
+            "human_score": 3.0,
+            "GRADE_score": 3.69,
+            "QuantiDCE_score": 3.33
+        },
+        {
+            "context": [
+                "oh, how nice. What are your plans in that regard for the future?",
+                "have my own restaurant"
+            ],
+            "hyp_response": "Oh that ' s cool !",
+            "ref_response": "What a dream come true for you that'll be.",
+            "human_score": 3.3,
+            "GRADE_score": 4.57,
+            "QuantiDCE_score": 3.94
+        },
+        {
+            "context": [
+                "I went to a court hearing for unemployment with my former employer, and I felt great about it since I was so prepared with all of the documents and everything I needed to show the court I was in the right for quitting.",
+                "Did it go your way?"
+            ],
+            "hyp_response": "oh thats cool",
+            "ref_response": "Yes, I actually ended up winning it and they gave me 6 months of unemployment pay.",
+            "human_score": 3.0,
+            "GRADE_score": 3.28,
+            "QuantiDCE_score": 2.52
+        },
+        {
+            "context": [
+                "So who annoyed you?",
+                "A guy budged in front of some other people, I confronted him about it, and we got into an extremely heated exchange."
+            ],
+            "hyp_response": "That ' s cool . How long did you take him ?",
+            "ref_response": "So did it result in a brawl?",
+            "human_score": 3.1,
+            "GRADE_score": 3.93,
+            "QuantiDCE_score": 3.22
+        },
+        {
+            "context": [
+                "If my upstairs neighbor wakes me at 3am again I think I'll explode! I get that she has to go to work, but why not get organized the night before for goodness sake?!",
+                "I know the feeling."
+            ],
+            "hyp_response": "thats a good thing to do",
+            "ref_response": "You too, huh? How do you nicely ask someone to shut up? Yelling at that time of day just wouldn't be right.",
+            "human_score": 3.0,
+            "GRADE_score": 3.67,
+            "QuantiDCE_score": 3.31
+        },
+        {
+            "context": [
+                "It's been a long week! My husband has been out of town and its been just me and a cranky toddler.",
+                "Will he be back soon?"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "I sure hope so! He's in the military so I never know when he'll get called on a mission :(",
+            "human_score": 3.0,
+            "GRADE_score": 3.36,
+            "QuantiDCE_score": 2.44
+        },
+        {
+            "context": [
+                "I drank a lot of alcohol at my friend's BBQ party, and I ended up puking and passing out. Not my finest moment.",
+                "Haha, I can relate to that. I did that too, and my friends took a wonderful photo of it. They like to stick it on our yearly Christmas cards to each other"
+            ],
+            "hyp_response": "thats a good thing to do",
+            "ref_response": "Hahahaha! Well, I guess we can make light of even our worst moments.",
+            "human_score": 3.5,
+            "GRADE_score": 3.79,
+            "QuantiDCE_score": 3.43
+        },
+        {
+            "context": [
+                "I'm looking forward to my best friend's surprise birthday party next week!",
+                "That sounds like so much fun! I love parties!"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "I'm really happy about it- she's a great friend and she's turning 40, so it's a big one!",
+            "human_score": 3.8,
+            "GRADE_score": 3.91,
+            "QuantiDCE_score": 3.18
+        },
+        {
+            "context": [
+                "Ugh! I hate it when stuff like that happens. Were you able to get a refund on your tickets?",
+                "No. We went ahead and went on. It actually turned out to be a great trip with zero incidents."
+            ],
+            "hyp_response": "oh wow thats cool",
+            "ref_response": "Awesome!!",
+            "human_score": 3.3,
+            "GRADE_score": 3.82,
+            "QuantiDCE_score": 3.41
+        },
+        {
+            "context": [
+                "Tomorrow is the big day, I have to deliver my proposal to the client.",
+                "Are you ready for it?"
+            ],
+            "hyp_response": "oh thats cool",
+            "ref_response": "I have been preparing for weeks, but in the back of my mind I still have doubts.",
+            "human_score": 3.2,
+            "GRADE_score": 3.13,
+            "QuantiDCE_score": 2.59
+        },
+        {
+            "context": [
+                "I'm so excited about an upcoming move and life change -- it's a move to a verrrry different state, but should be interesting!",
+                "What state are you going to move to?"
+            ],
+            "hyp_response": "That ' s great ! I hope you have a great time !",
+            "ref_response": "Potentially Alaska -- Anchorage, to be specific. We've lived in different places before -- Amsterdam, Zurich, and Hong Kong. And even though it's a US state, it feels foreign somehow!",
+            "human_score": 3.0,
+            "GRADE_score": 2.37,
+            "QuantiDCE_score": 2.19
+        },
+        {
+            "context": [
+                "Honestly? I have a pretty special nephew. He just solved the Navier-Stokes existence and smoothness Millenium Prize problem.",
+                "Holy moses, he must be as smart as me. I solved that thing in five minutes last week. Child's play."
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "Child's play is right, the kid is only 6 years old. And you couldn't have, because the Clay Institute says the million dollar prize is still at large, which I'm sure he will be blowing immediately on Tropical Sprite and cocaine.",
+            "human_score": 3.18,
+            "GRADE_score": 3.87,
+            "QuantiDCE_score": 3.64
+        },
+        {
+            "context": [
+                "I was trying to take a nap, but my cat kept on trying to play with my head.",
+                "I love cats."
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "I usually love mine, but not when it is keeping me from sleeping",
+            "human_score": 3.55,
+            "GRADE_score": 3.54,
+            "QuantiDCE_score": 3.31
+        },
+        {
+            "context": [
+                "Honestly? I have a pretty special nephew. He just solved the Navier-Stokes existence and smoothness Millenium Prize problem.",
+                "Holy moses, he must be as smart as me. I solved that thing in five minutes last week. Child's play."
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "Child's play is right, the kid is only 6 years old. And you couldn't have, because the Clay Institute says the million dollar prize is still at large, which I'm sure he will be blowing immediately on Tropical Sprite and cocaine.",
+            "human_score": 3.64,
+            "GRADE_score": 3.87,
+            "QuantiDCE_score": 3.64
+        },
+        {
+            "context": [
+                "You won't believe the day I've had! I got to sleep in this morning, I haven't done that in months!",
+                "Its always nice to get some sleep"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "Yes, my husband even cooked dinner for me today, and helped clean the house! He has been very helpful today.",
+            "human_score": 3.9,
+            "GRADE_score": 3.46,
+            "QuantiDCE_score": 3.11
+        },
+        {
+            "context": [
+                "I ended up staying at home for the holidays",
+                "why is that? comfort ?"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "No all my family lives out of state. I didn't feel like traveling, but I just ended up sitting at home and watching lord of the rings in the dark.",
+            "human_score": 3.0,
+            "GRADE_score": 3.56,
+            "QuantiDCE_score": 3.41
+        },
+        {
+            "context": [
+                "my son just used a potty for the first time! he is only 16 months. i'm so proud of him",
+                "Watch out! Next thing you turn around, and he's driving."
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "I know! they  grow up so fast! I feel like i just gave a birth to him and look at him now",
+            "human_score": 3.0,
+            "GRADE_score": 3.81,
+            "QuantiDCE_score": 3.62
+        },
+        {
+            "context": [
+                "I understand, but coming at me head on, on a two lane highway, while I'm on a bridge with nowhere to go is not cool.",
+                "I cant imagine how scared you must have been."
+            ],
+            "hyp_response": "thats cool , i hope you have a great time !",
+            "ref_response": "Uh oh, did he destroy something? Sounds as though he misbehaved a bit.",
+            "human_score": 3.0,
+            "GRADE_score": 3.26,
+            "QuantiDCE_score": 2.56
+        },
+        {
+            "context": [
+                "OKay. I care for everyone",
+                "well you sound like a good person"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "Thanks, I hope I am. You sound like one too",
+            "human_score": 3.2,
+            "GRADE_score": 3.87,
+            "QuantiDCE_score": 3.36
+        },
+        {
+            "context": [
+                "I love youtube. been listening to all my classic tracks. Tupac forever",
+                "I love me some Tupac. Real talk."
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "I started out with one hit wonders but ended up at Pac. I miss my youth lol",
+            "human_score": 3.0,
+            "GRADE_score": 3.88,
+            "QuantiDCE_score": 3.61
+        },
+        {
+            "context": [
+                "I'm so proud of my wife",
+                "i bet she's a wonderful woman"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "She really is",
+            "human_score": 3.2,
+            "GRADE_score": 3.41,
+            "QuantiDCE_score": 2.67
+        },
+        {
+            "context": [
+                "I feel like deepening my connection to God is the most important thing in my life",
+                "I think that is a lovely thing"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "It's like if I don't get that sorted out I won't be able to live a fulfilling life",
+            "human_score": 3.2,
+            "GRADE_score": 3.37,
+            "QuantiDCE_score": 2.96
+        },
+        {
+            "context": [
+                "The other night I was driving home in the rain and slid into the guard rail. It is going to cost so much to get my car fixed!",
+                "Oh man, now that sucks! You gotta be careful on those wet roads. At least you're okay."
+            ],
+            "hyp_response": "thats a good thing to do",
+            "ref_response": "I know, I will have to be more careful next time. I shouldn't eat ice-cream while driving,",
+            "human_score": 3.8,
+            "GRADE_score": 3.76,
+            "QuantiDCE_score": 3.36
+        },
+        {
+            "context": [
+                "I got to go to a cat cafe when no one else was around!",
+                "I've been to one before with my girlfriend, what an amazing experience eh?"
+            ],
+            "hyp_response": "thats cool , i hope you have a good time",
+            "ref_response": "It was! I was the only one around so all the cats came to spend time with me",
+            "human_score": 3.1,
+            "GRADE_score": 3.33,
+            "QuantiDCE_score": 3.11
+        },
+        {
+            "context": [
+                "I'm gonna take the family out to the lake this weekend, we might rent a boat.",
+                "That sounds like a great way to spend the weekend.  What type of boat are you thinking about renting?"
+            ],
+            "hyp_response": "That ' s great ! I bet you ' re happy !",
+            "ref_response": "Maybe a pontoon boat, depends on what they have. Should be a nice way to unwind.",
+            "human_score": 3.1,
+            "GRADE_score": 2.35,
+            "QuantiDCE_score": 2.34
+        },
+        {
+            "context": [
+                "Wow, that is sweet of him, does he have a crush on you?",
+                "It was a nice gesture on his part. But I do not know"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "Huh, well maybe he is starting his campaign lol",
+            "human_score": 3.5,
+            "GRADE_score": 3.47,
+            "QuantiDCE_score": 2.6
+        },
+        {
+            "context": [
+                "Nothing really! I just love that I can work at home and have time to clean or cook whenever I want.",
+                "I work from home too.  Its so nice to be able to do laundry and things on my breaks.  Im so productive around the house"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "Right? And no having to interact with others unless we choose too.",
+            "human_score": 3.7,
+            "GRADE_score": 4.09,
+            "QuantiDCE_score": 3.27
+        },
+        {
+            "context": [
+                "A good friend of mine moved away recently and we lost contact. I really wish we would still speak.",
+                "I know how that feels. Maybe try reaching out."
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "That's a good idea. Maybe I'll try that soon.",
+            "human_score": 3.2,
+            "GRADE_score": 3.84,
+            "QuantiDCE_score": 2.99
+        },
+        {
+            "context": [
+                "I wore wrong pair of socks to the college. But, no was there to spot it. But, when we have to go in for a church we have to first remove the shoes. At, that time friend of mine spotted with with wrong pair of shoes. They made a fun of me. That was very awkward situation.",
+                "Oh that sucks :( Maybe organize the socks better?"
+            ],
+            "hyp_response": "That sounds like a lot of fun .",
+            "ref_response": "My room was messy as there was a party last night in my house and friends were enjoying in whole house. That is the reason.",
+            "human_score": 3.0,
+            "GRADE_score": 3.56,
+            "QuantiDCE_score": 2.65
+        },
+        {
+            "context": [
+                "So I asked out a girl in my class and she said yes. Was a big morale boost.",
+                "im glad to hear that!"
+            ],
+            "hyp_response": "oh thats cool",
+            "ref_response": "Thanks! We are getting coffee this weekend. Hopefully something comes of it!",
+            "human_score": 3.2,
+            "GRADE_score": 4.26,
+            "QuantiDCE_score": 3.46
+        },
+        {
+            "context": [
+                "oopsy. I hope it was worth it.",
+                "It might not be when my wife returns and sees it gone. I look super guilty right now."
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "LOL! Can  you run out and get another pie before she gets home?",
+            "human_score": 3.0,
+            "GRADE_score": 3.62,
+            "QuantiDCE_score": 2.64
+        },
+        {
+            "context": [
+                "I see, you must have felt hopeful",
+                "I gave thanks in spite of the difficulties"
+            ],
+            "hyp_response": "thats cool",
+            "ref_response": "Good, one should always be positive",
+            "human_score": 3.5,
+            "GRADE_score": 3.23,
+            "QuantiDCE_score": 2.61
+        },
+        {
+            "context": [
+                "I tripped and fell in front of some people.",
+                "Ouch! Was it a serious fall?"
+            ],
+            "hyp_response": "Oh that ' s terrible . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+            "ref_response": "No, only my pride was injured.",
+            "human_score": 3.1,
+            "GRADE_score": 3.88,
+            "QuantiDCE_score": 3.12
+        },
+        {
+            "context": [
+                "Are you cleaning out a house or do you not have garbage pick-up?",
+                "The company in my city just quit picking up for any of the residents, so the dump has a line every day."
+            ],
+            "hyp_response": "oh thats cool",
+            "ref_response": "That is insane! I've never heard of anything like that before.  You all should start protesting!",
+            "human_score": 3.0,
+            "GRADE_score": 3.63,
+            "QuantiDCE_score": 3.64
+        }
+    ],
+    "score ∈ [4.0, 5.0)": [
+        {
+            "context": [
+                "I worked hard all night for that exam. it takes 5 months to get the results back. the wait is killing me",
+                "I hope you did well on it."
+            ],
+            "hyp_response": "That is the confidence to have!",
+            "ref_response": "5 months to find out !",
+            "human_score": 4.11,
+            "GRADE_score": 4.0,
+            "QuantiDCE_score": 3.36
+        },
+        {
+            "context": [
+                "My partner left me the other day.",
+                "That's rough, I'm sorry to hear that"
+            ],
+            "hyp_response": "Being a punching bag in a relationship is no good. It's a 2 way street. Is your partner doing their part?",
+            "ref_response": "That's fine, its not your problem. i just feel very lonely right now.",
+            "human_score": 4.1,
+            "GRADE_score": 3.19,
+            "QuantiDCE_score": 3.0
+        },
+        {
+            "context": [
+                "I see, you must have felt hopeful",
+                "I gave thanks in spite of the difficulties"
+            ],
+            "hyp_response": "Thats what you should do",
+            "ref_response": "Good, one should always be positive",
+            "human_score": 4.1,
+            "GRADE_score": 3.52,
+            "QuantiDCE_score": 2.85
+        }
+    ]
+}

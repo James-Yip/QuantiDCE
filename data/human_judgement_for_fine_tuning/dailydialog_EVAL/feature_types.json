@@ -1,0 +1,21 @@
+{
+    "input_ids": [
+        "int64",
+        "stacked_tensor",
+        128
+    ],
+    "token_type_ids": [
+        "int64",
+        "stacked_tensor",
+        128
+    ],
+    "attention_mask": [
+        "int64",
+        "stacked_tensor",
+        128
+    ],
+    "human_score": [
+        "float32",
+        "stacked_tensor"
+    ]
+}
