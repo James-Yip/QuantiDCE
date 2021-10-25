@@ -148,7 +148,8 @@ class Evaluator:
         predicted_scores = []
         human_scores = []
         for sample in eval_data:
-            predicted_score = self.metric_model.get_score(sample)
+            predicted_score = self.metric_model.get_score(
+                sample['context'], sample['hyp_response'])
             human_score = sample['human_score']
             predicted_scores.append(predicted_score)
             human_scores.append(human_score)

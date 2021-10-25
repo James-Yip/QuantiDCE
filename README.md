@@ -74,4 +74,10 @@ bash eval.sh
 ```
 
 ## Inference
-Coming soon.
+The `get_score` method in `./model/bert_metric.py` outputs the coherence score of a response w.r.t. a context.
+
+In detail, `infer.py` provide an example about how to use QuantiDCE, just run the following command to see the result:
+```
+cd ./script
+bash infer.sh
+```
