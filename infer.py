@@ -2,7 +2,6 @@
 
 import util.opt as opt
 import util.main_utils as main_utils
-from evaluation.evaluator import Evaluator
 
 
 if __name__ == '__main__':
