@@ -1,4 +1,4 @@
-"""Startup script for evaluating metric models."""
+"""An example about how to use QuantiDCE."""
 
 import util.opt as opt
 import util.main_utils as main_utils
